@@ -1,0 +1,1172 @@
+<!DOCTYPE html>
+<html amp lang="ar" dir="rtl" prefix="og: http://ogp.me/ns#" transformed="self;v=1" i-amphtml-layout="" i-amphtml-no-boilerplate="" i-amphtml-binding>
+	<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,minimum-scale=1"><style amp-runtime="" i-amphtml-version="012512221826001">html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
+/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
+/*# sourceURL=/css/ampshared.css*/</style><meta id="descriptionIdForServer1" name="description" content="أبواب كلادينج: أبواب كلادينج عازله للحراره والصوت على ربرات عازله للغبار والحشرات السعر يبدأ من 1350 ريال للمتر المربع للتواصل 0567877210"><meta id="keywordsIdForServer1" name="keywords" content="أبواب, كلادينج, عازله, للحراره, والصوت, ربرات, للغبار, والحشرات, السعر, يبدأ, 1350, ريال, للمتر, المربع, للتواصل, 0567877210"><meta id="descriptionIdForServer2" property="og:description" content="أبواب كلادينج: أبواب كلادينج عازله للحراره والصوت على ربرات عازله للغبار والحشرات السعر يبدأ من 1350 ريال للمتر المربع للتواصل 0567877210"><meta id="openGraphUrlForServer" property="og:url" content="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119"><meta id="twitterCardTypeIdForServer" name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@mstaml_com"><meta name="twitter:site:id" content="440764810"><meta name="twitter:app:name:iphone" content=""><meta name="twitter:app:id:iphone" content="1061118094"><meta name="twitter:app:name:ipad" content=""><meta name="twitter:app:id:ipad" content="1061118094"><meta name="twitter:app:name:googleplay" content=""><meta name="twitter:app:id:googleplay" content="com.mstaml.App"><meta id="titleIdForServer2" property="og:title" content="أبواب كلادينج - مستعمل"><meta id="titleIdForServer3" name="title" content="أبواب كلادينج - مستعمل"><meta id="imageIdForServer" property="og:image" content="https://img.mstaml.com/i172413610695190049/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg"><meta id="imageAltIdForServer" property="og:image:alt" content="أبواب كلادينج"><meta id="imageWidthIdForServer" property="og:image:width" content="728"><meta id="imageHeightIdForServer" property="og:image:height" content="1200"><meta property="og:site_name" content=""><meta property="og:locale" content="ar_SA"><meta name="theme-color" content="#10598E"><meta name="apple-mobile-web-app-title" content=""><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-itunes-app" content="app-id=1061118094"><link rel="preconnect" href="https://images.mstaml.com"><link fetchpriority="high" rel="preload" as="image" href="https://img.mstaml.com/i172413610695190049/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg"><script async src="https://cdn.ampproject.org/v0.mjs" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0.js" crossorigin="anonymous"></script><script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.mjs" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" crossorigin="anonymous" custom-element="amp-analytics"></script><script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.mjs" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-bind-0.1.js" crossorigin="anonymous" custom-element="amp-bind"></script><script async custom-element="amp-install-serviceworker" src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.mjs" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js" crossorigin="anonymous" custom-element="amp-install-serviceworker"></script><script async custom-element="amp-lightbox-gallery" src="https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.mjs" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.js" crossorigin="anonymous" custom-element="amp-lightbox-gallery"></script><script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.mjs" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" crossorigin="anonymous" custom-element="amp-sidebar"></script><link rel="icon" type="image/x-icon" href="https://www.mstaml.com/favicon-2024-12-24.ico"><style amp-custom>
+			.menu .menuHeader,.menu .menuBody .rightMenuTopOptions .roundedDiv,.menu .menuBody .rightMenuTopOptions .menuPagesContainer,.flex-container,.pageFooter.pageFooter.tabs ul li a,.tabs.tabs.footerForMobile.tabs ul li a,.footerForDesktop footer .socialMediaContainer,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerMiddleButtons,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton,.pageFooter.pageFooter.tabs ul li a.addAdLink .addAdCircleButton,.tabs.tabs.footerForMobile.tabs ul li a.addAdLink .addAdCircleButton,.footerForDesktop footer .imgAndDescContainer .descContainer,.footerForDesktop footer .socialMediaContainer .menuSocialLinks a,.downloadAppFrom{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-direction:normal;-webkit-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;-moz-justify-content:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;text-align:center}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-direction:normal;-webkit-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:start;-ms-flex-pack:start;-webkit-justify-content:flex-start;-moz-justify-content:flex-start;justify-content:flex-start;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;text-align:start}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-direction:normal;-webkit-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:end;-ms-flex-pack:end;-webkit-justify-content:flex-end;-moz-justify-content:flex-end;justify-content:flex-end;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;text-align:end}.verticalCenterContainer,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketForumItemSearchBar,.itemSearchBar,.iconAndTextContainer{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-direction:normal;-webkit-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:start;-ms-flex-pack:start;-webkit-justify-content:flex-start;-moz-justify-content:flex-start;justify-content:flex-start;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}@media (min-width: 1200px){.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketLocationButton,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton.mobileSearchButton,.pageHeader.pageFooter.tabs,.pageHeader.tabs.footerForMobile,.pageFooter.tabs,.pageFooter.tabs.footerForMobile,.tabs.footerForMobile,.likeItemsBody:not(.relatedAdsCase) .itemSearchBar,body:not(.forumMode) .relatedAdsCase .itemSearchBar{display:none}}@media (max-width: 1199px){.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .marketLocationButton,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketForumItemSearchBar,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .itemSearchBar,.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton.refreshButton,.footerForDesktop{display:none}}body{font-family:system-ui;color:#333334;line-height:1.6;margin:0;word-break:break-word}body h1,body h2,body h3,body h4,body h5,body h6{line-height:1.3}*{box-sizing:border-box}a{color:#10598E;text-decoration:none}body.forumMode a{color:#28613B}a:hover{opacity:.75}.appContainer{overflow:hidden}.appContainer .menuContainer .menu{width:304px}.pageContainer{min-height:100vh;padding-top:45px;padding-bottom:30px}body.itemPage .pageContainer{background-color:#fafafa}body:not(.itemPage) .pageContainer{background-color:#fff}@media (min-width: 1200px){body:not(.itemPage) .pageContainer{background-color:#fafafa}}@media (min-width: 1200px){.pageContainer{padding-top:65px}}@media (max-width: 1199px){.pageContainer{padding-bottom:90px}}body.hideNavigationInPaymentPage .pageContainer{padding-bottom:0}.pageContainer .pageBody{font-size:18px;text-align:start}@media (min-width: 1200px){body.itemPage .pageContainer .pageBody{padding-inline-end:80px;padding-inline-start:80px}}body:not(.itemPage) .pageContainer .pageBody{padding-top:0;padding-bottom:0}@media (min-width: 1200px){body:not(.itemPage) .pageContainer .pageBody{padding-top:20px}}@media (min-width: 1200px){body:not(.itemPage) .pageContainer .pageBody{padding-bottom:20px}}@media (min-width: 992px){body:not(.itemPage) .pageContainer .pageBody{padding-inline-end:80px;padding-inline-start:80px}}@media (min-width: 1200px){body:not(.itemPage) .pageContainer .pageBody{padding-inline-end:160px;padding-inline-start:160px}}.menu{position:absolute;background:#10598E linear-gradient(90deg, #10598E, #286a99);inset-block:0;inset-inline-start:0}body.forumMode .menu{background:#28613B linear-gradient(90deg, #28613B, #3e714f)}.menu .menuHeader{border-bottom:1px solid rgba(0,0,0,0.2);background:#10598E linear-gradient(90deg, #10598E, #286a99);height:50px;position:absolute;inset-block-start:0;inset-inline:0;z-index:1}body.forumMode .menu .menuHeader{background:#28613B linear-gradient(90deg, #28613B, #3e714f)}.menu .menuBody{height:100%;scrollbar-width:none;overflow-y:scroll;overflow-x:hidden;position:relative;padding-top:50px}.menu .menuBody::-webkit-scrollbar{width:0;height:0}.menu .menuBody .rightMenuTopOptions{padding:10px}.menu .menuBody .rightMenuTopOptions amp-img{margin-bottom:5px}.menu .menuBody .rightMenuTopOptions .roundedDiv{border-radius:5px;background-color:white;width:100%;height:100%}.menu .menuBody .rightMenuTopOptions .menuPagesContainer{flex-wrap:wrap}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .pageLink{flex:0 0 50%;height:128px;font-size:17px;padding:4px}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .pageLink:hover{opacity:1}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .pageLink.selected .roundedDiv{background-color:#10598E;color:white}body.forumMode .menu .menuBody .rightMenuTopOptions .menuPagesContainer .pageLink.selected .roundedDiv{background-color:#28613B}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .pageLink:not(.selected) .roundedDiv{color:#10598E}body.forumMode .menu .menuBody .rightMenuTopOptions .menuPagesContainer .pageLink:not(.selected) .roundedDiv{color:#28613B}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .smallLink .roundedDiv{padding:10px}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .smallLink .roundedDiv:hover,.menu .menuBody .rightMenuTopOptions .menuPagesContainer .smallLink .roundedDiv:active{opacity:.75}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .smallLink .roundedDiv .titleContainer{display:flex;align-items:center;flex-direction:column}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .smallLink .roundedDiv .titleContainer .pageName{font-size:16px;font-weight:500;line-height:20px}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .addAdBigLink{flex:0 0 100%;height:auto;padding-inline:0}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .addAdBigLink .roundedDiv{height:56px;background-color:#28613B}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .addAdBigLink .roundedDiv:hover{background-color:#3e714f}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .addAdBigLink .roundedDiv .iconAndTextContainer{color:white;font-size:20px}.menu .menuBody .rightMenuTopOptions .menuPagesContainer .addAdBigLink .roundedDiv .iconAndTextContainer amp-img{margin-bottom:0}body.forumMode .menu .menuBody .rightMenuTopOptions .menuPagesContainer .addAdBigLink .roundedDiv{background-color:white}body.forumMode .menu .menuBody .rightMenuTopOptions .menuPagesContainer .addAdBigLink .roundedDiv:hover{background-color:white;opacity:.75}body.forumMode .menu .menuBody .rightMenuTopOptions .menuPagesContainer .addAdBigLink .roundedDiv .iconAndTextContainer{color:#28613B}.menu .menuBody .rightMenuTopOptions .menuSocialLinksContainer{background-color:white;border-radius:5px;height:132px;padding:10px;margin-top:10px;color:#333334;font-size:12px}.menu .menuBody .rightMenuTopOptions .menuSocialLinksContainer .roundedDiv>div{width:100%}.menu .menuBody .rightMenuTopOptions .menuSocialLinksContainer .roundedDiv .menuSocialLinks{display:flex}.menu .menuBody .rightMenuTopOptions .menuSocialLinksContainer .roundedDiv .menuSocialLinks a{flex:1 1;color:#10598E}body.forumMode .menu .menuBody .rightMenuTopOptions .menuSocialLinksContainer .roundedDiv .menuSocialLinks a{color:#28613B}.menu .menuBody .rightMenuBottomOptions{text-align:center}.menu .menuBody .rightMenuBottomOptions>div:first-child{padding-top:15px;line-height:0}.menu .menuBody .rightMenuBottomOptions>div:first-child a{margin:4px;display:inline-block}.menu .menuBody .rightMenuBottomOptions>div:last-child{padding-block:14px 30px;padding-inline:0;color:white;font-size:20px}.wng,.don{text-align:start;font-size:15px;font-weight:bold;margin-bottom:20px}.wng{color:#B30A0A}.don{color:#28613B}.p16{padding:16px}.cWhite{color:white}.f0{font-size:0}.breadCrumbList{font-size:13px;margin:0;text-align:center;padding:10px;position:relative}.noScriptImage{max-width:100%}.pageHeader,.pageFooter,.tabs{position:fixed;inset-inline:0;z-index:10}.pageHeader.pageHeader,.pageFooter.pageHeader,.tabs.pageHeader{outline:none;text-align:start;background:#10598E linear-gradient(90deg, #10598E, #286a99);top:0;color:white;border-bottom:1px solid rgba(0,0,0,0.2)}body.forumMode .pageHeader.pageHeader,body.forumMode .pageFooter.pageHeader,body.forumMode .tabs.pageHeader{background:#28613B linear-gradient(90deg, #28613B, #3e714f)}.pageHeader.pageHeader a,.pageFooter.pageHeader a,.tabs.pageHeader a{color:white}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle{padding:3px 4px;display:flex;height:45px;font-size:17px;line-height:25px}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle>div,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle>div,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle>div{flex:1 1}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs{width:calc(100vw - 531px);position:static;height:46px}@media (min-width: 1200px){.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs{width:41vw}}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul{display:flex;margin:0;padding:0}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li{display:flex;flex:1 1}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a{width:100%;height:46px}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.selected,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.selected,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.selected{color:#10598E;background-color:white}body.forumMode .pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.selected,body.forumMode .pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.selected,body.forumMode .tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.selected{color:#28613B}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink{background-color:#28613B}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink:hover .addAdCircleButton,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink:hover .addAdCircleButton,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink:hover .addAdCircleButton{background-color:#286a99;background:#286a99}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink .addAdCircleButton,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink .addAdCircleButton,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li a.addAdLink .addAdCircleButton{display:none}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li.moreLink,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li.moreLink,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .tabs ul li.moreLink{display:none}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton{border:0;background:white;color:#8cbad9;margin-inline-start:-4px;width:62px;cursor:pointer}body.forumMode .pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton,body.forumMode .pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton,body.forumMode .tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton{color:#76c68b}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton amp-img,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton amp-img,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton amp-img{margin:10px;position:relative}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton amp-img:before,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton amp-img:before,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerRightButtons .menuButton amp-img:before{content:"";border-bottom:30px solid #fff;border-inline-start:30px solid transparent;position:absolute;bottom:0;inset-inline-start:4px;z-index:1}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons a,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons a,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons a{margin:0 2px}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketForumItemSearchBar,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketForumItemSearchBar,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketForumItemSearchBar{height:36px;border-radius:5px;text-align:start;padding-inline-start:10px;color:#525252;position:relative;background-color:#f4f4f4;font-size:15px;width:58%;max-width:217px;margin:5px 12px;white-space:nowrap;overflow:hidden;padding-inline-end:40px}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketForumItemSearchBar amp-img,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketForumItemSearchBar amp-img,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .marketForumItemSearchBar amp-img{position:absolute;inset-inline-end:10px}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .itemSearchBar,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .itemSearchBar,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerLeftButtons .itemSearchBar{color:#525252;max-width:327px;width:58%;height:36px}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerMiddleButtons,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerMiddleButtons,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerMiddleButtons{font-size:17px;font-weight:normal}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton{padding:0 5px}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton:hover,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton:hover,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton:hover{opacity:.75}.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton.logoButton,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton.logoButton,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton.logoButton{padding:0 5px}@media (min-width: 1200px){.pageHeader.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton.logoButton,.pageFooter.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton.logoButton,.tabs.pageHeader .pageHeaderContent .pageHeaderTitle .headerButton.logoButton{padding-block:5px 0;padding-inline:25px}}.pageHeader.pageFooter,.pageHeader.tabs.footerForMobile,.pageFooter.pageFooter,.pageFooter.tabs.footerForMobile,.tabs.pageFooter,.tabs.tabs.footerForMobile{font-weight:bold;text-align:center;bottom:0;line-height:24px;background-color:white}.pageHeader.pageFooter.pageFooter,.pageHeader.tabs.footerForMobile.pageFooter,.pageFooter.pageFooter.pageFooter,.pageFooter.tabs.footerForMobile.pageFooter,.tabs.pageFooter.pageFooter,.tabs.tabs.footerForMobile.pageFooter{box-shadow:0 -1px 6px rgba(0,0,0,0.16);font-weight:normal}.pageHeader.pageFooter.tabs,.pageHeader.tabs.footerForMobile.tabs,.pageFooter.pageFooter.tabs,.pageFooter.tabs.footerForMobile.tabs,.tabs.pageFooter.tabs,.tabs.tabs.footerForMobile.tabs{height:50px;box-shadow:0 1px 6px rgba(0,0,0,0.16)}.pageHeader.pageFooter.tabs ul,.pageHeader.tabs.footerForMobile.tabs ul,.pageFooter.pageFooter.tabs ul,.pageFooter.tabs.footerForMobile.tabs ul,.tabs.pageFooter.tabs ul,.tabs.tabs.footerForMobile.tabs ul{display:flex;margin:0;padding:0;font-size:11px}.pageHeader.pageFooter.tabs ul li,.pageHeader.tabs.footerForMobile.tabs ul li,.pageFooter.pageFooter.tabs ul li,.pageFooter.tabs.footerForMobile.tabs ul li,.tabs.pageFooter.tabs ul li,.tabs.tabs.footerForMobile.tabs ul li{display:flex;flex:1 1}.pageHeader.pageFooter.tabs ul li a,.pageHeader.tabs.footerForMobile.tabs ul li a,.pageFooter.pageFooter.tabs ul li a,.pageFooter.tabs.footerForMobile.tabs ul li a,.tabs.pageFooter.tabs ul li a,.tabs.tabs.footerForMobile.tabs ul li a{flex-direction:column;width:100%;color:#595959;border-top:2px solid white}.pageHeader.pageFooter.tabs ul li a.selected,.pageHeader.tabs.footerForMobile.tabs ul li a.selected,.pageFooter.pageFooter.tabs ul li a.selected,.pageFooter.tabs.footerForMobile.tabs ul li a.selected,.tabs.pageFooter.tabs ul li a.selected,.tabs.tabs.footerForMobile.tabs ul li a.selected{border-top-color:#10598E;color:#10598E}body.forumMode .pageHeader.pageFooter.tabs ul li a.selected,body.forumMode .pageHeader.tabs.footerForMobile.tabs ul li a.selected,body.forumMode .pageFooter.pageFooter.tabs ul li a.selected,body.forumMode .pageFooter.tabs.footerForMobile.tabs ul li a.selected,body.forumMode .tabs.pageFooter.tabs ul li a.selected,body.forumMode .tabs.tabs.footerForMobile.tabs ul li a.selected{border-top-color:#28613B}body.forumMode .pageHeader.pageFooter.tabs ul li a.selected,body.forumMode .pageHeader.tabs.footerForMobile.tabs ul li a.selected,body.forumMode .pageFooter.pageFooter.tabs ul li a.selected,body.forumMode .pageFooter.tabs.footerForMobile.tabs ul li a.selected,body.forumMode .tabs.pageFooter.tabs ul li a.selected,body.forumMode .tabs.tabs.footerForMobile.tabs ul li a.selected{color:#28613B}.pageHeader.pageFooter.tabs ul li a.addAdLink,.pageHeader.tabs.footerForMobile.tabs ul li a.addAdLink,.pageFooter.pageFooter.tabs ul li a.addAdLink,.pageFooter.tabs.footerForMobile.tabs ul li a.addAdLink,.tabs.pageFooter.tabs ul li a.addAdLink,.tabs.tabs.footerForMobile.tabs ul li a.addAdLink{padding-top:24px}.pageHeader.pageFooter.tabs ul li a.addAdLink .addAdCircleButton,.pageHeader.tabs.footerForMobile.tabs ul li a.addAdLink .addAdCircleButton,.pageFooter.pageFooter.tabs ul li a.addAdLink .addAdCircleButton,.pageFooter.tabs.footerForMobile.tabs ul li a.addAdLink .addAdCircleButton,.tabs.pageFooter.tabs ul li a.addAdLink .addAdCircleButton,.tabs.tabs.footerForMobile.tabs ul li a.addAdLink .addAdCircleButton{background:#28613B linear-gradient(90deg, #28613B 0%, #3e714f 100%);height:62px;width:62px;border:3px solid white;top:-30px;border-radius:50%;position:absolute;inset-inline-end:calc(50% - 31px);color:white}.itemSearchBar{height:42px;border-radius:8px;text-align:start;padding:0 55px;position:relative;background-color:white;font-size:14px;margin:5px 8px;white-space:nowrap;overflow:hidden;box-shadow:rgba(0,0,0,0.16) 0px 1px 6px 0px}body.forumMode .itemSearchBar,.itemSearchBar{color:#525252}.itemSearchBar amp-img{position:absolute;inset-inline-start:15px}.none{display:none}.iconAndTextContainer{white-space:nowrap;padding:6px 6px}.iconAndTextContainer>amp-img{margin-inline:-6px 6px}.iconAndTextContainer.leftText{text-align:end}.iconAndTextContainer.leftText amp-img{margin-inline:6px -6px}.iconAndTextContainer>span{overflow:hidden;text-overflow:ellipsis}.scrollHash{position:relative;top:-45px}amp-sidebar{width:304px}.footerForDesktop footer{background-color:#10598E}body.forumMode .footerForDesktop footer{background-color:#28613B}.footerForDesktop footer,.footerForDesktop footer a,body.forumMode .footerForDesktop footer a{color:#FFF}.footerForDesktop footer .wrapper{width:80%;margin:auto;padding-top:20px;padding-bottom:20px}.footerForDesktop footer .wrapper hr{margin:10px 0;height:2px;background-color:#8cbad9;border:none}body.forumMode .footerForDesktop footer .wrapper hr{background-color:#76c68b}.footerForDesktop footer .wrapper .rightsNote{padding-top:10px}.footerForDesktop footer .wrapper .rightsNote small{font-size:13px;line-height:1.6}.footerForDesktop footer .upperSection section{padding-inline-start:5px;padding-inline-end:5px}.footerForDesktop footer .upperSection,.footerForDesktop footer .lowerSection{display:flex;justify-content:space-between;font-size:15px}.footerForDesktop footer .upperSection.lowerSection>div,.footerForDesktop footer .lowerSection.lowerSection>div{padding-inline-start:5px;padding-inline-end:5px}.footerForDesktop footer .upperSection.lowerSection h2,.footerForDesktop footer .lowerSection.lowerSection h2{margin:0;padding-bottom:10px;font-size:18px;line-height:1.6}.footerForDesktop footer .imgAndDescContainer{display:flex}.footerForDesktop footer .imgAndDescContainer .descContainer{margin:0 20px;text-align:start;font-size:13px;max-width:700px}.footerForDesktop footer .socialMediaContainer{padding-top:10px;line-height:15px;flex-direction:column;align-items:start}.footerForDesktop footer .socialMediaContainer small{font-size:11px}.footerForDesktop footer .socialMediaContainer .menuSocialLinks{display:flex}.footerForDesktop footer .socialMediaContainer .menuSocialLinks a{margin-block:4px;margin-inline:2px 10px;height:48px}.footerForDesktop footer .socialMediaContainer .menuSocialLinks a:last-child{margin-inline-end:2px}.footerForDesktop footer ul{list-style-type:none;margin:0;padding:0}.downloadAppFrom{flex-wrap:wrap}.downloadAppFrom a{line-height:0;margin:5px}.downloadAppFrom a:first-child{margin-inline-start:0}.downloadAppFrom a:last-child{margin-inline-end:0}html[dir="ltr"] .rotateByDirection{transform:rotate(180deg)}.amp-sidebar-mask{cursor:pointer}.nowrap{white-space:nowrap}
+
+				.threadDiv .threadContent .threadHeader .threadNumber,.threadsControllerContainer>div .threadsController>div,.pageBody .iconInsideSquare,.pageBody .itemContent .adInfoCard .titleAndMoneyContainer .priceContainer .priceDetailsContainer,.pageBody .itemContent .ownerDetails .ownerContactButtons>a,.pageBody .itemContent .likeItemsBody .showMoreLink,.pageBody .itemContent .threadsAndLikeItemsDiv .repliesRatingContainer button,.pageBody .itemContent .threadsAndLikeItemsDiv .addThreadLink .addThreadSendIconContainer,.addAdBanner,.addAdBanner>div .bannerAction>.bannerActionLink,.personIconWithOnlineStatusContainer{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-direction:normal;-webkit-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;-moz-justify-content:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;text-align:center}.marketForumListItem .title .itemInfoRow,.pageBody .itemContent .adInfoCard .titleAndMoneyContainer .title,.pageBody .itemContent .threadsAndLikeItemsDiv .addThreadLink .addThreadPlaceHolder{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-direction:normal;-webkit-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:start;-ms-flex-pack:start;-webkit-justify-content:flex-start;-moz-justify-content:flex-start;justify-content:flex-start;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}@media (min-width: 1200px){.breadCrumbList.inFooterCase{display:none}}.threadDiv{margin-block:0 10px;margin-inline:10px;border-radius:5px}.threadDiv .itemOwnerTag{color:#595959;font-size:10px;vertical-align:middle}.threadDiv.isReplay{position:relative;padding-inline-start:20px;margin-top:10px}.threadDiv:not(.isReplay){box-shadow:0 1px 6px rgba(0,0,0,0.16)}.threadDiv .threadContent{padding:10px}.threadDiv .threadContent .iconAndTextContainer{padding:0}.threadDiv .threadContent .threadHeader{display:flex}.threadDiv .threadContent .threadHeader .deletedThreadUsername{opacity:0.3}.threadDiv .threadContent .threadHeader .threadNumber{flex:0 0 auto;font-size:30px;font-weight:bold;color:#595959}.threadDiv .threadContent .threadBody{padding:0 8px;margin:0}.threadDiv .threadContent .threadNotes{padding:0 8px;color:#B30A0A;font-size:14px;margin-block:0 2px;margin-inline:0}.threadDiv .threadContent .ratingViewer{text-align:center;margin-top:3px;margin-bottom:10px}.threadsControllerContainer{padding:16px 0;white-space:nowrap;font-size:14px}.threadsControllerContainer>div{background:#fafafa;border-radius:25px;padding:0 8px}.threadsControllerContainer>div .ratingViewer{margin:10px 0}.threadsControllerContainer>div .threadsTotal{font-size:15px;font-weight:bold;margin:10px 0}.threadsControllerContainer>div .threadsController{margin:10px 0;display:flex}.threadsControllerContainer>div .threadsController>div{line-height:0}.threadsControllerContainer>div .threadsController>div a amp-img{margin:7px 17px}.threadsControllerContainer>div .threadsController>div.fromToContainer .mdArrowRoundBack{margin:10px 5px}.threadsControllerContainer>div .threadsController>div.controlButtons.disabled{opacity:0.5;pointer-events:none}.marketForumListItem{display:flex;align-items:center;font-weight:bold;height:140px;border-bottom:1px solid #c8c7cc;margin:0 17px}.marketForumListItem .title{height:100%;flex-grow:1;flex-shrink:1;font-size:15px;padding-block:10px 31px;padding-inline:0 8px;overflow:hidden}.marketForumListItem .title h2,.marketForumListItem .title h3{overflow:hidden;margin:0;font-size:18px;max-height:78px;min-height:50px;line-height:25px;padding-block:3px 2px}.marketForumListItem .title .itemInfoRow{font-size:11px;color:#333334;flex-wrap:wrap}.marketForumListItem .title .itemInfoRow>div{flex-basis:50%;overflow:hidden}.marketForumListItem .title .itemInfoRow.frCase>div{flex-basis:100%}.marketForumListItem .title .itemInfoRow .iconAndTextContainer{padding-block:3px}.imageContainer{background-color:#8cbad9;overflow:hidden;flex:0 0 116px;margin:10px 0;height:116px;position:relative}body.forumMode .imageContainer{background-color:#76c68b}body .relatedAdsCase .imageContainer{background-color:#8cbad9}.imageContainer .isAllImagesLiveBadge{background-color:#28613B;position:absolute;bottom:0;inset-inline:0;color:white;padding-block:5px 5px;padding-inline:17px 5px;box-shadow:0 -1px 6px rgba(0,0,0,0.16);font-weight:normal;font-size:16px}.marketForumListItemTableAndNextContainer{border-radius:5px;background-color:white;padding:0 5px}@media (min-width: 1200px){.marketForumListItemTableAndNextContainer{box-shadow:0 1px 6px rgba(0,0,0,0.05)}}@media (min-width: 1200px){.marketForumListItemTableAndNextContainer{margin:20px 0}}@media (min-width: 1200px){.marketForumListItemTableAndNextContainer{padding:0 30px}}.marketForumListItemTableAndNextContainer .marketForumListItemTable{width:100%;border-spacing:10px;border-collapse:collapse}.marketForumListItemTableAndNextContainer .marketForumListItemTable thead{height:50px;white-space:nowrap;font-size:18px}@media (max-width: 768px){.marketForumListItemTableAndNextContainer .marketForumListItemTable thead{font-size:14px}}.marketForumListItemTableAndNextContainer .marketForumListItemTable tbody{font-size:15px}@media (max-width: 768px){.marketForumListItemTableAndNextContainer .marketForumListItemTable tbody{font-size:13px}}.marketForumListItemTableAndNextContainer .marketForumListItemTable tbody tr{height:140px}.marketForumListItemTableAndNextContainer .marketForumListItemTable tbody tr a{color:#10598E;font-size:18px;font-weight:bold;max-height:130px;display:block;margin:auto 0;overflow:hidden;line-height:26px}body.forumMode .marketForumListItemTableAndNextContainer .marketForumListItemTable tbody tr a{color:#28613B}.marketForumListItemTableAndNextContainer .marketForumListItemTable tbody tr a:hover{opacity:.75}.marketForumListItemTableAndNextContainer .marketForumListItemTable tbody tr a span{font-size:13px;line-height:13px}.marketForumListItemTableAndNextContainer .marketForumListItemTable tr{border-bottom:1px solid #c8c7cc}.marketForumListItemTableAndNextContainer .marketForumListItemTable tr td:first-child{padding:5px 0}.marketForumListItemTableAndNextContainer .marketForumListItemTable tr td,.marketForumListItemTableAndNextContainer .marketForumListItemTable tr th{text-align:start;padding:0 5px}@media (min-width: 1200px){.marketForumListItemTableAndNextContainer .marketForumListItemTable tr td,.marketForumListItemTableAndNextContainer .marketForumListItemTable tr th{padding:0 20px}}.marketForumListItemTableAndNextContainer .marketForumListItemTable tr td:first-child,.marketForumListItemTableAndNextContainer .marketForumListItemTable tr th:first-child{max-width:500px;padding:0}.marketForumListItemTableAndNextContainer .marketForumListItemTable tr td:last-child,.marketForumListItemTableAndNextContainer .marketForumListItemTable tr th:last-child{width:116px;padding:0}.allSectionLinksContainer .sectionLinksContainer{display:block;white-space:nowrap;overflow-x:auto}.allSectionLinksContainer .sectionLinksContainer .subLink{display:inline-block;padding-bottom:5px;padding-top:5px;margin-bottom:1px;border-bottom:2px solid white}.allSectionLinksContainer .sectionLinksContainer .subLink .linkTitleContainer{background:#595959 linear-gradient(90deg, #595959 0%, #747474 100%);border-radius:10px;height:32px;color:#fff;padding:5px;margin:0 10px;font-size:13px;font-weight:bold;min-width:50px;text-align:center}.allSectionLinksContainer .sectionLinksContainer .subLink .linkTitleContainer.linkTitleContainerForBrand{padding:2px 10px;height:36px}.allSectionLinksContainer .sectionLinksContainer .subLink.selected{border-bottom-color:#10598E}body.forumMode .allSectionLinksContainer .sectionLinksContainer .subLink.selected{border-bottom-color:#28613B}.allSectionLinksContainer .sectionLinksContainer .subLink.selected .linkTitleContainer{background:#10598E linear-gradient(90deg, #10598E, #286a99)}body.forumMode .allSectionLinksContainer .sectionLinksContainer .subLink.selected .linkTitleContainer{background:#28613B linear-gradient(90deg, #28613B, #3e714f)}.allSectionLinksContainer .sectionLinksContainer .amp-carousel-button{width:32px;height:32px;border-radius:50%;margin:0;opacity:.6;top:1px;position:absolute}.allSectionLinksContainer .sectionLinksContainer .amp-carousel-button.amp-carousel-button-prev{inset-inline-start:0}.allSectionLinksContainer .sectionLinksContainer .amp-carousel-button.amp-carousel-button-next{inset-inline-end:0}body.forumMode a{color:#10598E}html{scroll-behavior:smooth}amp-lightbox-gallery{direction:ltr}.pageBody .iconInsideSquare{background-color:#f3f3f3;border-radius:8px;height:44px;width:44px;flex:0 0 44px;margin-block:2px;margin-inline:0 10px}.pageBody .ownerInfoContainer{flex:1 1;overflow:hidden;color:#595959}.pageBody .ownerInfoContainer .usernameAndLastSeenContainer{text-align:start;width:calc(100% - 44px)}.pageBody .ownerInfoContainer .usernameAndLastSeenContainer .usernameContainer{color:#333334;font-size:17px;font-weight:bold}.pageBody .ownerInfoContainer .usernameAndLastSeenContainer .lastSeenContainer{font-size:13px;overflow:hidden;text-overflow:ellipsis}.pageBody .ownerInfoContainer .usernameAndLastSeenContainer .lastSeenContainer .lastSeenText{padding-inline-start:2px}.pageBody .usernameInnerContainer{display:inline-flex;align-items:center}.pageBody .sectionContainer{box-shadow:0 1px 6px rgba(0,0,0,0.05);border-radius:5px;background-color:white;margin:10px 5px;padding:10px;overflow:hidden}@media (min-width: 1200px){.pageBody .sectionContainer{margin:20px 10px}}.pageBody .itemContent{display:flex;flex-wrap:wrap}.pageBody .itemContent .rightSide,.pageBody .itemContent .leftSide{flex-grow:0;flex-shrink:0;overflow:hidden}.pageBody .itemContent .rightSide{flex-basis:100%}@media (min-width: 1200px){.pageBody .itemContent .rightSide{flex-basis:66%}}.pageBody .itemContent .leftSide{flex-basis:100%}@media (min-width: 1200px){.pageBody .itemContent .leftSide{flex-basis:34%}}.pageBody .itemContent .ratingInfo .reviewsCount{font-size:18px;padding-inline-start:10px}.pageBody .itemContent .ratingInfo amp-img{vertical-align:middle;padding:0 3px}.pageBody .itemContent .adInfoCard{margin:0;border-bottom:1px solid #dbdbdb}.pageBody .itemContent .adInfoCard .titleAndMoneyContainer{display:flex}@media (max-width: 992px){.pageBody .itemContent .adInfoCard .titleAndMoneyContainer{flex-wrap:wrap}}.pageBody .itemContent .adInfoCard .titleAndMoneyContainer .title{display:flex;align-items:center;flex:1 1 82%}.pageBody .itemContent .adInfoCard .titleAndMoneyContainer .priceContainer{display:flex;flex:0 0 auto}.pageBody .itemContent .adInfoCard .titleAndMoneyContainer .priceContainer .iconAndTextContainer{padding-block:0;padding-inline:11px 5px;font-size:35px}.pageBody .itemContent .adInfoCard .titleAndMoneyContainer .priceContainer .priceDetailsContainer{padding-inline-start:10px;font-size:15px;flex-direction:column}.pageBody .itemContent .adInfoCard .titleAndMoneyContainer .priceContainer .priceTypeTextWhenNoPrice{font-size:15px}.pageBody .itemContent .breadCrumbList{font-size:15px;box-shadow:none;border-bottom:1px solid #dbdbdb;padding-inline-end:0;padding-inline-start:0;padding-top:0;margin-bottom:10px}.pageBody .itemContent .productOptionsContainer{margin:30px -10px;border:1px solid #f3f3f3}.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer,.pageBody .itemContent .productOptionsContainer .productBooleanOptionsContainer{display:flex;flex-wrap:wrap;padding:0 5px;font-size:14px;background:repeating-linear-gradient(#f3f3f3, #f3f3f3 58px, #fff 58px, #fff 116px)}.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer amp-img,.pageBody .itemContent .productOptionsContainer .productBooleanOptionsContainer amp-img{margin-block:7px;margin-inline:0 10px}.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer>.productOptionContainer,.pageBody .itemContent .productOptionsContainer .productBooleanOptionsContainer>.productOptionContainer{white-space:normal;height:58px;padding:0 5px;flex:0 1 100%}@media (min-width: 576px){.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer>.productOptionContainer,.pageBody .itemContent .productOptionsContainer .productBooleanOptionsContainer>.productOptionContainer{flex:0 1 50%}}.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer{border-spacing:0}.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer>tbody{display:flex;flex-wrap:wrap}.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer>tbody>.iconAndTextContainer{flex-basis:50%;height:58px}@media (max-width: 768px){.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer>tbody>.iconAndTextContainer{flex-basis:100%}}.pageBody .itemContent .productOptionsContainer .productNotBooleanOptionsContainer>tbody>.iconAndTextContainer>th{font-weight:normal}.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection button{width:100%;border:none;height:42px;color:#10598E;background-color:white;position:relative;font-size:17px;font-weight:bold;border-top:1px solid #f3f3f3;padding-inline-start:20px}.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection button amp-img{margin-block:7px;margin-inline:0 16px}.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection button:hover:after{content:'';position:absolute;inset:0;background-color:#10598E;opacity:0.04}.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection:not(.showBooleanOptions) .removeCircleIcon,.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection:not(.showBooleanOptions) .productBooleanOptionsContainer{display:none}.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection.showBooleanOptions .addCircleIcon{display:none}.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection .productBooleanOptionsContainer{margin-inline:64px 15px}.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection .productBooleanOptionsContainer>.productOptionContainer{flex:0 1 50%}@media (min-width: 576px){.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection .productBooleanOptionsContainer>.productOptionContainer{flex:0 1 33%}}@media (min-width: 992px){.pageBody .itemContent .productOptionsContainer .productBooleanOptionsSection .productBooleanOptionsContainer>.productOptionContainer{flex:0 1 25%}}.pageBody .itemContent .itemInfoRowInPage{display:flex;justify-content:space-between;padding:0 8px;font-size:13px;flex-wrap:wrap}.pageBody .itemContent .itemInfoRowInPage>div{flex:1 1 auto;padding:10px 0}body.forumMode .pageBody .itemContent .itemInfoRowInPage>div a{color:#28613B}.pageBody .itemContent .ownerDetails{margin-inline-end:-6px;display:flex;align-items:center;flex-wrap:wrap}.pageBody .itemContent .ownerDetails .ownerDetailsText{flex-grow:1;display:flex;align-items:center;margin:6px}@media (max-width: 1199px){.pageBody .itemContent .ownerDetails .ownerDetailsText{flex-wrap:wrap}}.pageBody .itemContent .ownerDetails .ownerDetailsText .iconAndTextContainer{height:36px;padding:6px 14px}.pageBody .itemContent .ownerDetails .ownerDetailsText>div{flex:1 1 0;font-size:13px}.pageBody .itemContent .ownerDetails .ownerDetailsText .locationContainer{color:black}.pageBody .itemContent .ownerDetails .ownerDetailsText .locationContainer a{color:#595959}.pageBody .itemContent .ownerDetails .ownerDetailsText .brandContainer .opacity0{opacity:0}.pageBody .itemContent .ownerDetails .ownerContactButtons{display:flex;flex:1 1 auto;margin:6px}.pageBody .itemContent .ownerDetails .ownerContactButtons>a{font-size:13px;line-height:1.65;height:40px;padding:0;border-radius:8px;background:#f3f3f3;flex:0 1 14%}.pageBody .itemContent .ownerDetails .ownerContactButtons>a.messageContainer{flex:1 1;background:#28613B linear-gradient(90deg, #28613B 0%, #3e714f 100%);color:white}.pageBody .itemContent .ownerDetails .ownerContactButtons>a.messageContainer amp-img{margin-inline-start:8px}.pageBody .itemContent .ownerDetails .ownerContactButtons>a.verifyContainer{margin-inline-start:6px;padding:2px 10px}.pageBody .itemContent .isAllImagesLiveBadgeButton{background-color:#28613B;color:white;padding:0 12px;border-radius:5px}.pageBody .itemContent .isAllImagesLiveBadgeButton .iconAndTextContainer{padding:0;font-size:16px}.pageBody .itemContent .itemTitle{font-size:24px;padding:0 10px;margin:0}body.deletedItemPage .pageBody .itemContent .itemTitle:not(.adsTagTitle){margin-top:20px;text-align:center}.pageBody .itemContent.adsTagCase .itemTitle{padding-block:20px 0;padding-inline:60px;text-align:center;font-size:26px}.pageBody .itemContent .deletedItemStatusMessage{color:#B30A0A;background:#B30A0A4a;padding:15px;text-align:center;font-size:20px;margin:10px -10px}.pageBody .itemContent .itemBody{padding-block:30px 10px;padding-inline:10px 8px;margin:0}.pageBody .itemContent .itemBody h2,.pageBody .itemContent .itemBody h3,.pageBody .itemContent .itemBody h4,.pageBody .itemContent .itemBody h5,.pageBody .itemContent .itemBody h6{color:#28613B}.pageBody .itemContent .itemSources a,.pageBody .itemContent .itemBody a{text-decoration:underline}.pageBody .itemContent .infoSectionTitle{font-size:22px}.pageBody .itemContent .infoSectionDescription{padding-bottom:10px;margin:0}.pageBody .itemContent.adsTagCase .itemBody{padding:10px;color:#595959;font-size:20px}.pageBody .itemContent.adsTagCase .adsTagTitleAndBodyContainer{padding-bottom:16px}.pageBody .itemContent.adsTagCase>.sectionContainer{flex-grow:1}.pageBody .itemContent .imageFigureContainer{font-size:20px;margin:16px 0}.pageBody .itemContent .imageFigureContainer figure{margin:0}body:not(.forumMode) .pageBody .itemContent .imageFigureContainer figure amp-img{border:1px solid #dbdbdb}body:not(.forumMode) .pageBody .itemContent .imageFigureContainer.isLiveImage{position:relative;padding-top:25px}body:not(.forumMode) .pageBody .itemContent .imageFigureContainer.isLiveImage figure amp-img{border-color:#28613B}body:not(.forumMode) .pageBody .itemContent .imageFigureContainer.isLiveImage .isAllImagesLiveBadgeButton{position:absolute;top:0;inset-inline-start:0;border-radius:5px 5px 0 0;height:25px}.pageBody .itemContent .adTagsContainer a{padding:7px 12px;margin:4px;background-color:rgba(16,89,142,0.08);display:inline-block;font-size:14px;border-radius:16px}.pageBody .itemContent h2{margin:7px}.pageBody .itemContent .likeItemsBody{margin-top:16px}body.forumMode .pageBody .itemContent .likeItemsBody:not(.relatedAdsCase) a{color:#28613B}.pageBody .itemContent .likeItemsBody .showMoreLink{padding:15px 0;font-size:20px}.pageBody .itemContent .threadsAndLikeItemsDiv{margin-block:30px 0;margin-inline:-10px}.pageBody .itemContent .threadsAndLikeItemsDiv .repliesRatingContainer{height:32px;margin:3px 10px;display:flex;background-color:#eee;border-radius:8px;position:relative}.pageBody .itemContent .threadsAndLikeItemsDiv .repliesRatingContainer .segment{width:50%;margin:2px 0;border-radius:7px;background-color:white;box-shadow:0 0 5px rgba(0,0,0,0.16);position:absolute;height:28px;transition:all 0.3s ease}body.forumMode .pageBody .itemContent .threadsAndLikeItemsDiv .repliesRatingContainer .segment{width:100%;inset-inline-start:0}.pageBody .itemContent .threadsAndLikeItemsDiv .repliesRatingContainer button{outline:0;color:#333334;z-index:1;flex:1 1;border:0;background-color:transparent;font-size:15px;font-family:inherit}.pageBody .itemContent .threadsAndLikeItemsDiv.showComments .allReviewsContainer{display:none}.pageBody .itemContent .threadsAndLikeItemsDiv.showComments .repliesRatingContainer .ratesButton{cursor:pointer}.pageBody .itemContent .threadsAndLikeItemsDiv.showComments .repliesRatingContainer .ratesButton:hover{opacity:0.5}.pageBody .itemContent .threadsAndLikeItemsDiv.showComments .repliesRatingContainer .segment{inset-inline-start:2px}.pageBody .itemContent .threadsAndLikeItemsDiv:not(.showComments) .allCommentsContainer{display:none}.pageBody .itemContent .threadsAndLikeItemsDiv:not(.showComments) .commentsButton{cursor:pointer}.pageBody .itemContent .threadsAndLikeItemsDiv:not(.showComments) .commentsButton:hover{opacity:0.5}.pageBody .itemContent .threadsAndLikeItemsDiv:not(.showComments) .segment{inset-inline-start:calc(50% - 2px)}.pageBody .itemContent .threadsAndLikeItemsDiv .addThreadLink{position:relative;display:flex;margin:3px 10px;height:70px;padding-inline-start:20px;padding-inline-end:10px;background:#f6f6f6;border-radius:5px;color:#525252}.pageBody .itemContent .threadsAndLikeItemsDiv .addThreadLink .addThreadPlaceHolder{flex:1 1;font-size:17px}.pageBody .itemContent .threadsAndLikeItemsDiv .addThreadLink .addThreadSendIconContainer{flex:0 0 48px}.pageBody .itemContent .threadsAndLikeItemsDiv .addThreadLink .addThreadSendIconContainer>amp-img{transform:rotate(-45deg)}.pageBody .itemContent .threadsAndLikeItemsDiv .addThreadLink .addThreadSendIconContainer .ratingViewer{color:#fdd835;position:absolute;inset-inline-end:60px}.pageBody .itemContent .threadsAndLikeItemsDiv .noThreadsMessage{margin:30px 0;text-align:center;font-size:20px}.pageBody .itemContent .boxHeader{padding:0 10px;font-size:22px;font-weight:bold;margin-top:31px;margin-bottom:6px}.pageBody .clearBoth{clear:both}h2{font-size:24px}h3{font-size:22px}h4{font-size:20px}h2,h3,h4,h5,h6{font-weight:bold}.addAdBanner{background:#10598E linear-gradient(90deg, #10598E, #286a99);flex-wrap:wrap;padding:20px 0;margin:10px;border-radius:8px}.addAdBanner>div{flex:1 0 50%}.addAdBanner>div .bannerText,.addAdBanner>div .bannerAction{font-size:24px}.addAdBanner>div .bannerText{color:white;font-weight:bold;padding:10px 20px;text-align:center}.addAdBanner>div .bannerAction{position:relative;padding-block:13px;padding-inline:24px;background-color:white;font-weight:bold;border-radius:8px;white-space:nowrap}.addAdBanner>div .bannerAction>.bannerActionLink{color:#10598E}.addAdBanner>div .bannerAction>.bannerActionLink:before{content:'';position:absolute;inset:0}.addAdBanner>div .bannerAction>.bannerActionLink .iconAndTextContainer{padding:0}.showMapUrlLink{background:#10598E linear-gradient(90deg, #10598E, #286a99);color:white;padding:8px 16px;margin:4px 2px;border-radius:30px;font-size:16px}.indexContainer{font-size:16px;line-height:40px;display:inline-block;background:#f3f3f3;padding:10px;border-radius:10px;margin-bottom:50px;border:2px solid #28613B;margin-inline:-10px}.indexContainer h2{font-size:18px}.indexContainer ol{margin-inline-start:26px;padding-inline-start:0;list-style:none}.indexContainer>ol{counter-reset:list1Counter;margin-inline-start:0}.indexContainer>ol>li{counter-increment:list1Counter;counter-reset:list2Counter}.indexContainer>ol>li>a:before{content:counter(list1Counter) "." }.indexContainer>ol>li>ol>li{counter-increment:list2Counter;counter-reset:list3Counter}.indexContainer>ol>li>ol>li>a:before{content:counter(list2Counter) "." counter(list1Counter) "." }.indexContainer>ol>li>ol>li>ol>li{counter-increment:list3Counter;counter-reset:list4Counter}.indexContainer>ol>li>ol>li>ol>li>a:before{content:counter(list3Counter) "." counter(list2Counter) "." counter(list1Counter) "." }.indexContainer>ol>li>ol>li>ol>li>ol>li{counter-increment:list4Counter;counter-reset:list5Counter}.indexContainer>ol>li>ol>li>ol>li>ol>li>a:before{content:counter(list4Counter) "." counter(list3Counter) "." counter(list2Counter) "." counter(list1Counter) "." }.indexContainer>ol>li>ol>li>ol>li>ol>li>ol>li{counter-increment:list5Counter;counter-reset:list6Counter}.indexContainer>ol>li>ol>li>ol>li>ol>li>ol>li>a:before{content:counter(list5Counter) "." counter(list4Counter) "." counter(list3Counter) "." counter(list2Counter) "." counter(list1Counter) "." }.indexContainer>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li{counter-increment:list6Counter;counter-reset:list7Counter}.indexContainer>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>a:before{content:counter(list6Counter) "." counter(list5Counter) "." counter(list4Counter) "." counter(list3Counter) "." counter(list2Counter) "." counter(list1Counter) "." }.personIconWithOnlineStatusContainer{position:relative;padding-right:8px}.personIconWithOnlineStatusContainer .onlinePoint{width:8px;height:8px;background-color:#28613B;border-radius:50%;position:absolute;inset-inline-start:3px;top:11px}.ampYoutubePlaceholder{position:relative}.ampYoutubePlaceholder .youtubeLogo{position:absolute;top:calc(50% - 35px);left:calc(50% - 35px)}.linkButton{background:none;border:none;color:#10598E;cursor:pointer;font-size:20px}.linkButton:hover,.linkButton:active{opacity:.75}:root{--ck-color-table-caption-background: #f7f7f7;--ck-color-table-caption-text: #333}.ck-content .table{display:table;margin:0.9em auto;max-width:100%}.ck-content .table table{border:1px double #b3b3b3;border-collapse:collapse;border-spacing:0;height:100%;width:100%}.ck-content .table table td,.ck-content .table table th{border:1px solid #bfbfbf;min-width:2em;padding:0.4em}.ck-content .table table th{background:rgba(0,0,0,0.05);font-weight:700}.ck-content[dir="rtl"] .table th{text-align:right}.ck-content[dir="ltr"] .table th{text-align:left}.ck-content .table>figcaption{background-color:var(--ck-color-table-caption-background);caption-side:top;color:var(--ck-color-table-caption-text);display:table-caption;font-size:0.75em;outline-offset:-1px;padding:0.6em;text-align:center;word-break:break-word}.ck-content .table table{overflow:hidden;table-layout:fixed}.ck-content .table td,.ck-content .table th{position:relative}
+
+		@media not all{#i-amp-0,#i-amp-1,#i-amp-2,#i-amp-3,#i-amp-4,#i-amp-5,#i-amp-6,#i-amp-7,#i-amp-8,#i-amp-9,#i-amp-10,#i-amp-11,#i-amp-12,#i-amp-13,#i-amp-14,#i-amp-15,#i-amp-16,#i-amp-17,#i-amp-18,#i-amp-19,#i-amp-20,#i-amp-21{display:none}}</style><link id="canonicalId" rel="canonical" href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119"><link rel="alternate" hreflang="ar-sa" href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119"><link rel="alternate" hreflang="en-sa" href="https://www.mstaml.com/en/sa/product/saudi-arabia/eastern-province/dammam/outdoor-furniture/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119"><link rel="alternate" hreflang="ar" href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119"><link rel="alternate" hreflang="en" href="https://www.mstaml.com/en/sa/product/saudi-arabia/eastern-province/dammam/outdoor-furniture/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119"><link rel="alternate" hreflang="x-default" href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119"><title id="titleIdForServer1">أبواب كلادينج - مستعمل</title><link id="manifestLink" rel="manifest" href="https://www.mstaml.com/mstamlApp/ar/manifest.webmanifest?rnd=1769240532-0891658-4e71232-55ebf32-879b224"><link rel="apple-touch-icon" href="https://images.mstaml.com/static/touch-icon-iphone-2024-12-24.png"><link rel="apple-touch-icon" sizes="152x152" href="https://images.mstaml.com/static/touch-icon-ipad-2024-12-24.png"><link rel="apple-touch-icon" sizes="180x180" href="https://images.mstaml.com/static/touch-icon-iphone-retina-2024-12-24.png"><link rel="apple-touch-icon" sizes="167x167" href="https://images.mstaml.com/static/touch-icon-ipad-retina-2024-12-24.png"><script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","mainEntity":{"@type":"Product","name":"أبواب كلادينج","description":"أبواب كلادينج عازله للحراره والصوت على ربرات عازله للغبار والحشرات السعر يبدأ من 1350 ريال للمتر المربع للتواصل 0567877210","sku":"4262249","category":"اثاث وديكور/اثاث خارجي","offers":{"@type":"Offer","priceCurrency":"SAR","price":"1350","availability":"http://schema.org/InStock","seller":{"@type":"Person"},"priceValidUntil":"2028-12-17","url":"https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249\u0026amp;location=34\u0026amp;type=85.119"},"image":[{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413610695190049/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413610695190049/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413610824530031/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413610824530031/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413610904720089/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413610904720089/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413611021840063/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413611021840063/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413611135260059/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413611135260059/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413611269820077/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413611269820077/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413611376530081/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413611376530081/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413611503630090/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413611503630090/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413613337030094/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413613337030094/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413613454920075/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413613454920075/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413613558310073/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413613558310073/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413613642130099/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413613642130099/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413613748560063/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413613748560063/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413613854330098/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413613854330098/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413613974380089/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413613974380089/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""},{"@type":"ImageObject","contentUrl":"https://img.mstaml.com/i172413614069200067/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","url":"https://img.mstaml.com/i172413614069200067/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg","description":""}]}}</script><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"مستعمل","alternateName":"Mstaml","description":"موقع وتطبيق مستعمل ابحث عن اي سلعة او بيعها بأسرع وقت في العديد من الأقسام مثل السيارات والعقارات والأجهزة والأزياء وغيرها العديد","sameAs":["https://twitter.com/mstaml_com","https://www.instagram.com/mstamlcom","https://www.facebook.com/mstamlcom"],"url":"https://www.mstaml.com","logo":"https://images.mstaml.com/static/blueLogo2024.png"}</script></head>
+	<body class="itemPage">
+		<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-T7J3T98&amp;gtm.url=SOURCE_URL" data-credentials="include" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed"></amp-analytics>
+	<amp-pixel src="https://www.mstaml.com/setShowPwaCookie" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed"></amp-pixel>
+		
+		<amp-analytics type="gtag" data-credentials="include" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed">
+			<script type="application/json">{"vars":{"gtag_id":"UA-12325072-1","config":{"UA-12325072-1":{"groups":"default"},"G-8XFBS0Z3BX":{"groups":"default"}}}}</script>
+		</amp-analytics>
+			<amp-state id="showTab" class="i-amphtml-layout-container" i-amphtml-layout="container">
+				<script type="application/json">{"showCommentsTab":true}</script>
+			</amp-state>
+			<amp-state id="showBooleanOptions" class="i-amphtml-layout-container" i-amphtml-layout="container">
+				<script type="application/json">{"show":false}</script>
+			</amp-state>
+	<div class="appContainer">
+			<amp-sidebar id="sidebar1" layout="nodisplay" side="right" class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay">
+				<div class="menuContainer">
+					<div class="menu">
+						<div class="menuHeader">
+							<a href="https://www.mstaml.com" class="flex-container">
+								<amp-img src="https://www.mstaml.com/svgs/mstaml-logo-ffffff.svg" alt="شعار مستعمل" width="120" height="38" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:120px;height:38px" i-amphtml-layout="fixed">
+									<noscript>
+										<img src="https://www.mstaml.com/svgs/mstaml-logo-ffffff.svg" alt="شعار مستعمل" width="120" height="38">
+									</noscript>
+								</amp-img>
+							</a>
+						</div>
+						<div class="menuBody">
+							<div class="rightMenuTopOptions">
+								<nav class="menuPagesContainer">
+									<a href="https://www.mstaml.com/add" class="pageLink addAdBigLink" rel="nofollow">
+										<div class="roundedDiv">
+											<div class="iconAndTextContainer">
+												<amp-img src="https://www.mstaml.com/svgs/add-icon-ffffff.svg" alt="" width="32" height="32" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/add-icon-ffffff.svg" alt="" width="32" height="32">
+													</noscript>
+												</amp-img>
+												أضف إعلان
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/forum" class="pageLink smallLink ">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/forum-icon-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/forum-icon-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">النقاشات</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/shops" class="pageLink smallLink">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/globe-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/globe-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">المتاجر</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/affiliate" class="pageLink smallLink" rel="nofollow">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/affiliate-icon-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/affiliate-icon-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">نظام افيليت</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/shipping" class="pageLink smallLink">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/cube-outline-icon-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/cube-outline-icon-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">الشحن</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/power-ads" class="pageLink smallLink" rel="nofollow">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/power-ad-icon-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/power-ad-icon-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">إعلانات باور</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/about" class="pageLink smallLink">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/about-icon-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/about-icon-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">عن مستعمل</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/help" class="pageLink smallLink">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/contact-us-icon-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/contact-us-icon-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">الدعم الفني</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://global.mstaml.com/" class="pageLink smallLink">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/earth-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/earth-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">أخبار مستعمل</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/black-list" class="pageLink smallLink" rel="nofollow">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/black-list-icon-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/black-list-icon-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">القائمة السوداء</span>
+											</div>
+										</div>
+									</a>
+									<a href="https://www.mstaml.com/en/sa/product/saudi-arabia/eastern-province/dammam/outdoor-furniture/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119" class="pageLink smallLink" rel="nofollow">
+										<div class="roundedDiv">
+											<div class="titleContainer">
+												<amp-img src="https://www.mstaml.com/svgs/language-icon-10598E.svg" alt="" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+													<noscript>
+														<img src="https://www.mstaml.com/svgs/language-icon-10598E.svg" alt="" width="30" height="30">
+													</noscript>
+												</amp-img>
+												<span class="pageName">English</span>
+											</div>
+										</div>
+									</a>
+								</nav>
+								<div class="menuSocialLinksContainer">
+									<div class="roundedDiv">
+										<div>
+											<div>
+												تابع مستعمل على
+											</div>
+											<br>
+												<div class="menuSocialLinks">
+													<a href="https://www.facebook.com/mstamlcom" aria-label="فيسبوك" target="_blank">
+														<amp-img src="https://www.mstaml.com/svgs/facebook-icon-10598E.svg" alt="شعار فيسبوك" width="32" height="32" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/facebook-icon-10598E.svg" alt="شعار فيسبوك" width="32" height="32">
+															</noscript>
+														</amp-img>
+													</a>
+													<a href="https://www.instagram.com/mstamlcom" aria-label="إنستغرام" target="_blank">
+														<amp-img src="https://www.mstaml.com/svgs/instagram-icon-10598E.svg" alt="شعار إنستغرام" width="32" height="32" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/instagram-icon-10598E.svg" alt="شعار إنستغرام" width="32" height="32">
+															</noscript>
+														</amp-img>
+													</a>
+													<a href="https://twitter.com/mstaml_com" aria-label="تويتر" target="_blank">
+														<amp-img src="https://www.mstaml.com/svgs/twitter-icon-10598E.svg" alt="شعار تويتر" width="32" height="32" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/twitter-icon-10598E.svg" alt="شعار تويتر" width="32" height="32">
+															</noscript>
+														</amp-img>
+													</a>
+													<a href="https://www.snapchat.com/add/mstamlapp" aria-label="سناب شات" target="_blank">
+														<amp-img src="https://www.mstaml.com/svgs/snap-chat-icon-10598E.svg" alt="شعار سناب شات" width="32" height="32" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/snap-chat-icon-10598E.svg" alt="شعار سناب شات" width="32" height="32">
+															</noscript>
+														</amp-img>
+													</a>
+													<a href="https://www.youtube.com/mstamlcom" aria-label="يوتيوب" target="_blank">
+														<amp-img src="https://www.mstaml.com/svgs/youtube-icon-10598E.svg" alt="شعار يوتيوب" width="32" height="32" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/youtube-icon-10598E.svg" alt="شعار يوتيوب" width="32" height="32">
+															</noscript>
+														</amp-img>
+													</a>
+													<a href="https://web.whatsapp.com/send?phone=966920009471" aria-label="واتساب" target="_blank">
+														<amp-img src="https://www.mstaml.com/svgs/whatsapp-icon-10598E.svg" alt="شعار واتساب" width="32" height="32" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/whatsapp-icon-10598E.svg" alt="شعار واتساب" width="32" height="32">
+															</noscript>
+														</amp-img>
+													</a>
+													<a href="https://www.linkedin.com/company/mstaml/" aria-label="لينكد إن" target="_blank">
+														<amp-img src="https://www.mstaml.com/svgs/linked-in-icon-10598E.svg" alt="شعار لينكد إن" width="32" height="32" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/linked-in-icon-10598E.svg" alt="شعار لينكد إن" width="32" height="32">
+															</noscript>
+														</amp-img>
+													</a>
+												</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="rightMenuBottomOptions">
+								<div>
+									<div class="downloadAppFrom">
+										<a href="https://itunes.apple.com/sa/app/%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84/id1061118094?mt=8" aria-label="تحميل من متجر أبل" target="_blank">
+											<amp-img alt="شعار متجر أبل" src="https://images.mstaml.com/static/apple-download-ar-2023-01-08.png" width="100" height="33" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:100px;height:33px" i-amphtml-layout="fixed">
+												<noscript>
+													<img alt="شعار متجر أبل" src="https://images.mstaml.com/static/apple-download-ar-2023-01-08.png" width="100" height="33">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://play.google.com/store/apps/details?id=com.mstaml.App" aria-label="تحميل من متجر غوغل بلي" target="_blank">
+											<amp-img alt="شعار متجر غوغل بلي" src="https://images.mstaml.com/static/google-download-ar-2023-01-08.png" width="100" height="33" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:100px;height:33px" i-amphtml-layout="fixed">
+												<noscript>
+													<img alt="شعار متجر غوغل بلي" src="https://images.mstaml.com/static/google-download-ar-2023-01-08.png" width="100" height="33">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://appgallery.cloud.huawei.com/ag/n/app/C102439431" aria-label="تحميل من متجر هواوي" target="_blank">
+											<amp-img alt="شعار متجر هواوي" src="https://images.mstaml.com/static/app-gallery-download-ar-2023-01-08.png" width="100" height="33" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:100px;height:33px" i-amphtml-layout="fixed">
+												<noscript>
+													<img alt="شعار متجر هواوي" src="https://images.mstaml.com/static/app-gallery-download-ar-2023-01-08.png" width="100" height="33">
+												</noscript>
+											</amp-img>
+										</a>
+									</div>								</div>
+								<div>
+									جميع الحقوق محفوظة ©
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</amp-sidebar>
+	</div>
+		<div class="pageHeader" on="tap:top-page.scrollTo(duration=200)" tabindex="-1" role="banner">
+			<div class="pageHeaderContent">
+				<div class="pageHeaderTitle">
+						<div class="headerRightButtons">
+							<button class="headerButton menuButton" on="tap:sidebar1.toggle">
+								<amp-img src="https://www.mstaml.com/svgs/menu-icon-8cbad9.svg" alt="قائمة الصفحات" width="28" height="28" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:28px;height:28px" i-amphtml-layout="fixed">
+									<noscript>
+										<img src="https://www.mstaml.com/svgs/menu-icon-8cbad9.svg" alt="قائمة الصفحات" width="28" height="28">
+									</noscript>
+								</amp-img>
+							</button>
+								<a href="https://www.mstaml.com" class="headerButton logoButton">
+									<amp-img src="https://www.mstaml.com/svgs/mstaml-logo-ffffff.svg" alt="شعار مستعمل" width="120" height="38" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:120px;height:38px" i-amphtml-layout="fixed">
+										<noscript>
+											<img src="https://www.mstaml.com/svgs/mstaml-logo-ffffff.svg" alt="شعار مستعمل" width="120" height="38">
+										</noscript>
+									</amp-img>
+								</a>
+						</div>
+					<div class="headerLeftButtons">
+									<a href="https://www.mstaml.com?showPwa=1#showSearchForm" class="itemSearchBar" rel="nofollow">
+										<amp-img src="https://www.mstaml.com/svgs/search-bar-icon-595959.svg" alt="بحث" width="22" height="22" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:22px;height:22px" i-amphtml-layout="fixed">
+											<noscript>
+												<img src="https://www.mstaml.com/svgs/search-bar-icon-595959.svg" alt="بحث" width="22" height="22">
+											</noscript>
+										</amp-img>
+										بحث في السوق
+									</a>									<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;showPwa=1&amp;type=85.119" class="headerButton refreshButton" rel="nofollow">
+										<amp-img src="https://www.mstaml.com/svgs/refresh-icon-ffffff.svg" alt="تحديث" width="28" height="28" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:28px;height:28px" i-amphtml-layout="fixed">
+											<noscript>
+												<img src="https://www.mstaml.com/svgs/refresh-icon-ffffff.svg" alt="تحديث" width="28" height="28">
+											</noscript>
+										</amp-img>
+									</a>
+									<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;showPwa=1&amp;type=85.119#showShareItem" class="headerButton" rel="nofollow">
+										<amp-img src="https://www.mstaml.com/svgs/share-icon-ffffff.svg" alt="مشاركة" width="28" height="28" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:28px;height:28px" i-amphtml-layout="fixed">
+											<noscript>
+												<img src="https://www.mstaml.com/svgs/share-icon-ffffff.svg" alt="مشاركة" width="28" height="28">
+											</noscript>
+										</amp-img>
+									</a>
+										<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;showPwa=1&amp;type=85.119#showItemInfo" class="headerButton" rel="nofollow">
+											<amp-img src="https://www.mstaml.com/svgs/ellipsis-vertical-circle-icon-ffffff.svg" alt="التفاصيل" width="28" height="28" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:28px;height:28px" i-amphtml-layout="fixed">
+												<noscript>
+													<img src="https://www.mstaml.com/svgs/ellipsis-vertical-circle-icon-ffffff.svg" alt="التفاصيل" width="28" height="28">
+												</noscript>
+											</amp-img>
+										</a>
+						<a href="https://www.mstaml.com/en/sa/product/saudi-arabia/eastern-province/dammam/outdoor-furniture/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;type=85.119" class="headerButton nowrap">
+							EN
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="top-page" class="pageContainer">
+				<div class="pageBody">
+							<div class="itemContent">
+								<div class="rightSide">
+								<div class="sectionContainer">
+										<div class="breadCrumbList">
+											<nav>
+<a href="https://www.mstaml.com">الرئيسية</a> » <a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9?location=30">السعودية</a> » <a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9?location=4">المنطقة الشرقية</a> » <a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85?location=34">الدمام</a> » <a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AF%D9%8A%D9%83%D9%88%D8%B1?location=34&amp;type=85">اثاث وديكور</a> » <a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A?location=34&amp;type=85.119">اثاث خارجي</a>
+											</nav>
+												<script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.mstaml.com"},{"@type":"ListItem","position":2,"name":"السعودية","item":"https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9?location=30"},{"@type":"ListItem","position":3,"name":"المنطقة الشرقية","item":"https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9?location=4"},{"@type":"ListItem","position":4,"name":"الدمام","item":"https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85?location=34"},{"@type":"ListItem","position":5,"name":"اثاث وديكور","item":"https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AF%D9%8A%D9%83%D9%88%D8%B1?location=34\u0026type=85"},{"@type":"ListItem","position":6,"name":"اثاث خارجي","item":"https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A?location=34\u0026type=85.119"}]}</script>
+										</div>
+										<div class="adInfoCard">
+											<div class="titleAndMoneyContainer">
+												<div class="title">
+													<h1 class="itemTitle">
+														أبواب كلادينج
+													</h1>
+												</div>
+													<div class="priceContainer">
+														<div class="iconAndTextContainer">
+															<amp-img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="30" height="30" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:30px;height:30px" i-amphtml-layout="fixed">
+																<noscript>
+																	<img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="30" height="30">
+																</noscript>
+															</amp-img>
+															<span>
+																1,350
+															</span>
+														</div>
+														<div class="priceDetailsContainer">
+															<span>
+																ريال سعودي
+															</span>
+															<span>
+																
+															</span>
+														</div>
+													</div>
+											</div>
+											<div class="ownerDetails">
+												<div class="ownerDetailsText">
+													<div class="iconAndTextContainer">
+														<amp-img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="20" height="20" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:20px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="20" height="20">
+															</noscript>
+														</amp-img>
+														<span>
+															قبل سنة
+														</span>
+													</div>
+													<div class="locationContainer">
+															<div class="iconAndTextContainer">
+																<amp-img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="20" height="20" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:20px" i-amphtml-layout="fixed">
+																	<noscript>
+																		<img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="20" height="20">
+																	</noscript>
+																</amp-img>
+																<span>
+																	الدمام
+																</span>
+															</div>
+													</div>
+													<!---->
+													<div>
+														<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;showPwa=1&amp;type=85.119#showItemOwnerCard" class="iconAndTextContainer">
+																<span class="personIconWithOnlineStatusContainer">
+																	<amp-img src="https://www.mstaml.com/svgs/person-icon-10598E.svg" alt="العضو" width="20" height="20" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:20px" i-amphtml-layout="fixed">
+																		<noscript>
+																			<img src="https://www.mstaml.com/svgs/person-icon-10598E.svg" alt="العضو" width="20" height="20">
+																		</noscript>
+																	</amp-img>
+																</span>																<span class="usernameInnerContainer">
+																	المطاوعه لأبواب الكلادينج
+																</span>														</a>
+													</div>
+												</div>
+												<div class="ownerContactButtons">
+													<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;showPwa=1&amp;type=85.119#messageItemOwner" class="messageContainer iconAndTextContainer leftText" rel="nofollow">
+														أرسل رسالة للمعلن
+														<amp-img src="https://www.mstaml.com/svgs/mail-icon-ffffff.svg" alt="" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+															<noscript>
+																<img src="https://www.mstaml.com/svgs/mail-icon-ffffff.svg" alt="" width="24" height="24">
+															</noscript>
+														</amp-img>
+													</a>
+												</div>
+											</div>
+										</div>
+											<p class="itemBody">
+												أبواب كلادينج عازله للحراره والصوت على ربرات عازله للغبار والحشرات السعر يبدأ من 1350 ريال للمتر المربع للتواصل 0567877210
+											</p>
+											
+													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413610695190049/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="728" height="1200" layout="intrinsic" lightbox data-hero i-amphtml-ssr id="i-amp-0" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI3MjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	
+																<img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="أبواب كلادينج" src="https://img.mstaml.com/i172413610695190049/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg"></amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413610824530031/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="706" height="1200" layout="intrinsic" lightbox id="i-amp-1" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI3MDYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413610824530031/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413610904720089/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="818" height="1200" layout="intrinsic" lightbox id="i-amp-2" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI4MTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413610904720089/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413611021840063/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="902" height="1200" layout="intrinsic" lightbox id="i-amp-3" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI5MDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413611021840063/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413611135260059/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="772" height="1200" layout="intrinsic" lightbox id="i-amp-4" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI3NzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413611135260059/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413611269820077/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="945" height="1200" layout="intrinsic" lightbox id="i-amp-5" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI5NDUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413611269820077/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413611376530081/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="554" height="1200" layout="intrinsic" lightbox id="i-amp-6" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI1NTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413611376530081/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413611503630090/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="554" height="1200" layout="intrinsic" lightbox id="i-amp-7" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI1NTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413611503630090/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413613337030094/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="902" height="1200" layout="intrinsic" lightbox id="i-amp-8" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI5MDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413613337030094/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413613454920075/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="818" height="1200" layout="intrinsic" lightbox id="i-amp-9" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI4MTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413613454920075/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413613558310073/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="706" height="1200" layout="intrinsic" lightbox id="i-amp-10" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI3MDYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413613558310073/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413613642130099/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="728" height="1200" layout="intrinsic" lightbox id="i-amp-11" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI3MjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413613642130099/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413613748560063/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="772" height="1200" layout="intrinsic" lightbox id="i-amp-12" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI3NzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413613748560063/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413613854330098/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="945" height="1200" layout="intrinsic" lightbox id="i-amp-13" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI5NDUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413613854330098/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413613974380089/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="554" height="1200" layout="intrinsic" lightbox id="i-amp-14" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI1NTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413613974380089/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>													<div class="flex-container clearBoth">
+														<div class="imageFigureContainer ">
+															<figure>
+																<amp-img src="https://img.mstaml.com/i172413614069200067/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج" width="554" height="1200" layout="intrinsic" lightbox id="i-amp-15" class="i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" i-amphtml-layout="intrinsic"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyMDAiIHdpZHRoPSI1NTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"></i-amphtml-sizer>
+																	<noscript>
+																		<img class="noScriptImage" src="https://img.mstaml.com/i172413614069200067/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC.jpg" alt="أبواب كلادينج">
+																	</noscript>
+																</amp-img>
+															</figure>
+														</div>
+													</div>								</div>
+										<div class="addAdBanner">
+											<div class="flex-container">
+												<div class="bannerText">
+													عندك اثاث خارجي؟
+												</div>
+											</div>
+											<div class="flex-container">
+												<div class="bannerAction">
+													<a class="bannerActionLink" href="https://www.mstaml.com/add">
+														<span class="iconAndTextContainer">
+															<amp-img src="https://www.mstaml.com/svgs/add-icon-10598E.svg" alt="" width="50" height="50" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:50px;height:50px" i-amphtml-layout="fixed">
+																<noscript>
+																	<img src="https://www.mstaml.com/svgs/add-icon-10598E.svg" alt="" width="50" height="50">
+																</noscript>
+															</amp-img>
+															<span>
+																انشر إعلانك الآن
+															</span>
+														</span>
+													</a>
+												</div>
+											</div>
+										</div>										
+										<div class="sectionContainer">
+										<div class="threadsAndLikeItemsDiv showComments" [class]="(showTab.showCommentsTab == true) ? 'threadsAndLikeItemsDiv showComments' : 'threadsAndLikeItemsDiv'" i-amphtml-binding>
+												<div id="scrollToThreads" class="scrollHash"></div>
+												<div class="repliesRatingContainer">
+													<div class="segment"></div>
+													<button class="commentsButton" type="button" tabindex="0" on="tap:AMP.setState({showTab: {showCommentsTab: true}})">
+														الردود (0)
+													</button>
+														<button class="ratesButton" type="button" tabindex="0" on="tap:AMP.setState({showTab: {showCommentsTab: false}})">
+															التقييمات (0)
+														</button>
+												</div>
+												<div class="allCommentsContainer">
+														<div class="noThreadsMessage">
+															عفواً.. لايوجد ردود.
+														</div>
+													<a class="addThreadLink" href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;showPwa=1&amp;type=85.119#addComment" rel="nofollow">
+														<div class="addThreadPlaceHolder">
+															أضف رداً جديداً..
+														</div>
+														<div class="addThreadSendIconContainer">
+															<amp-img src="https://www.mstaml.com/svgs/send-icon-595959.svg" alt="" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+																<noscript>
+																	<img src="https://www.mstaml.com/svgs/send-icon-595959.svg" alt="" width="24" height="24">
+																</noscript>
+															</amp-img>
+														</div>
+													</a>
+												</div>
+													<div class="allReviewsContainer">
+															<div class="noThreadsMessage">
+																عفواً.. لايوجد تقييمات.
+															</div>
+														<a class="addThreadLink" href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%83%D9%84%D8%A7%D8%AF%D9%8A%D9%86%D8%AC?id=4262249&amp;location=34&amp;showPwa=1&amp;type=85.119#addReview" rel="nofollow">
+															<div class="addThreadPlaceHolder">
+																اكتب تجربتك..
+															</div>
+															<div class="addThreadSendIconContainer">
+																	<div class="ratingViewer">
+																		<div class="ratingInfo"><amp-img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24">
+																				</noscript>
+																			</amp-img><amp-img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24">
+																				</noscript>
+																			</amp-img><amp-img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24">
+																				</noscript>
+																			</amp-img><amp-img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24">
+																				</noscript>
+																			</amp-img><amp-img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/star-outline-fdd835.svg" alt="" width="24" height="24">
+																				</noscript>
+																			</amp-img>																		</div>
+																	</div>
+																<amp-img src="https://www.mstaml.com/svgs/send-icon-595959.svg" alt="" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+																<noscript>
+																	<img src="https://www.mstaml.com/svgs/send-icon-595959.svg" alt="" width="24" height="24">
+																</noscript>
+															</amp-img>
+															</div>
+														</a>
+													</div>
+										</div>
+										</div>
+										
+																		</div>
+									<div class="leftSide">
+											<div class="sectionContainer">
+												<h2>
+													إعلانات مشابهة
+													
+												</h2>
+												<div class="likeItemsBody">
+														<a href="https://www.mstaml.com?showPwa=1#showSearchForm" class="itemSearchBar" rel="nofollow">
+															<amp-img src="https://www.mstaml.com/svgs/search-bar-icon-595959.svg" alt="بحث" width="22" height="22" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:22px;height:22px" i-amphtml-layout="fixed">
+																<noscript>
+																	<img src="https://www.mstaml.com/svgs/search-bar-icon-595959.svg" alt="بحث" width="22" height="22">
+																</noscript>
+															</amp-img>
+															بحث في السوق
+														</a>														<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%A7%D9%84%D8%AE%D8%B1%D8%AC/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D8%A7%D9%86%D8%A7-%D9%81%D9%8A%D8%B5%D9%84-%D9%86%D8%B2%D9%8A%D8%B1-%D8%AD%D8%AF%D8%A7%D8%AF-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A%D9%83-%D8%AF%D8%B1%D8%A7%D8%A8%D8%B2%D9%8A%D9%86-%D8%AF%D8%B1%D8%AC-%D9%85%D8%B8%D9%84%D8%A7%D8%AA-%D9%87%D9%86%D8%A7%D8%AC%D8%B1-%D9%82%D8%B1%D9%85%D9%8A%D8%AF-in-Al-Kharj-at-a-price-of-10-SAR?id=4586373&amp;location=72&amp;type=85.119" class="marketForumListItem">
+															<div class="title">
+																
+																<h3>السلام عليكم انا فيصل نزير (حداد). أبواب - شبابيك - درابزين - درج - مظلات - هناجر - قرميد in Al-Kharj at a price of 10 SAR</h3>
+																<div class="itemInfoRow ">
+																	<div class="rightText iconAndTextContainer">
+																		<amp-img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																			<noscript>
+																				<img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17">
+																			</noscript>
+																		</amp-img>
+																		<span>
+																			قبل 3 أشهر و11 يوم
+																		</span>
+																	</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				الخرج
+																			</span>
+																		</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				10 ريال سعودي
+																			</span>
+																		</div>
+																</div>
+															</div>
+															<div class="imageContainer">
+																<amp-img src="https://images.mstaml.com/bundles/s176054750212290047-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s176054750212290047-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s176054750212290047-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s176054750212290047-w348h348-numOfImgs1.webp 3x" width="116" height="116" alt="الصورة الأولى" layout="fixed" id="i-amp-16" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:116px;height:116px" i-amphtml-layout="fixed">
+																	<noscript>
+																		<img class="noScriptImage" src="https://images.mstaml.com/bundles/s176054750212290047-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s176054750212290047-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s176054750212290047-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s176054750212290047-w348h348-numOfImgs1.webp 3x" alt="الصورة الأولى" width="116" height="116">
+																	</noscript>
+																</amp-img>
+															</div>
+														</a>
+														<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9/%D8%AC%D8%AF%D8%A9/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D9%85%D8%B3%D9%83%D8%A7%D8%AA-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%8A%D9%88%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF%D9%87-%D9%84%D9%88%D9%86-%D8%A3%D8%B3%D9%88%D8%AF-%D9%85%D8%B7%D9%81%D9%8A-%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D9%81?id=4577844&amp;location=26&amp;type=85.119" class="marketForumListItem">
+															<div class="title">
+																
+																<h3>مسكات أبواب المنيوم جديده لون أسود مطفي لأبواب الغرف</h3>
+																<div class="itemInfoRow ">
+																	<div class="rightText iconAndTextContainer">
+																		<amp-img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																			<noscript>
+																				<img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17">
+																			</noscript>
+																		</amp-img>
+																		<span>
+																			قبل 3 أشهر و27 يوم
+																		</span>
+																	</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				جدة
+																			</span>
+																		</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				70 ريال سعودي
+																			</span>
+																		</div>
+																</div>
+															</div>
+															<div class="imageContainer">
+																<amp-img src="https://images.mstaml.com/bundles/s175918207941750070-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s175918207941750070-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s175918207941750070-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s175918207941750070-w348h348-numOfImgs1.webp 3x" width="116" height="116" alt="الصورة الأولى" layout="fixed" id="i-amp-17" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:116px;height:116px" i-amphtml-layout="fixed">
+																	<noscript>
+																		<img class="noScriptImage" src="https://images.mstaml.com/bundles/s175918207941750070-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s175918207941750070-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s175918207941750070-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s175918207941750070-w348h348-numOfImgs1.webp 3x" alt="الصورة الأولى" width="116" height="116">
+																	</noscript>
+																</amp-img>
+															</div>
+														</a>
+														<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%AE%D8%B4%D8%A8-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-13-%D8%A8%D8%A7%D8%A8-%D8%A8%D8%B3%D8%B9%D8%B1-1200-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A8%D8%B3%D8%B9%D8%B1?id=4548920&amp;location=31&amp;type=85.119" class="marketForumListItem">
+															<div class="title">
+																
+																<h3>أبواب خشب مستعملة 13 باب بسعر 1200 في الرياض بسعر</h3>
+																<div class="itemInfoRow ">
+																	<div class="rightText iconAndTextContainer">
+																		<amp-img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																			<noscript>
+																				<img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17">
+																			</noscript>
+																		</amp-img>
+																		<span>
+																			قبل 5 أشهر و13 يوم
+																		</span>
+																	</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				الرياض
+																			</span>
+																		</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				1,200 ريال سعودي
+																			</span>
+																		</div>
+																</div>
+															</div>
+															<div class="imageContainer">
+																<amp-img src="https://images.mstaml.com/bundles/s175520562993680045-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s175520562993680045-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s175520562993680045-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s175520562993680045-w348h348-numOfImgs1.webp 3x" width="116" height="116" alt="الصورة الأولى" layout="fixed" id="i-amp-18" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:116px;height:116px" i-amphtml-layout="fixed">
+																	<noscript>
+																		<img class="noScriptImage" src="https://images.mstaml.com/bundles/s175520562993680045-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s175520562993680045-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s175520562993680045-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s175520562993680045-w348h348-numOfImgs1.webp 3x" alt="الصورة الأولى" width="116" height="116">
+																	</noscript>
+																</amp-img>
+															</div>
+														</a>
+														<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A3%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A8%D8%B3%D8%B9%D8%B1-%D9%85%D8%BA%D8%B1%D9%8A-470?id=4531617&amp;location=31&amp;type=85.119" class="marketForumListItem">
+															<div class="title">
+																
+																<h3>أبواب أستيراد تركيا بسعر مغري 470</h3>
+																<div class="itemInfoRow ">
+																	<div class="rightText iconAndTextContainer">
+																		<amp-img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																			<noscript>
+																				<img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17">
+																			</noscript>
+																		</amp-img>
+																		<span>
+																			قبل 6 أشهر و8 أيام
+																		</span>
+																	</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				الرياض
+																			</span>
+																		</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				470 ريال سعودي
+																			</span>
+																		</div>
+																</div>
+															</div>
+															<div class="imageContainer">
+																<amp-img src="https://images.mstaml.com/bundles/s175300668250540078-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s175300668250540078-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s175300668250540078-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s175300668250540078-w348h348-numOfImgs1.webp 3x" width="116" height="116" alt="الصورة الأولى" layout="fixed" id="i-amp-19" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:116px;height:116px" i-amphtml-layout="fixed">
+																	<noscript>
+																		<img class="noScriptImage" src="https://images.mstaml.com/bundles/s175300668250540078-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s175300668250540078-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s175300668250540078-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s175300668250540078-w348h348-numOfImgs1.webp 3x" alt="الصورة الأولى" width="116" height="116">
+																	</noscript>
+																</amp-img>
+															</div>
+														</a>
+														<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%8A%D9%88%D9%85-%D8%B4%D8%A8%D9%87-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD%D9%87%D8%A7?id=4523897&amp;location=34&amp;type=85.119" class="marketForumListItem">
+															<div class="title">
+																
+																<h3>أبواب المنيوم شبه جديدة  بمفاتيحها</h3>
+																<div class="itemInfoRow ">
+																	<div class="rightText iconAndTextContainer">
+																		<amp-img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																			<noscript>
+																				<img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17">
+																			</noscript>
+																		</amp-img>
+																		<span>
+																			قبل 6 أشهر و19 يوم
+																		</span>
+																	</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				الدمام
+																			</span>
+																		</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				500 ريال سعودي
+																			</span>
+																		</div>
+																</div>
+															</div>
+															<div class="imageContainer">
+																<amp-img src="https://images.mstaml.com/bundles/s175208873220610017-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s175208873220610017-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s175208873220610017-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s175208873220610017-w348h348-numOfImgs1.webp 3x" width="116" height="116" alt="الصورة الأولى" layout="fixed" id="i-amp-20" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:116px;height:116px" i-amphtml-layout="fixed">
+																	<noscript>
+																		<img class="noScriptImage" src="https://images.mstaml.com/bundles/s175208873220610017-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s175208873220610017-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s175208873220610017-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s175208873220610017-w348h348-numOfImgs1.webp 3x" alt="الصورة الأولى" width="116" height="116">
+																	</noscript>
+																</amp-img>
+															</div>
+														</a>
+														<a href="https://www.mstaml.com/sa/product/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9/%D8%AC%D8%AF%D8%A9/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A/%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%AD%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D9%85%D8%AF%D8%AE%D9%84-%D8%8C%D8%A8%D8%A7%D8%A8%D9%83-%D8%A3%D9%85%D8%A7%D9%86%D9%83-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9-%D8%A8%D8%B3%D8%B9%D8%B1-850-%D8%B1%D9%8A%D8%A7%D9%84-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A?id=4494253&amp;location=26&amp;type=85.119" class="marketForumListItem">
+															<div class="title">
+																
+																<h3>أبواب حديد للمدخل ،بابك أمانك في جدة بسعر 850 ريال سعودي</h3>
+																<div class="itemInfoRow ">
+																	<div class="rightText iconAndTextContainer">
+																		<amp-img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																			<noscript>
+																				<img src="https://www.mstaml.com/svgs/time-icon.svg" alt="تاريخ التحديث" width="17" height="17">
+																			</noscript>
+																		</amp-img>
+																		<span>
+																			قبل 8 أشهر و5 أيام
+																		</span>
+																	</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/location-icon.svg" alt="المكان" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				جدة
+																			</span>
+																		</div>
+																		<div class="iconAndTextContainer">
+																			<amp-img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:17px;height:17px" i-amphtml-layout="fixed">
+																				<noscript>
+																					<img src="https://www.mstaml.com/svgs/money-icon.svg" alt="السعر" width="17" height="17">
+																				</noscript>
+																			</amp-img>
+																			<span>
+																				850 ريال سعودي
+																			</span>
+																		</div>
+																</div>
+															</div>
+															<div class="imageContainer">
+																<amp-img src="https://images.mstaml.com/bundles/s174809853246910064-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s174809853246910064-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s174809853246910064-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s174809853246910064-w348h348-numOfImgs1.webp 3x" width="116" height="116" alt="الصورة الأولى" layout="fixed" id="i-amp-21" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:116px;height:116px" i-amphtml-layout="fixed">
+																	<noscript>
+																		<img class="noScriptImage" src="https://images.mstaml.com/bundles/s174809853246910064-w116h116-numOfImgs1.webp" srcset="https://images.mstaml.com/bundles/s174809853246910064-w116h116-numOfImgs1.webp 1x, https://images.mstaml.com/bundles/s174809853246910064-w232h232-numOfImgs1.webp 2x, https://images.mstaml.com/bundles/s174809853246910064-w348h348-numOfImgs1.webp 3x" alt="الصورة الأولى" width="116" height="116">
+																	</noscript>
+																</amp-img>
+															</div>
+														</a>
+														<a class="showMoreLink" href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A?location=30&amp;type=85.119">
+															عرض المزيد..
+														</a>
+												</div>
+											</div>
+									</div>
+							</div>
+				</div>
+		</div>
+			<div class="footerForDesktop">
+				<footer>
+					<div class="wrapper">
+						<div class="upperSection">
+							<section class="imgAndDescContainer">
+								<div class="flex-container">
+									<a href="https://www.mstaml.com" aria-label="الرئيسية">
+										<amp-img src="https://www.mstaml.com/svgs/mstaml-logo-ffffff.svg" alt="شعار مستعمل" width="120" height="120" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:120px;height:120px" i-amphtml-layout="fixed">
+											<noscript>
+												<img src="https://www.mstaml.com/svgs/mstaml-logo-ffffff.svg" alt="شعار مستعمل" width="120" height="120">
+											</noscript>
+										</amp-img>
+									</a>
+								</div>
+								<p class="descContainer">
+									موقع مستعمل
+										في السعودية
+									ابحث عن أي سلع معروضة من أصحابها القريبة منك أو بيع أي غرض عندك بأسرع وقت وتصفح العروض في اقسام السيارات والجوالات والأجهزة والعقارات والعديد من الأقسام، تأسس موقع مستعمل عام 2002م ويتبع لشركة Mstaml INC.
+								</p>
+							</section>
+							<section class="socialMediaContainer">
+								<small>
+									تابعنا على:
+								</small>
+									<div class="menuSocialLinks">
+										<a href="https://www.facebook.com/mstamlcom" aria-label="فيسبوك" target="_blank">
+											<amp-img src="https://www.mstaml.com/svgs/facebook-icon-ffffff.svg" alt="شعار فيسبوك" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+												<noscript>
+													<img src="https://www.mstaml.com/svgs/facebook-icon-ffffff.svg" alt="شعار فيسبوك" width="24" height="24">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://www.instagram.com/mstamlcom" aria-label="إنستغرام" target="_blank">
+											<amp-img src="https://www.mstaml.com/svgs/instagram-icon-ffffff.svg" alt="شعار إنستغرام" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+												<noscript>
+													<img src="https://www.mstaml.com/svgs/instagram-icon-ffffff.svg" alt="شعار إنستغرام" width="24" height="24">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://twitter.com/mstaml_com" aria-label="تويتر" target="_blank">
+											<amp-img src="https://www.mstaml.com/svgs/twitter-icon-ffffff.svg" alt="شعار تويتر" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+												<noscript>
+													<img src="https://www.mstaml.com/svgs/twitter-icon-ffffff.svg" alt="شعار تويتر" width="24" height="24">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://www.snapchat.com/add/mstamlapp" aria-label="سناب شات" target="_blank">
+											<amp-img src="https://www.mstaml.com/svgs/snap-chat-icon-ffffff.svg" alt="شعار سناب شات" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+												<noscript>
+													<img src="https://www.mstaml.com/svgs/snap-chat-icon-ffffff.svg" alt="شعار سناب شات" width="24" height="24">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://www.youtube.com/mstamlcom" aria-label="يوتيوب" target="_blank">
+											<amp-img src="https://www.mstaml.com/svgs/youtube-icon-ffffff.svg" alt="شعار يوتيوب" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+												<noscript>
+													<img src="https://www.mstaml.com/svgs/youtube-icon-ffffff.svg" alt="شعار يوتيوب" width="24" height="24">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://web.whatsapp.com/send?phone=966920009471" aria-label="واتساب" target="_blank">
+											<amp-img src="https://www.mstaml.com/svgs/whatsapp-icon-ffffff.svg" alt="شعار واتساب" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+												<noscript>
+													<img src="https://www.mstaml.com/svgs/whatsapp-icon-ffffff.svg" alt="شعار واتساب" width="24" height="24">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://www.linkedin.com/company/mstaml/" aria-label="لينكد إن" target="_blank">
+											<amp-img src="https://www.mstaml.com/svgs/linked-in-icon-ffffff.svg" alt="شعار لينكد إن" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:24px;height:24px" i-amphtml-layout="fixed">
+												<noscript>
+													<img src="https://www.mstaml.com/svgs/linked-in-icon-ffffff.svg" alt="شعار لينكد إن" width="24" height="24">
+												</noscript>
+											</amp-img>
+										</a>
+									</div>
+							</section>
+						</div>
+						<hr>
+						<div class="lowerSection">
+							<div>
+								<h2>
+									أهم الاقسام:
+								</h2>
+								<ul>
+										<li>
+											<a href="https://www.mstaml.com/market/%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA?type=4"><span>سيارات ومركبات</span></a>
+										</li>
+										<li>
+											<a href="https://www.mstaml.com/market/%D8%AC%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A3%D8%B1%D9%82%D8%A7%D9%85?type=6"><span>جوالات وأرقام</span></a>
+										</li>
+										<li>
+											<a href="https://www.mstaml.com/market/%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AF%D9%8A%D9%83%D9%88%D8%B1?type=85"><span>اثاث وديكور</span></a>
+										</li>
+										<li>
+											<a href="https://www.mstaml.com/market/%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA?type=7"><span>أجهزة والكترونيات</span></a>
+										</li>
+										<li>
+											<a href="https://www.mstaml.com/market/%D9%85%D9%84%D8%A7%D8%A8%D8%B3-%D9%88%D8%A3%D8%B2%D9%8A%D8%A7%D8%A1?type=83"><span>ملابس وأزياء</span></a>
+										</li>
+								</ul>
+							</div>
+								<div>
+									<h2>
+										أهم المدن:
+									</h2>
+									<ul>
+											<li>
+												<a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6?location=31"><span>الرياض</span></a>
+											</li>
+											<li>
+												<a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9/%D8%AC%D8%AF%D8%A9?location=26"><span>جدة</span></a>
+											</li>
+											<li>
+												<a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9/%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9?location=32"><span>مكة المكرمة</span></a>
+											</li>
+											<li>
+												<a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85?location=34"><span>الدمام</span></a>
+											</li>
+											<li>
+												<a href="https://www.mstaml.com/sa/market/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9/%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9?location=33"><span>المدينة المنورة</span></a>
+											</li>
+									</ul>
+								</div>
+							<div>
+								<h2>
+									أهم الخدمات:
+								</h2>
+								<ul>
+									<li>
+										<a href="https://www.mstaml.com/add" rel="nofollow"><span>أضف إعلان</span></a>
+									</li>
+									<li>
+										<a href="https://www.mstaml.com/shop" rel="nofollow"><span>متجرك الخاص</span></a>
+									</li>
+									<li>
+										<a href="https://www.mstaml.com/power-ads" rel="nofollow"><span>إعلانات باور</span></a>
+									</li>
+									<li>
+										<a href="https://www.mstaml.com/merchant" rel="nofollow"><span>عضوية التاجر</span></a>
+									</li>
+									<li>
+										<a href="https://www.mstaml.com/black-list" rel="nofollow"><span>القائمة السوداء</span></a>
+									</li>
+								</ul>
+							</div>
+							<div>
+								<h2>
+									قد تهمك:
+								</h2>
+								<ul>
+									<li>
+										<a href="https://www.mstaml.com/help"><span>الدعم الفني</span></a>
+									</li>
+									<li>
+										<a href="https://www.mstaml.com/forum"><span>النقاشات</span></a>
+									</li>
+									<li>
+										<a href="https://www.mstaml.com/about"><span>عن مستعمل</span></a>
+									</li>
+									<li>
+										<a href="https://global.mstaml.com/"><span>أخبار مستعمل</span></a>
+									</li>
+									<li>
+										<a href="https://www.almuraba.net/"><span>أخبار السيارات</span></a>
+									</li>
+								</ul>
+							</div>
+							<div>
+								<div>
+									<h2>حمله الآن على جوالك:</h2>
+								</div>
+								<div>
+									<div class="downloadAppFrom">
+										<a href="https://itunes.apple.com/sa/app/%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84/id1061118094?mt=8" aria-label="تحميل من متجر أبل" target="_blank">
+											<amp-img alt="شعار متجر أبل" src="https://images.mstaml.com/static/apple-download-ar-2023-01-08.png" width="100" height="33" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:100px;height:33px" i-amphtml-layout="fixed">
+												<noscript>
+													<img alt="شعار متجر أبل" src="https://images.mstaml.com/static/apple-download-ar-2023-01-08.png" width="100" height="33">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://play.google.com/store/apps/details?id=com.mstaml.App" aria-label="تحميل من متجر غوغل بلي" target="_blank">
+											<amp-img alt="شعار متجر غوغل بلي" src="https://images.mstaml.com/static/google-download-ar-2023-01-08.png" width="100" height="33" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:100px;height:33px" i-amphtml-layout="fixed">
+												<noscript>
+													<img alt="شعار متجر غوغل بلي" src="https://images.mstaml.com/static/google-download-ar-2023-01-08.png" width="100" height="33">
+												</noscript>
+											</amp-img>
+										</a>
+										<a href="https://appgallery.cloud.huawei.com/ag/n/app/C102439431" aria-label="تحميل من متجر هواوي" target="_blank">
+											<amp-img alt="شعار متجر هواوي" src="https://images.mstaml.com/static/app-gallery-download-ar-2023-01-08.png" width="100" height="33" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:100px;height:33px" i-amphtml-layout="fixed">
+												<noscript>
+													<img alt="شعار متجر هواوي" src="https://images.mstaml.com/static/app-gallery-download-ar-2023-01-08.png" width="100" height="33">
+												</noscript>
+											</amp-img>
+										</a>
+									</div>								</div>
+								<div class="rightsNote">
+									<small>
+										جميع الحقوق محفوظة ©2026
+									</small>
+								</div>
+							</div>
+						</div>
+					</div>
+				</footer>			</div>
+	<amp-install-serviceworker src="https://www.mstaml.com/my-service-worker.js" data-iframe-src="https://www.mstaml.com/my-service-worker.php" layout="nodisplay" class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay">
+	</amp-install-serviceworker>
+	
+</body></html>
