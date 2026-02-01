@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>فريق المطورين المحترفين | مظلات وسواتر مؤسسة القاسم | ورشة حدادة بالرياض</title>
+
+    <!-- تحسين متقدم لـ Meta Tags للسيو الخليجي -->
+    <meta name="description"
+        content="فريق مطورين محترفين متخصصون في البرمجة والأمن السيبراني - بالتعاون مع مؤسسة القاسم الرائدة في مظلات وسواتر الرياض، أبواب حديد ليزر، تفصيل شبابيك، ورشة حدادة معتمدة شمال الرياض">
+
+    <meta name="keywords"
+        content="فريق مطورين, برمجة, أمن سيبراني, مظلات وسواتر, الرياض, ورشة حدادة بالرياض, حداد هنجار, أبواب حديد ليزر, تفصيل شبابيك, مقاول حدادة معتمد, حداد رخيص وممتاز, ورشة حدادة شمال الرياض, ساندوتش بانل, مظلات, سواتر, مقاولات, غرف معزولة, برجولات">
+
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="مؤسسة القاسم - فريق المطورين المحترفين">
+
+    <!-- Open Graph للتواصل الاجتماعي -->
+    <meta property="og:title" content="فريق المطورين المحترفين | مظلات وسواتر مؤسسة القاسم">
+    <meta property="og:description"
+        content="نخبة من المبرمجين ومهندسي الأمن السيبراني بالتعاون مع مؤسسة القاسم - ورشة حدادة معتمدة بالرياض">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="img/LOGO.PNG">
+    <meta property="og:url" content="">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="فريق المطورين المحترفين | ورشة حدادة بالرياض">
+    <meta name="twitter:description" content="مطورون محترفون + مؤسسة القاسم لمظلات وسواتر وأبواب حديد ليزر - الرياض">
+
+    <!-- Geo Tags للسعودية -->
+    <meta name="geo.region" content="SA-RIY">
+    <meta name="geo.placename" content="الرياض">
+    <meta name="geo.position" content="24.7136;46.6753">
+    <meta name="ICBM" content="24.7136, 46.6753">
+
+    <!-- Structured Data لتحسين السيو -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "فريق المطورين المحترفين - مؤسسة القاسم",
+        "description": "نخبة من المبرمجين ومهندسي الأمن السيبراني بالتعاون مع مؤسسة القاسم المتخصصة في مظلات وسواتر وأبواب حديد ليزر بالرياض",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "الرياض",
+            "addressRegion": "منطقة الرياض",
+            "addressCountry": "SA"
+        },
+        "keywords": "ورشة حدادة بالرياض, حداد هنجار, مظلات وسواتر, أبواب حديد ليزر, تفصيل شبابيك, مقاول حدادة معتمد",
+        "url": "",
+        "telephone": "+966774464694"
+    }
+    </script>
+
+    <style>
+        /* نفس التصميم تماماً مع إضافة قاعدة الأمان للصور */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* قاعدة أمان الصور لضمان CLS = 0 */
+        img {
+            max-width: 100%;
+            height: auto !important;
+            display: block;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .floating-buttons {
+            position: fixed;
+            left: 30px;
+            bottom: 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            z-index: 1000;
+        }
+
+        .floating-btn {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            text-decoration: none;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .floating-btn.phone {
+            background-color: #2ecc71;
+            color: white;
+        }
+
+        .floating-btn.whatsapp {
+            background-color: #25D366;
+            color: white;
+        }
+
+        .floating-btn:hover {
+            transform: scale(1.1);
+        }
+
+        .floating-btn.phone:hover {
+            background-color: #27ae60;
+        }
+
+        .floating-btn.whatsapp:hover {
+            background-color: #128C7E;
+        }
+
+        .btn-tooltip {
+            position: absolute;
+            left: 70px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            white-space: nowrap;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
+        }
+
+        .floating-btn:hover .btn-tooltip {
+            opacity: 1;
+        }
+
+        .back-to-home {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #3498db;
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            text-decoration: none;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            z-index: 1001;
+            transition: all 0.3s ease;
+        }
+
+        .back-to-home:hover {
+            background-color: #2980b9;
+            transform: scale(1.1);
+        }
+
+        .back-to-home .tooltip {
+            position: absolute;
+            right: 60px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            white-space: nowrap;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
+        }
+
+        .back-to-home:hover .tooltip {
+            opacity: 1;
+        }
+
+        .main-header {
+            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+            margin-bottom: 40px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .main-header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 100%;
+            height: 100%;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none"><path d="M0,0 L100,0 L100,100 Z" fill="rgba(255,255,255,0.1)"/></svg>');
+            background-size: cover;
+        }
+
+        .main-header h1 {
+            font-size: 2.8rem;
+            margin-bottom: 15px;
+            position: relative;
+            z-index: 1;
+            animation: fadeInDown 1s ease;
+        }
+
+        .main-header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            position: relative;
+            z-index: 1;
+            animation: fadeInUp 1s ease 0.3s both;
+        }
+
+        .articles-container {
+            max-width: 1200px;
+            margin: 0 auto 60px;
+            padding: 0 20px;
+        }
+
+        .articles-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .article-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            animation: fadeIn 0.8s ease;
+        }
+
+        .article-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .article-image {
+            height: 250px;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .article-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .article-card:hover .article-image img {
+            transform: scale(1.05);
+        }
+
+        .article-content {
+            padding: 25px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .article-header {
+            margin-bottom: 15px;
+        }
+
+        .article-author {
+            color: #7f8c8d;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+
+        .article-author i {
+            color: #3498db;
+        }
+
+        .article-title {
+            font-size: 1.4rem;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            line-height: 1.3;
+        }
+
+        .article-date {
+            color: #95a5a6;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+
+        .article-date i {
+            color: #e74c3c;
+        }
+
+        .article-excerpt {
+            color: #555;
+            line-height: 1.7;
+            margin-bottom: 25px;
+            flex: 1;
+        }
+
+        .read-more {
+            background: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            transition: all 0.3s ease;
+            align-self: flex-start;
+        }
+
+        .read-more:hover {
+            background: #2980b9;
+            transform: translateX(-5px);
+        }
+
+        /* قسم المطورين الجديد */
+        .developers-container {
+            max-width: 1200px;
+            margin: 0 auto 60px;
+            padding: 0 20px;
+        }
+
+        .developers-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .developer-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            padding: 30px;
+            text-align: center;
+            animation: fadeIn 0.8s ease;
+        }
+
+        .developer-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .developer-avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            background: linear-gradient(135deg, #3498db, #2c3e50);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+            color: white;
+            font-weight: bold;
+            border: 5px solid #f8f9fa;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .developer-name {
+            font-size: 1.8rem;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            animation: pulse 2s infinite;
+        }
+
+        .developer-title {
+            color: #3498db;
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .developer-age {
+            background: #f8f9fa;
+            padding: 5px 15px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #7f8c8d;
+        }
+
+        .developer-contact {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding: 10px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .contact-item:hover {
+            background: white;
+            transform: translateX(5px);
+        }
+
+        .contact-item i {
+            color: #3498db;
+            font-size: 1.2rem;
+            width: 30px;
+        }
+
+        .contact-info {
+            text-align: right;
+            flex: 1;
+        }
+
+        .contact-label {
+            font-size: 0.9rem;
+            color: #7f8c8d;
+        }
+
+        .contact-value {
+            color: #2c3e50;
+            font-weight: 500;
+        }
+
+        .phone-number {
+            font-size: 1.3rem;
+            color: #2ecc71;
+            font-weight: bold;
+            direction: ltr;
+            animation: shake 3s infinite;
+        }
+
+        footer {
+            background: linear-gradient(135deg, #1a252f 0%, #2c3e50 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .footer-highlight {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 40px;
+            backdrop-filter: blur(10px);
+        }
+
+        .footer-highlight h3 {
+            color: white;
+            font-size: 1.8rem;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .footer-highlight p {
+            color: #ecf0f1;
+            line-height: 1.8;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+
+        .contact-info {
+            margin: 30px 0;
+        }
+
+        .phone-number {
+            font-size: 2.2rem;
+            color: #3498db;
+            font-weight: bold;
+            margin: 15px 0;
+            direction: ltr;
+            display: inline-block;
+        }
+
+        .call-now {
+            font-size: 1.3rem;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .copyright {
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            color: #95a5a6;
+        }
+
+        .company-name {
+            font-size: 1.5rem;
+            color: white;
+            margin-bottom: 10px;
+        }
+
+        /* الحركات البصرية المضافة فقط */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        @keyframes shake {
+
+            0%,
+            100% {
+                transform: translateX(0);
+            }
+
+            10%,
+            30%,
+            50%,
+            70%,
+            90% {
+                transform: translateX(-3px);
+            }
+
+            20%,
+            40%,
+            60%,
+            80% {
+                transform: translateX(3px);
+            }
+        }
+
+        /* التصميم متجاوب - نفس الأسلوب السابق مع تحسينات للهواتف */
+        @media (max-width: 768px) {
+            .main-header {
+                padding: 40px 20px;
+            }
+
+            .main-header h1 {
+                font-size: 2rem;
+            }
+
+            .main-header p {
+                font-size: 1.1rem;
+            }
+
+            .articles-grid,
+            .developers-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .floating-buttons {
+                left: 20px;
+                bottom: 20px;
+            }
+
+            .floating-btn {
+                width: 50px;
+                height: 50px;
+                font-size: 20px;
+            }
+
+            .phone-number {
+                font-size: 1.8rem;
+            }
+
+            .back-to-home {
+                top: 15px;
+                right: 15px;
+                width: 45px;
+                height: 45px;
+                font-size: 18px;
+            }
+
+            /* تحسينات تجاوبية إضافية للهواتف */
+            .developer-card {
+                padding: 20px;
+            }
+
+            .article-content {
+                padding: 20px;
+            }
+
+            .footer-highlight {
+                padding: 20px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .main-header h1 {
+                font-size: 1.6rem;
+            }
+
+            .main-header p {
+                font-size: 1rem;
+            }
+
+            .article-content,
+            .developer-card {
+                padding: 15px;
+            }
+
+            .article-title,
+            .developer-name {
+                font-size: 1.2rem;
+            }
+
+            .phone-number {
+                font-size: 1.5rem;
+            }
+
+            .footer-highlight {
+                padding: 15px;
+            }
+
+            .footer-highlight h3 {
+                font-size: 1.4rem;
+            }
+
+            /* تحسين تجاوب الأزرار العائمة على الهواتف الصغيرة */
+            .floating-buttons {
+                left: 15px;
+                bottom: 15px;
+                gap: 10px;
+            }
+
+            .floating-btn {
+                width: 45px;
+                height: 45px;
+                font-size: 18px;
+            }
+
+            .btn-tooltip {
+                left: 60px;
+                font-size: 12px;
+                padding: 6px 10px;
+            }
+        }
+
+        /* تحسين خاص للشاشات الأفقية */
+        @media (max-height: 500px) and (orientation: landscape) {
+            .floating-buttons {
+                flex-direction: row;
+                left: 50%;
+                transform: translateX(-50%);
+                bottom: 10px;
+            }
+
+            .back-to-home {
+                top: 10px;
+                right: 10px;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- رابط Favicon -->
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="apple-touch-icon" href="img/favicon.png">
+</head>
+
+<body>
+    <!-- زر العودة للرئيسية -->
+    <a href="index.html" class="back-to-home" title="العودة للصفحة الرئيسية">
+        <i class="fas fa-home"></i>
+        <span class="tooltip">العودة للرئيسية</span>
+    </a>
+
+    <!-- أزرار الاتصال العائمة -->
+    <div class="floating-buttons">
+        <a href="tel:+966774464694" class="floating-btn phone">
+            <i class="fas fa-phone"></i>
+            <span class="btn-tooltip">اتصال هاتفي</span>
+        </a>
+        <a href="https://wa.me/966774464694" target="_blank" class="floating-btn whatsapp">
+            <i class="fab fa-whatsapp"></i>
+            <span class="btn-tooltip">واتساب</span>
+        </a>
+    </div>
+
+    <!-- شعار الشركة في الرأس مع تحسينات السيو والأداء -->
+    <div style="
+        background: linear-gradient(135deg, #99a9ba, #1a252f);
+        padding: 30px 20px;
+        text-align: center;
+        margin-bottom: 30px;
+        border-radius: 0 0 15px 15px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    ">
+        <img src="img/logo.webp" alt="شعار مؤسسة القاسم - ورشة حدادة بالرياض - مظلات وسواتر - أبواب حديد ليزر"
+            width="300" height="80" loading="eager" fetchpriority="high" decoding="async" style="
+                max-width: 300px;
+                height: auto;
+                margin-bottom: 15px;
+                filter: drop-shadow(0 5px 10px rgba(255,255,255,0.1));
+             ">
+
+        <h1 style="
+            color: white;
+            margin: 10px 0 5px 0;
+            font-size: 28px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        ">
+            مظلات وسواتر مؤسسة القاسم - ورشة حدادة معتمدة بالرياض
+        </h1>
+
+        <p style="
+            color: #3498db;
+            font-size: 18px;
+            font-weight: bold;
+            margin: 5px 0 0 0;
+        ">
+            <i class="fas fa-star" style="margin-left: 8px;"></i>
+            خبرة واسعة في جميع أعمال الحدادة - أبواب حديد ليزر - تفصيل شبابيك - حداد هنجار محترف
+            <i class="fas fa-star" style="margin-right: 8px;"></i>
+        </p>
+    </div>
+
+    <!-- المحتوى الرئيسي -->
+    <div class="main-content">
+        <!-- العنوان الرئيسي -->
+        <header class="main-header">
+            <h1>فريق المطورين المحترفين | بالتعاون مع مؤسسة القاسم</h1>
+            <p>نخبة من المبرمجين ومهندسي الأمن السيبراني - دعم تقني لورشة حدادة بالرياض ومقاول حدادة معتمد</p>
+        </header>
+
+        <!-- قسم المطورين -->
+        <section class="developers-container">
+            <div class="developers-grid">
+                <!-- المطور الأول -->
+                <div class="developer-card">
+                    <div class="developer-avatar">ح</div>
+                    <h2 class="developer-name">حمزة خالد عماري</h2>
+                    <p class="developer-title">مهندس برمجيات & أمن سيبراني</p>
+                    <span class="developer-age">العمر: 28 سنة</span>
+
+                    <div class="developer-contact">
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <div class="contact-info">
+                                <div class="contact-label">رقم الهاتف</div>
+                                <div class="contact-value phone-number">+966 77 446 4694</div>
+                            </div>
+                        </div>
+
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <div class="contact-info">
+                                <div class="contact-label">البريد الإلكتروني</div>
+                                <div class="contact-value">hamza.omari774464@gmail.com</div>
+                            </div>
+                        </div>
+
+                        <div class="contact-item">
+                            <i class="fas fa-globe"></i>
+                            <div class="contact-info">
+                                <div class="contact-label">الموقع الإلكتروني</div>
+                                <div class="contact-value">hamza77.github.io</div>
+                            </div>
+                        </div>
+
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <div class="contact-info">
+                                <div class="contact-label">الموقع</div>
+                                <div class="contact-value">المملكة العربية السعودية - الرياض</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- المطور الثاني -->
+                <div class="developer-card">
+                    <div class="developer-avatar">أ</div>
+                    <h2 class="developer-name">محمد عبدالله دمر</h2>
+                    <p class="developer-title">مهندس برمجيات</p>
+                    <span class="developer-age">العمر: 26 سنة</span>
+
+                    <div class="developer-contact">
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <div class="contact-info">
+                                <div class="contact-label">رقم الهاتف</div>
+                                <div class="contact-value phone-number">+967 771816325</div>
+                            </div>
+                        </div>
+
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <div class="contact-info">
+                                <div class="contact-label">البريد الإلكتروني</div>
+                                <div class="contact-value">dmhmbdbdallhnasr@gmail.com</div>
+                            </div>
+                        </div>
+
+                        <div class="contact-item">
+                            <i class="fas fa-globe"></i>
+                            <div class="contact-info">
+                                <div class="contact-label">فيس بوك</div>
+                                <div class="contact-value">أخو شامخ دمر</div>
+                            </div>
+                        </div>
+
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <div class="contact-info">
+                                <div class="contact-label">الموقع</div>
+                                <div class="contact-value">اليمن</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- قسم المقالات -->
+        <section class="articles-container">
+            <div class="articles-grid">
+                <!-- المقالة -->
+                <article class="article-card">
+                    <div class="article-image">
+                        <img src="img/developer.jpg" alt="مهندس برمجيات وأمن سيبراني - دعم تقني لورشة حدادة بالرياض"
+                            width="600" height="400" loading="lazy" decoding="async">
+                    </div>
+                    <div class="article-content">
+                        <div class="article-header">
+                            <div class="article-author">
+                                <i class="fas fa-user"></i>
+                                بقلم: حمزة خالد عماري
+                            </div>
+                            <h2 class="article-title">رحلتي في عالم البرمجة والأمن السيبراني - دعم ورشة حدادة بالرياض
+                            </h2>
+                            <div class="article-date">
+                                <i class="far fa-calendar-alt"></i>
+                                يناير 2024
+                            </div>
+                        </div>
+                        <p class="article-excerpt">
+                            بدأت رحلتي في عالم البرمجة منذ أكثر من 10 سنوات، تخصصت في هندسة البرمجيات وتطوير الأنظمة
+                            المعقدة. مع تطور التكنولوجيا، اتجهت إلى الأمن السيبراني لحماية الأنظمة من الهجمات
+                            الإلكترونية. اليوم، أجمع بين خبرتي في البرمجة ومعرفتي في الأمن السيبراني لإنشاء حلول رقمية
+                            آمنة وفعالة لدعم الأعمال التجارية مثل مؤسسة القاسم المتخصصة في مظلات وسواتر الرياض، أبواب
+                            حديد ليزر، تفصيل شبابيك، ورشة حدادة معتمدة شمال الرياض.
+                        </p>
+                        <a href="#" class="read-more">
+                            اقرأ المزيد
+                            <i class="fas fa-arrow-left"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- مقالة إضافية لتحسين السيو -->
+                <article class="article-card">
+                    <div class="article-image">
+                        <img src="img/hamza.webp" alt="تقنيات حديثة في ورشات الحدادة بالرياض - حداد هنجار محترف"
+                            width="600" height="400" loading="lazy" decoding="async">
+                    </div>
+                    <div class="article-content">
+                        <div class="article-header">
+                            <div class="article-author">
+                                <i class="fas fa-user"></i>
+                                بقلم: فريق المطورين
+                            </div>
+                            <h2 class="article-title">دمج التقنية مع الحدادة: كيف ندعم ورشات الحدادة بالتقنيات الحديثة
+                            </h2>
+                            <div class="article-date">
+                                <i class="far fa-calendar-alt"></i>
+                                فبراير 2024
+                            </div>
+                        </div>
+                        <p class="article-excerpt">
+                            في عصر الرقمنة، أصبح دمج التقنية مع الحرف اليدوية مثل الحدادة ضرورة ملحة. نحن في فريق
+                            المطورين نقدم حلولاً تقنية متكاملة لورشات الحدادة بالرياض، بدءاً من أنظمة إدارة المشاريع،
+                            مروراً بتصميم المواقع التسويقية، ووصولاً إلى تطبيقات الجوال الخاصة بتتبع أعمال الحدادة. نعمل
+                            يداً بيد مع مؤسسة القاسم الرائدة في مجال مظلات وسواتر الرياض، أبواب حديد ليزر، تفصيل شبابيك،
+                            وخدمات مقاول حدادة معتمد.
+                        </p>
+                        <a href="#" class="read-more">
+                            اقرأ المزيد
+                            <i class="fas fa-arrow-left"></i>
+                        </a>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <!-- التذييل -->
+        <footer>
+            <div class="footer-content">
+                <div class="footer-highlight">
+                    <h3>فريق المطورين المحترفين - بالتعاون مع مؤسسة القاسم</h3>
+                    <p>
+                        نحن فريق من المطورين المحترفين المتخصصين في البرمجة والأمن السيبراني. نقدم حلولاً تقنية متكاملة
+                        وآمنة تلبي احتياجات العصر الرقمي. بالتعاون مع مؤسسة القاسم المتخصصة في مظلات وسواتر الرياض،
+                        أبواب حديد ليزر، تفصيل شبابيك، ورشة حدادة معتمدة شمال الرياض، نقدم حزمة متكاملة من الخدمات
+                        التقنية والتطويرية.
+                    </p>
+                    <p>
+                        <strong>خدماتنا:</strong> تطوير مواقع إلكترونية لورش الحدادة، تطبيقات جوال لتتبع المشاريع، أنظمة
+                        أمنية لحماية البيانات، واستشارات تقنية لورشة حدادة بالرياض وحداد هنجار محترف.
+                    </p>
+
+                    <div class="contact-info">
+                        <div class="call-now">اتصل الآن للاستفسار أو التعاون - دعم ورشة حدادة بالرياض</div>
+                        <div class="phone-number">+966 77 446 4694</div>
+                    </div>
+                </div>
+
+                <div class="copyright">
+                    <div class="company-name">فريق المطورين المحترفين - مؤسسة القاسم لمظلات وسواتر الرياض</div>
+                    <p>© 2024 جميع الحقوق محفوظة | ورشة حدادة بالرياض | حداد هنجار محترف | أبواب حديد ليزر | تفصيل
+                        شبابيك</p>
+                    <p style="margin-top: 10px; font-size: 1.2rem;">+966 77 446 4694</p>
+                    <p style="margin-top: 5px; font-size: 0.9rem; color: #bdc3c7;">
+                        خدماتنا: مقاول حدادة معتمد - حداد رخيص وممتاز - ورشة حدادة شمال الرياض - سواتر ومظلات - برجولات
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        // نفس السكريبت السابق مع إضافة تأثيرات بسيطة
+        document.addEventListener('DOMContentLoaded', function () {
+            // إضافة تأثير ظهور البطاقات
+            const cards = document.querySelectorAll('.developer-card, .article-card');
+            cards.forEach((card, index) => {
+                card.style.opacity = '0';
+                card.style.transform = 'translateY(20px)';
+
+                setTimeout(() => {
+                    card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+                    card.style.opacity = '1';
+                    card.style.transform = 'translateY(0)';
+                }, index * 200);
+            });
+
+            // تأثير تأرجح للأرقام
+            const phoneNumbers = document.querySelectorAll('.phone-number');
+            phoneNumbers.forEach(number => {
+                setInterval(() => {
+                    number.style.transform = 'scale(1.05)';
+                    setTimeout(() => {
+                        number.style.transform = 'scale(1)';
+                    }, 300);
+                }, 3000);
+            });
+
+            // تأثير تألق للأسماء
+            const names = document.querySelectorAll('.developer-name');
+            names.forEach(name => {
+                setInterval(() => {
+                    name.style.textShadow = '0 0 10px rgba(52, 152, 219, 0.5)';
+                    setTimeout(() => {
+                        name.style.textShadow = 'none';
+                    }, 1000);
+                }, 5000);
+            });
+
+            // تأثير عند التمرير
+            window.addEventListener('scroll', function () {
+                const backButton = document.querySelector('.back-to-home');
+                const floatingButtons = document.querySelector('.floating-buttons');
+
+                if (window.scrollY > 300) {
+                    backButton.style.opacity = '1';
+                    backButton.style.transform = 'scale(1)';
+                    floatingButtons.style.opacity = '1';
+                } else {
+                    backButton.style.opacity = '0.8';
+                    backButton.style.transform = 'scale(0.95)';
+                    floatingButtons.style.opacity = '0.9';
+                }
+            });
+
+            // تحسين تجاوب الأزرار على الهواتف
+            document.querySelectorAll('.floating-btn').forEach(btn => {
+                btn.addEventListener('touchstart', function () {
+                    this.style.transform = 'scale(0.95)';
+                });
+
+                btn.addEventListener('touchend', function () {
+                    this.style.transform = 'scale(1)';
+                });
+            });
+
+            // تحسين أداء الصور
+            const images = document.querySelectorAll('img');
+            images.forEach(img => {
+                // التأكد من تحميل الصور بشكل صحيح
+                if (img.complete) {
+                    img.style.opacity = '1';
+                } else {
+                    img.addEventListener('load', function () {
+                        this.style.opacity = '1';
+                    });
+                    img.style.opacity = '0';
+                    img.style.transition = 'opacity 0.3s ease';
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

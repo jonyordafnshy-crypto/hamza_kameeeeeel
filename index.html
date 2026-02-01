@@ -1,0 +1,2499 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مؤسسة القاسم - أفضل ورشة حدادة بالرياض | مظلات وسواتر | أبواب حديد ليزر | حداد هنجار معتمد</title>
+
+    <!-- Meta Tags لتحسين SEO محلي في السعودية والخليج -->
+    <meta name="description"
+        content="مؤسسة القاسم - أفضل ورشة حدادة بالرياض مع 20+ سنة خبرة في: تركيب مظلات سيارات، سواتر حديد ليزر، برجولات خشبية، هناجر ساندوتش بانل، تفصيل أبواب حديد فاخرة، مقاول حدادة معتمد شمال الرياض. أسعار رخيصة وجودة ممتازة!">
+    <meta name="keywords"
+        content="ورشة حدادة بالرياض, حداد هنجار, مظلات وسواتر, أبواب حديد ليزر, تفصيل شبابيك, مقاول حدادة معتمد, حداد رخيص وممتاز, ورشة حدادة شمال الرياض, ساندوتش بانل, غرف ساندوتش بانال جاهزة , برجولات , هناجر, مؤسسة القاسم, الرياض, مقاولات حدادة, تشطيبات, أبواب قصور فاخرة, سواتر أحواش, شبوك أمنية">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="مؤسسة القاسم - ورشة حدادة بالرياض">
+    <meta name="geo.region" content="SA-RIY">
+    <meta name="geo.placename" content="الرياض">
+    <meta name="geo.position" content="24.7136;46.6753">
+    <meta name="ICBM" content="24.7136, 46.6753">
+
+    <!-- Open Graph للتواصل الاجتماعي -->
+    <meta property="og:title" content="مؤسسة القاسم - ورشة حدادة بالرياض | مظلات وسواتر | أبواب حديد ليزر">
+    <meta property="og:description"
+        content="أفضل حداد هنجار ومعتمد في الرياض - تركيب مظلات سيارات، سواتر حديد، أبواب قصور فاخرة، برجولات، هناجر ساندوتش بانل">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="img/LOGO.PNG">
+    <meta property="og:image:alt" content="شعار مؤسسة القاسم - ورشة حدادة بالرياض">
+    <meta property="og:url" content="https://alqasim.com">
+    <meta property="og:locale" content="ar_SA">
+
+    <!-- Icons -->
+    <link rel="icon" href="img/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="img/favicon.png">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        /* إعدادات أساسية */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* شريط التنقل */
+        .main-nav {
+            background-color: #2c3e50;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 999;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .main-nav ul {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            list-style: none;
+            gap: 15px;
+        }
+
+        .main-nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+            font-size: 16px;
+            font-weight: 500;
+            border-bottom: 2px solid transparent;
+        }
+
+        .main-nav a:hover {
+            background-color: #3498db;
+            border-bottom-color: white;
+            transform: translateY(-2px);
+        }
+
+        /* Header مع خلفية متغيرة */
+        .hero-header {
+            position: relative;
+            height: 400px;
+            overflow: hidden;
+            border-radius: 0 0 20px 20px;
+            margin-bottom: 40px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .hero-slideshow {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .slide {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        .slide.active {
+            opacity: 1;
+        }
+
+        .hero-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(26, 37, 47, 0.85), rgba(52, 152, 219, 0.7));
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* التعديل الأول: الشعار ينزل قليلاً ليكون أكثر ظهوراً */
+        .logo-container img {
+            max-width: 280px;
+            height: auto;
+            margin: 40px 0 20px 0;
+            /* زدنا الهامش العلوي من 20px إلى 40px */
+            filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.3));
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+
+            0%,
+            100% {
+                transform: translateY(0);
+            }
+
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .hero-header h1 {
+            color: white;
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+            animation: fadeInUp 1s ease;
+        }
+
+        .hero-header p {
+            color: #ecf0f1;
+            font-size: 1.3rem;
+            font-weight: bold;
+            animation: fadeInUp 1s ease 0.3s both;
+        }
+
+        .star-icon {
+            color: #f1c40f;
+            margin: 0 8px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.7;
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* أقسام الصور */
+        .gallery-section {
+            padding: 50px 20px;
+            background-color: white;
+            margin: 30px auto;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            max-width: 1400px;
+        }
+
+        .section-title {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2.2rem;
+            position: relative;
+            padding-bottom: 15px;
+        }
+
+        .section-title:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 3px;
+            background: linear-gradient(to right, #3498db, #2c3e50);
+            border-radius: 2px;
+        }
+
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .gallery-item {
+            background-color: #f9f9f9;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+            /* زدنا الظل ليكون أكثر بروزاً */
+            transition: all 0.3s ease;
+            position: relative;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid rgba(0, 0, 0, 0.08);
+            /* أضفنا حدود ناعمة */
+        }
+
+        .gallery-item:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25);
+            /* زدنا الظل عند الـ Hover */
+        }
+
+        /* التعديل الثاني: الصور تصبح بارزة وبنفس الحجم */
+        .image-container {
+            width: 100%;
+            height: 250px;
+            /* زدنا الارتفاع من 220px إلى 250px لبروز أكثر */
+            overflow: hidden;
+            border-bottom: 3px solid #3498db;
+            /* أضفنا خط أزرق أسفل الصورة */
+        }
+
+        .image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            /* هذه الخاصية تضمن ظهور الصورة بكامل تفاصيلها */
+            transition: transform 0.5s ease;
+            object-position: center;
+            /* تركز على منتصف الصورة دائماً */
+        }
+
+        .gallery-item:hover .image-container img {
+            transform: scale(1.1);
+        }
+
+        .gallery-item p {
+            padding: 20px;
+            text-align: center;
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 1.1rem;
+            margin: 0;
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f8f9fa;
+            /* خلفية فاتحة للنص */
+            border-top: 1px solid #eee;
+        }
+
+        .gallery-item a {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            height: 100%;
+        }
+
+        /* قسم التعريف */
+        .about-section {
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #ecf0f1, #d6dbdf);
+            margin: 40px 0;
+            border-radius: 15px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .about-section:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(to right, #3498db, #2c3e50);
+        }
+
+        .about-text {
+            max-width: 900px;
+            margin: 0 auto;
+            font-size: 1.2rem;
+            line-height: 1.8;
+            color: #2c3e50;
+        }
+
+        .about-text p {
+            margin-bottom: 20px;
+        }
+
+        .highlight-text {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            display: inline-block;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            font-weight: bold;
+            color: #2c3e50;
+            border-right: 5px solid #3498db;
+        }
+
+        /* قسم التواصل */
+        .info-section {
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #2c3e50, #34495e);
+            color: white;
+            margin: 40px 0;
+            border-radius: 15px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .info-section:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(to right, #3498db, #1abc9c);
+        }
+
+        .info-section h2 {
+            color: white;
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2.2rem;
+        }
+
+        .contact-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .contact-item {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+
+        .contact-item:hover {
+            transform: translateY(-5px);
+            background-color: rgba(255, 255, 255, 0.15);
+            border-color: #3498db;
+        }
+
+        .contact-item i {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            color: #3498db;
+        }
+
+        .contact-item h3 {
+            color: #ecf0f1;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+
+        .contact-item p {
+            color: #bdc3c7;
+            line-height: 1.6;
+        }
+
+        /* رقم الهاتف المتحرك */
+        .phone-animation {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .call-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 15px;
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            padding: 18px 35px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.4rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(231, 76, 60, 0.3);
+            animation: phonePulse 2s infinite;
+            border: none;
+            cursor: pointer;
+        }
+
+        @keyframes phonePulse {
+
+            0%,
+            100% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05);
+            }
+        }
+
+        .call-button:hover {
+            background: linear-gradient(135deg, #c0392b, #e74c3c);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(231, 76, 60, 0.4);
+        }
+
+        .call-button i {
+            font-size: 1.3rem;
+        }
+
+        .phone-number {
+            font-family: 'Courier New', monospace;
+            letter-spacing: 2px;
+            direction: ltr;
+            display: inline-block;
+            position: relative;
+        }
+
+        /* قسم المقالات */
+        .articles-section {
+            padding: 50px 20px;
+            background-color: white;
+            margin: 40px auto;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            max-width: 1400px;
+        }
+
+        .articles-section h2 {
+            color: #2c3e50;
+            margin-bottom: 40px;
+            font-size: 2rem;
+            text-align: center;
+            position: relative;
+            padding-bottom: 15px;
+        }
+
+        .articles-section h2:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 3px;
+            background: linear-gradient(to right, #3498db, #2c3e50);
+        }
+
+        .article-box {
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            border-right: 5px solid #3498db;
+            padding: 25px;
+            margin: 30px 0;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+        }
+
+        .article-box:hover {
+            transform: translateX(-10px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .article-box h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.4rem;
+            line-height: 1.4;
+        }
+
+        .article-date {
+            color: #7f8c8d;
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .article-date:before {
+            content: '📅';
+            font-size: 1rem;
+        }
+
+        .article-image {
+            width: 100%;
+            height: 220px;
+            object-fit: cover;
+            margin: 20px 0;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+
+        .article-box:hover .article-image {
+            transform: scale(1.02);
+        }
+
+        .article-box p {
+            color: #555;
+            line-height: 1.7;
+            margin-bottom: 20px;
+        }
+
+        .read-more {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .read-more:hover {
+            background: linear-gradient(135deg, #2980b9, #3498db);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(52, 152, 219, 0.3);
+        }
+
+        .read-more:after {
+            content: '←';
+            font-size: 1.1rem;
+        }
+
+        /* Footer */
+        .footer {
+            background: linear-gradient(135deg, #1a252f, #2c3e50);
+            color: white;
+            padding: 60px 20px 30px;
+            margin-top: 60px;
+            position: relative;
+        }
+
+        .footer:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(to right, #3498db, #1abc9c);
+        }
+
+        .footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .footer h3 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2rem;
+            color: white;
+        }
+
+        .footer .contact-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .footer .contact-item {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 25px;
+            border-radius: 10px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .footer .contact-item:hover {
+            background: rgba(255, 255, 255, 0.1);
+            transform: translateY(-5px);
+        }
+
+        .footer .contact-item h4 {
+            color: #3498db;
+            margin-bottom: 10px;
+            font-size: 1.2rem;
+        }
+
+        .footer .contact-item p {
+            color: #bdc3c7;
+            margin: 0;
+        }
+
+        .footer-highlight {
+            background: rgba(52, 152, 219, 0.1);
+            border: 2px solid rgba(52, 152, 219, 0.3);
+            border-radius: 12px;
+            padding: 25px;
+            margin: 40px 0;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .footer-highlight:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(to right, #3498db, #2ecc71);
+        }
+
+        .footer-highlight h4 {
+            color: #3498db;
+            margin-bottom: 15px;
+            font-size: 1.4rem;
+        }
+
+        .main-phone {
+            display: block;
+            color: white;
+            font-size: 1.8rem;
+            font-weight: bold;
+            margin: 15px 0;
+            font-family: 'Courier New', monospace;
+            letter-spacing: 2px;
+            direction: ltr;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            position: relative;
+            display: inline-block;
+        }
+
+        .main-phone:hover {
+            color: #3498db;
+            transform: scale(1.05);
+        }
+
+        .main-phone:before {
+            content: '📞';
+            margin-left: 10px;
+        }
+
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 40px 0;
+        }
+
+        .social-icons a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px;
+            height: 50px;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            border-radius: 50%;
+            font-size: 1.3rem;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+
+        .social-icons a:hover {
+            background: #3498db;
+            transform: translateY(-5px) scale(1.1);
+        }
+
+        .copyright {
+            text-align: center;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            color: #95a5a6;
+            font-size: 1rem;
+        }
+
+        .copyright p {
+            margin: 10px 0;
+        }
+
+        /* الأزرار العائمة */
+        .floating-buttons {
+            position: fixed;
+            bottom: 30px;
+            left: 30px;
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .floating-phone,
+        .floating-whatsapp {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            color: white;
+            text-decoration: none;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .floating-phone {
+            background: linear-gradient(135deg, #2ecc71, #27ae60);
+        }
+
+        .floating-whatsapp {
+            background: linear-gradient(135deg, #25D366, #128C7E);
+        }
+
+        .floating-phone:hover,
+        .floating-whatsapp:hover {
+            transform: scale(1.15) rotate(5deg);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .floating-phone:after,
+        .floating-whatsapp:after {
+            content: '';
+            position: absolute;
+            top: -5px;
+            left: -5px;
+            right: -5px;
+            bottom: -5px;
+            border-radius: 50%;
+            border: 2px solid;
+            opacity: 0;
+            animation: pulseRing 2s infinite;
+        }
+
+        .floating-phone:after {
+            border-color: #2ecc71;
+        }
+
+        .floating-whatsapp:after {
+            border-color: #25D366;
+        }
+
+        @keyframes pulseRing {
+            0% {
+                transform: scale(0.8);
+                opacity: 0.8;
+            }
+
+            100% {
+                transform: scale(1.5);
+                opacity: 0;
+            }
+        }
+
+        /* Mobile Navigation */
+        .hamburger-menu {
+            display: none;
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #2c3e50;
+            color: white;
+            border: none;
+            font-size: 24px;
+            width: 50px;
+            height: 50px;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1001;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .sidebar-nav {
+            position: fixed;
+            top: 0;
+            right: -300px;
+            width: 300px;
+            height: 100%;
+            background: #2c3e50;
+            transition: right 0.3s ease;
+            z-index: 1002;
+            overflow-y: auto;
+            padding-top: 60px;
+        }
+
+        .sidebar-nav.open {
+            right: 0;
+        }
+
+        .sidebar-nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .sidebar-nav li {
+            border-bottom: 1px solid #34495e;
+        }
+
+        .sidebar-nav a {
+            display: block;
+            padding: 15px 25px;
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            transition: background 0.3s;
+        }
+
+        .sidebar-nav a:hover {
+            background: #3498db;
+        }
+
+        .close-menu {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background: none;
+            border: none;
+            color: white;
+            font-size: 30px;
+            cursor: pointer;
+        }
+
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 1001;
+        }
+
+        .overlay.active {
+            display: block;
+        }
+
+        /* Search Bar */
+        .search-container {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1003;
+        }
+
+        .search-toggle {
+            background: #2c3e50;
+            color: white;
+            border: none;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .search-toggle:hover {
+            background: #3498db;
+            transform: scale(1.1);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .main-nav {
+                display: none;
+            }
+
+            .hamburger-menu {
+                display: block;
+            }
+
+            .hero-header {
+                height: 300px;
+            }
+
+            .hero-header h1 {
+                font-size: 2rem;
+                padding: 0 20px;
+            }
+
+            .hero-header p {
+                font-size: 1.1rem;
+                padding: 0 20px;
+            }
+
+            .logo-container img {
+                max-width: 200px;
+                margin: 30px 0 15px 0;
+                /* تعديل الهوامش للجوال أيضاً */
+            }
+
+            /* تعديل الصور للجوال */
+            .gallery-grid {
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                gap: 20px;
+            }
+
+            .image-container {
+                height: 220px;
+                /* زيادة الارتفاع في الجوال أيضاً */
+            }
+
+            .section-title {
+                font-size: 1.8rem;
+            }
+
+            .contact-info {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .call-button {
+                padding: 15px 25px;
+                font-size: 1.2rem;
+            }
+
+            .footer .contact-info {
+                grid-template-columns: 1fr;
+            }
+
+            .main-phone {
+                font-size: 1.4rem;
+            }
+
+            .floating-buttons {
+                bottom: 20px;
+                left: 20px;
+            }
+
+            .floating-phone,
+            .floating-whatsapp {
+                width: 50px;
+                height: 50px;
+                font-size: 20px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .hero-header {
+                height: 250px;
+            }
+
+            .hero-header h1 {
+                font-size: 1.6rem;
+            }
+
+            .hero-header p {
+                font-size: 1rem;
+            }
+
+            .gallery-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .image-container {
+                height: 200px;
+                /* تعديل الارتفاع للشاشات الصغيرة */
+            }
+
+            .call-button {
+                padding: 12px 20px;
+                font-size: 1.1rem;
+            }
+
+            .article-image {
+                height: 180px;
+            }
+
+            .floating-buttons {
+                bottom: 15px;
+                left: 15px;
+            }
+
+            .floating-phone,
+            .floating-whatsapp {
+                width: 45px;
+                height: 45px;
+                font-size: 18px;
+            }
+        }
+
+        /* تحديثات النص وتحسينات إضافية */
+        .text-highlight {
+            color: #e74c3c;
+            font-weight: bold;
+            animation: colorChange 3s infinite alternate;
+        }
+
+        @keyframes colorChange {
+            0% {
+                color: #e74c3c;
+            }
+
+            100% {
+                color: #3498db;
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /* أنيميشن للخلفية المتغيرة */
+        @keyframes slideChange {
+            0% {
+                opacity: 0;
+            }
+
+            33% {
+                opacity: 0.15;
+            }
+
+            66% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- شريط البحث في الصفحة الرئيسية -->
+
+
+
+
+
+
+
+
+
+
+
+    <!-- زر القائمة الجانبية للجوال -->
+    <button class="hamburger-menu" id="hamburgerMenu">☰</button>
+
+    <!-- القائمة الجانبية للجوال -->
+    <div class="overlay" id="overlay"></div>
+    <nav class="sidebar-nav" id="sidebarNav">
+        <button class="close-menu" id="closeMenu">×</button>
+        <ul>
+            <li><a href="tarkep_mathalah.html">مظلات</a></li>
+            <li><a href="tarkep_mathalah.html">مظلات سيارات</a></li>
+            <li><a href="swater_monoaa.html">سواتر</a></li>
+            <li><a href="barjolat.html">برجولات</a></li>
+            <li><a href="mgls.html">مجالس</a></li>
+            <li><a href="pyot_shar_malakya.html"> بيوت شعر ملكية</a></li>
+            <li><a href="abwab_haded.html">أبواب حديد</a></li>
+            <li><a href="ghrf.html">غرف جاهزة</a></li>
+            <li><a href="shbok.html">شبوك</a></li>
+            <li><a href="grmed.html">قرميد</a></li>
+            <li><a href="waghat_sand_banal.html">المقالات</a></li>
+            <li><a href="my_informatoin.html">المطورون</a></li>
+        </ul>
+    </nav>
+
+
+
+
+
+
+
+    <!-- زر البحث الشامل -->
+    <div id="global-search-container" style="position: fixed; top: 20px; left: 20px; z-index: 9999;">
+        <!-- زر البحث الرئيسي -->
+        <button id="global-search-toggle"
+            style="width: 50px; height: 50px; border-radius: 50%; background: linear-gradient(135deg, #3498db, #2980b9); color: white; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 20px; box-shadow: 0 4px 12px rgba(52, 152, 219, 0.4); transition: all 0.3s ease;"
+            onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 20px rgba(52, 152, 219, 0.6)';"
+            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(52, 152, 219, 0.4)';"
+            title="بحث شامل في الموقع">
+            <i class="fas fa-search"></i>
+        </button>
+
+        <!-- نافذة البحث المنبثقة -->
+        <div id="search-modal"
+            style="display: none; position: fixed; top: 80px; left: 20px; width: 450px; max-width: 90vw; background: white; border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.2); z-index: 10000; max-height: 80vh; overflow: hidden; direction: rtl;">
+            <!-- رأس نافذة البحث -->
+            <div style="background: linear-gradient(135deg, #2c3e50, #34495e); padding: 20px; color: white;">
+                <h3 style="margin: 0 0 10px 0; font-size: 1.3rem;">
+                    <i class="fas fa-search" style="margin-left: 8px;"></i>
+                    البحث الشامل في الموقع
+                </h3>
+                <p style="margin: 0; font-size: 0.9rem; opacity: 0.9;">ابحث في جميع الصفحات والصور والمقالات</p>
+            </div>
+
+            <!-- حقل البحث -->
+            <div style="padding: 20px; border-bottom: 1px solid #eee;">
+                <div style="position: relative;">
+                    <input type="text" id="search-input" placeholder="اكتب كلمة البحث هنا..."
+                        style="width: 100%; padding: 15px 50px 15px 15px; border: 2px solid #3498db; border-radius: 8px; font-size: 1rem; direction: rtl;"
+                        onkeyup="performGlobalSearch()">
+                    <i class="fas fa-search"
+                        style="position: absolute; left: 20px; top: 50%; transform: translateY(-50%); color: #7f8c8d;"></i>
+                    <button id="clear-search"
+                        style="position: absolute; left: 50px; top: 50%; transform: translateY(-50%); background: none; border: none; color: #e74c3c; cursor: pointer; display: none;"
+                        onclick="clearSearch()">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- نتائج البحث -->
+            <div id="search-results" style="max-height: 400px; overflow-y: auto; padding: 0;">
+                <!-- سيتم ملء النتائج هنا ديناميكياً -->
+                <div id="no-results-message"
+                    style="padding: 40px 20px; text-align: center; color: #7f8c8d; display: none;">
+                    <i class="fas fa-search" style="font-size: 40px; margin-bottom: 15px; opacity: 0.5;"></i>
+                    <p>اكتب كلمة للبحث عنها في الموقع</p>
+                </div>
+
+                <div id="loading-results" style="padding: 40px 20px; text-align: center; display: none;">
+                    <div
+                        style="display: inline-block; width: 40px; height: 40px; border: 3px solid #f3f3f3; border-top: 3px solid #3498db; border-radius: 50%; animation: spin 1s linear infinite;">
+                    </div>
+                    <p style="margin-top: 15px; color: #3498db;">جاري البحث...</p>
+                </div>
+
+                <!-- نتائج الصفحات -->
+                <div id="pages-results" style="display: none;">
+                    <div style="background: #f8f9fa; padding: 15px 20px; border-bottom: 1px solid #eee;">
+                        <h4 style="margin: 0; color: #2c3e50;">
+                            <i class="fas fa-file-alt" style="margin-left: 8px;"></i>
+                            الصفحات
+                        </h4>
+                    </div>
+                    <div id="pages-list" style="padding: 10px 0;"></div>
+                </div>
+
+                <!-- نتائج الصور -->
+                <div id="images-results" style="display: none;">
+                    <div style="background: #f8f9fa; padding: 15px 20px; border-bottom: 1px solid #eee;">
+                        <h4 style="margin: 0; color: #2c3e50;">
+                            <i class="fas fa-image" style="margin-left: 8px;"></i>
+                            الصور
+                        </h4>
+                    </div>
+                    <div id="images-list" style="padding: 10px 0;"></div>
+                </div>
+
+                <!-- نتائج المقالات -->
+                <div id="articles-results" style="display: none;">
+                    <div style="background: #f8f9fa; padding: 15px 20px; border-bottom: 1px solid #eee;">
+                        <h4 style="margin: 0; color: #2c3e50;">
+                            <i class="fas fa-newspaper" style="margin-left: 8px;"></i>
+                            المقالات
+                        </h4>
+                    </div>
+                    <div id="articles-list" style="padding: 10px 0;"></div>
+                </div>
+            </div>
+
+            <!-- تذييل نافذة البحث -->
+            <div
+                style="padding: 15px 20px; background: #ecf0f1; border-top: 1px solid #ddd; text-align: center; font-size: 0.9rem; color: #7f8c8d;">
+                <p style="margin: 0;"><i class="fas fa-info-circle"></i> البحث شامل لجميع محتويات الموقع</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- طبقة التعتيم عند فتح البحث -->
+    <div id="search-overlay"
+        style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 9998;">
+    </div>
+
+    <style>
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .search-result-item {
+            padding: 15px 20px;
+            border-bottom: 1px solid #eee;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .search-result-item:hover {
+            background-color: #f5f9ff;
+            padding-right: 25px;
+        }
+
+        .search-result-item h5 {
+            margin: 0 0 8px 0;
+            color: #2c3e50;
+            font-size: 1rem;
+        }
+
+        .search-result-item p {
+            margin: 0;
+            color: #666;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+
+        .search-result-item .result-type {
+            display: inline-block;
+            background: #e8f4fc;
+            color: #3498db;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin-top: 8px;
+        }
+
+        .image-result-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 20px;
+            border-bottom: 1px solid #eee;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .image-result-item:hover {
+            background-color: #f5f9ff;
+        }
+
+        .image-result-item img {
+            width: 60px;
+            height: 60px;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-left: 15px;
+            border: 2px solid #eee;
+        }
+
+        .image-result-item .image-info {
+            flex: 1;
+        }
+
+        .highlight {
+            background-color: #fff9c4;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+
+        /* تجاوبية */
+        @media (max-width: 768px) {
+            #global-search-container {
+                top: 15px;
+                left: 15px;
+            }
+
+            #search-modal {
+                left: 15px;
+                right: 15px;
+                width: auto;
+                max-width: calc(100vw - 30px);
+            }
+
+            #search-input {
+                font-size: 16px;
+                /* منع التكبير في iOS */
+            }
+        }
+
+        @media (max-width: 480px) {
+            #global-search-toggle {
+                width: 45px;
+                height: 45px;
+                font-size: 18px;
+            }
+
+            #search-modal {
+                top: 70px;
+                left: 10px;
+                right: 10px;
+                max-width: calc(100vw - 20px);
+            }
+
+            .search-result-item h5 {
+                font-size: 0.9rem;
+            }
+
+            .image-result-item img {
+                width: 50px;
+                height: 50px;
+            }
+        }
+    </style>
+
+    <script>
+        // قاعدة بيانات البحث (تحتوي على جميع محتويات الموقع)
+        const searchDatabase = {
+            // قائمة الصفحات
+            pages: [
+                {
+                    id: 1,
+                    title: "صور مجالس خارجية واجهات زجاج",
+                    url: "mgls.html",
+                    content: "صور المجالس الجاهزة - واجهات زجاجية وتصاميم خارجية - مجالس زجاجية خارجية فاخرة - مجالس جاهزة بتصميم كلاسيكي - مجالس زجاجية كبيرة للمنازل - مجالس خارجية مظللة - مجالس جاهزة بأسعار اقتصادية - مجالس زجاجية مودرن - مجالس حدائق خشبية - مجالس خارجية بتصميم عربي - مجالس فلل فاخرة - مجالس مسبح زجاجية - مجالس زجاجية صغيرة - مجالس شتوية معزولة - مجالس زجاجية مطلة - مجالس معدنية صناعية - مجالس متعددة الاستخدام",
+                    keywords: "مجالس, زجاج, خارجية, واجهات, جاهزة, تصاميم, كلاسيكي, مظللة, اقتصادية, مودرن, خشبية, عربي, فلل, مسبح, شتوية, معدنية"
+                },
+                {
+                    id: 2,
+                    title: "صور ملاحق تشطيب",
+                    url: "mgls.html", // نفس الصفحة في المثال
+                    content: "ملاحق تشطيب - ملاحق خارجية - تشطيب شقق - تشطيب بيوت - تشطيب غرف - تشطيب اقتصادي - ملاحق متكاملة - تشطيب الملاحق الخارجية - تصميم مقاوم للعوامل الجوية - تكامل بين الداخل والخارج - حلول مبتكرة للمساحات الصغيرة - تشطيب جميع المنازل - تشطيب فلل - تشطيب منازل - تشطيب غرف النوم - تشطيب المجالس - التشطيب الخارجي - التشطيب الكامل - جميع أنواع التشطيبات - تشطيبات مضمونة - ريادة في تشطيب الملاحق",
+                    keywords: "ملاحق, تشطيب, شقق, بيوت, غرف, اقتصادي, خارجي, فلل, منازل, غرف نوم, مجالس, خارجي, كامل, أنواع, مضمون"
+                },
+                {
+                    id: 3,
+                    title: "صور موقف السيارات",
+                    url: "mgls.html", // نفس الصفحة في المثال
+                    content: "موقف سيارات ساندوتش بانل مظلات - أنواع وأشكال متنوعة - مقاول تركيب ساندوتش بانل - مميزات أفضل موقف سيارات - مقاول ساندوتش بانل بالرياض - استخدامات ساندوتش بانل - تكلفة ساندوتش بانل - مؤسسة القاسم المتطورة - طريقة تركيب ساندوتش بانل - الخاتمة - مواقف سيارات حديثة - مواقف تجارية - مواقف سكنية - عزل حراري - تحمل الأوزان",
+                    keywords: "موقف, سيارات, ساندوتش, بانل, مظلات, أنواع, مقاول, تركيب, مميزات, استخدامات, تكلفة, مؤسسة, طريقة, حديثة, تجارية, سكنية, عزل, أوزان"
+                },
+                {
+                    id: 4,
+                    title: "برجولات",
+                    url: "barjolat.html",
+                    content: "برجولات خشبية - برجولات معدنية - برجولات زجاجية - برجولات حديثة - تصميم برجولات",
+                    keywords: "برجولات, خشب, معدن, زجاج, حديثة, تصميم"
+                },
+                {
+                    id: 5,
+                    title: "بيوت شعر",
+                    url: "pyot_shar_malakya.html",
+                    content: "بيوت شعر تقليدية - بيوت شعر ملكية - بيوت شعر فخمة - تركيب بيوت شعر",
+                    keywords: "بيوت, شعر, تقليدية, ملكية, فخمة, تركيب"
+                },
+                {
+                    id: 6,
+                    title: "أبواب حديد",
+                    url: "abwab_haded.html",
+                    content: "أبواب حديد خارجية - أبواب حديد داخلية - أبواب حديد فخمة - أبواب أمنية",
+                    keywords: "أبواب, حديد, خارجية, داخلية, فخمة, أمنية"
+                },
+                {
+                    id: 7,
+                    title: "شبوك",
+                    url: "shbok.html",
+                    content: "شبوك مزارع - شبوك ملاعب - شبوك أمنية - شبوك حدائق",
+                    keywords: "شبوك, مزارع, ملاعب, أمنية, حدائق"
+                },
+                {
+                    id: 8,
+                    title: "قرميد",
+                    url: "grmed.html",
+                    content: "قرميد سقوف - قرميد واجهات - قرميد حدائق - تركيب قرميد",
+                    keywords: "قرميد, سقوف, واجهات, حدائق, تركيب"
+                },
+                {
+                    id: 9,
+                    title: "المطورون",
+                    url: "my_informatoin.html",
+                    content: "معلومات المطورين - فريق العمل - معلومات التواصل",
+                    keywords: "مطورون, فريق, عمل, تواصل, معلومات"
+                }
+            ],
+
+            // قائمة الصور
+            images: [
+                {
+                    id: 1,
+                    title: "مجالس زجاجية خارجية فاخرة",
+                    url: "mgls.html",
+                    image: "img/mgls1.webp",
+                    keywords: "مجالس, زجاجية, خارجية, فاخرة, مظلات, سواتر"
+                },
+                {
+                    id: 2,
+                    title: "مجالس جاهزة بتصميم كلاسيكي",
+                    url: "mgls.html",
+                    image: "img/mgls2.webp",
+                    keywords: "مجالس, جاهزة, كلاسيكي, تركيب, خارجية"
+                },
+                {
+                    id: 3,
+                    title: "مجالس زجاجية كبيرة للمنازل",
+                    url: "mgls.html",
+                    image: "img/mgls3.webp",
+                    keywords: "مجالس, زجاجية, كبيرة, منازل, مقاولات"
+                },
+                {
+                    id: 4,
+                    title: "مجالس خارجية مظللة",
+                    url: "mgls.html",
+                    image: "img/mgls4.webp",
+                    keywords: "مجالس, خارجية, مظللة, حدائق"
+                },
+                {
+                    id: 5,
+                    title: "مجالس جاهزة بأسعار اقتصادية",
+                    url: "mgls.html",
+                    image: "img/mgls5.webp",
+                    keywords: "مجالس, جاهزة, أسعار, اقتصادية, الرياض"
+                },
+                {
+                    id: 6,
+                    title: "ملاحق تشطيب خارجية",
+                    url: "mgls.html",
+                    image: "img/mlahek_tashtep1.webp",
+                    keywords: "ملاحق, تشطيب, خارجية, ملحقات"
+                },
+                {
+                    id: 7,
+                    title: "تشطيب شقق سكنية",
+                    url: "mgls.html",
+                    image: "img/mlahek_tashtep2.webp",
+                    keywords: "تشطيب, شقق, سكنية, أناقة, وظيفية"
+                },
+                {
+                    id: 8,
+                    title: "موقف سيارات حديث",
+                    url: "mgls.html",
+                    image: "img/mogef_syarat1.webp",
+                    keywords: "موقف, سيارات, حديث, ساندوتش, بانل"
+                },
+                {
+                    id: 9,
+                    title: "موقف سيارات تجاري",
+                    url: "mgls.html",
+                    image: "img/mogef_syarat2.webp",
+                    keywords: "موقف, سيارات, تجاري, مظلات"
+                }
+            ],
+
+            // قائمة المقالات
+            articles: [
+                {
+                    id: 1,
+                    title: "مجالس زجاجية خارجية: جمالية العصر مع خصوصية مثالية",
+                    url: "mgls.html",
+                    content: "تعتبر المجالس الزجاجية الخارجية من أبرز صيحات التصميم الحديث في المملكة العربية السعودية. تمزج هذه المجالس بين الأناقة العصرية والوظيفية العملية، حيث توفر إطلالات بانورامية رائعة مع الحفاظ على الخصوصية والعزل الحراري.",
+                    keywords: "مجالس, زجاجية, خارجية, جمالية, عصر, خصوصية, عزل, حراري, سعودية"
+                },
+                {
+                    id: 2,
+                    title: "مجالس خارجية جاهزة: الحل السريع مع الجودة العالية",
+                    url: "mgls.html",
+                    content: "تتميز المجالس الخارجية الجاهزة بسرعة التركيب وجودة التصنيع العالية. نحن في شركة القاسم نقدم حلولاً متكاملة تشمل: تركيب سريع خلال 48 ساعة، ضمان 5 سنوات على الهياكل، وألوان متعددة تزيد عن 25 لون.",
+                    keywords: "مجالس, خارجية, جاهزة, سريع, جودة, تركيب, ضمان, ألوان"
+                },
+                {
+                    id: 3,
+                    title: "تشطيب الملاحق الخارجية - رفع قيمة العقار",
+                    url: "mgls.html",
+                    content: "تشمل خدماتنا في تشطيب الملاحق الخارجية تقديم حلول متكاملة تبدأ من التصميم الهندسي المتقن وصولاً إلى التنفيذ بأعلى معايير الجودة. نستخدم مواد عزل حراري مقاومة للظروف الجوية القاسية.",
+                    keywords: "تشطيب, ملاحق, خارجية, قيمة, عقار, عزل, حراري, جودة"
+                },
+                {
+                    id: 4,
+                    title: "تشطيب الشقق السكنية - أناقة ووظيفية",
+                    url: "mgls.html",
+                    content: "تخصص شركة القاسم في تشطيب الشقق السكنية يمزج بين الأناقة المعاصرة والكفاءة الوظيفية. نقدم حلولاً ذكية لاستغلال المساحات الصغيرة والمتوسطة، مع التركيز على تخزين مبتكر وإضاءة محسنة.",
+                    keywords: "تشطيب, شقق, سكنية, أناقة, وظيفية, مساحات, صغيرة, تخزين, إضاءة"
+                },
+                {
+                    id: 5,
+                    title: "موقف سيارات ساندوتش بانل مظلات في الرياض",
+                    url: "mgls.html",
+                    content: "موقف سيارات ساندوتش بانل مظلات في الرياض وكافة مدن السعودية للتوريد والتركيب حيث نتميز بتركيب مواقف ساندوتش بانل بجودة عالية باستخدام الحديد، بالإضافة إلى توفير مادة عازلة ممتازة.",
+                    keywords: "موقف, سيارات, ساندوتش, بانل, مظلات, الرياض, توريد, تركيب, حديد, عازل"
+                }
+            ]
+        };
+
+        // المتغيرات العالمية
+        let searchTimeout = null;
+
+        // فتح/إغلاق نافذة البحث
+        document.getElementById('global-search-toggle').addEventListener('click', function (e) {
+            e.stopPropagation();
+            const modal = document.getElementById('search-modal');
+            const overlay = document.getElementById('search-overlay');
+
+            if (modal.style.display === 'none' || modal.style.display === '') {
+                modal.style.display = 'block';
+                overlay.style.display = 'block';
+                document.getElementById('search-input').focus();
+            } else {
+                modal.style.display = 'none';
+                overlay.style.display = 'none';
+            }
+        });
+
+        // إغلاق نافذة البحث عند النقر خارجها
+        document.getElementById('search-overlay').addEventListener('click', function () {
+            document.getElementById('search-modal').style.display = 'none';
+            this.style.display = 'none';
+        });
+
+        // إغلاق بالزر ESC
+        document.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape') {
+                document.getElementById('search-modal').style.display = 'none';
+                document.getElementById('search-overlay').style.display = 'none';
+            }
+        });
+
+        // دالة البحث الشامل
+        function performGlobalSearch() {
+            const searchTerm = document.getElementById('search-input').value.trim().toLowerCase();
+            const clearBtn = document.getElementById('clear-search');
+
+            // إظهار/إخفاء زر المسح
+            clearBtn.style.display = searchTerm ? 'block' : 'none';
+
+            if (!searchTerm) {
+                showNoResultsMessage();
+                return;
+            }
+
+            // إظهار مؤشر التحميل
+            document.getElementById('loading-results').style.display = 'block';
+            document.getElementById('no-results-message').style.display = 'none';
+
+            // مسح النتائج السابقة
+            clearAllResults();
+
+            // استخدام timeout لمنع البحث في كل ضغطة
+            clearTimeout(searchTimeout);
+
+            searchTimeout = setTimeout(() => {
+                // البحث في الصفحات
+                const pageResults = searchDatabase.pages.filter(item =>
+                    item.title.toLowerCase().includes(searchTerm) ||
+                    item.content.toLowerCase().includes(searchTerm) ||
+                    item.keywords.toLowerCase().includes(searchTerm)
+                );
+
+                // البحث في الصور
+                const imageResults = searchDatabase.images.filter(item =>
+                    item.title.toLowerCase().includes(searchTerm) ||
+                    item.keywords.toLowerCase().includes(searchTerm)
+                );
+
+                // البحث في المقالات
+                const articleResults = searchDatabase.articles.filter(item =>
+                    item.title.toLowerCase().includes(searchTerm) ||
+                    item.content.toLowerCase().includes(searchTerm) ||
+                    item.keywords.toLowerCase().includes(searchTerm)
+                );
+
+                // إخفاء مؤشر التحميل
+                document.getElementById('loading-results').style.display = 'none';
+
+                // عرض النتائج
+                if (pageResults.length > 0) {
+                    displayPageResults(pageResults, searchTerm);
+                }
+
+                if (imageResults.length > 0) {
+                    displayImageResults(imageResults, searchTerm);
+                }
+
+                if (articleResults.length > 0) {
+                    displayArticleResults(articleResults, searchTerm);
+                }
+
+                // إذا لم توجد نتائج
+                if (pageResults.length === 0 && imageResults.length === 0 && articleResults.length === 0) {
+                    document.getElementById('no-results-message').style.display = 'block';
+                    document.getElementById('no-results-message').innerHTML = `
+                <i class="fas fa-search" style="font-size: 40px; margin-bottom: 15px; opacity: 0.5;"></i>
+                <p>لم يتم العثور على نتائج لـ "<strong>${searchTerm}</strong>"</p>
+            `;
+                }
+            }, 300); // تأخير 300ms
+        }
+
+        // عرض نتائج الصفحات
+        function displayPageResults(results, searchTerm) {
+            const container = document.getElementById('pages-list');
+            const section = document.getElementById('pages-results');
+
+            section.style.display = 'block';
+
+            results.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'search-result-item';
+                div.onclick = () => {
+                    window.location.href = item.url;
+                    closeSearchModal();
+                };
+
+                // تمييز الكلمة المبحوث عنها
+                const highlightedTitle = highlightText(item.title, searchTerm);
+                const highlightedContent = highlightText(item.content.substring(0, 150) + '...', searchTerm);
+
+                div.innerHTML = `
+            <h5>${highlightedTitle}</h5>
+            <p>${highlightedContent}</p>
+            <span class="result-type">صفحة</span>
+        `;
+
+                container.appendChild(div);
+            });
+        }
+
+        // عرض نتائج الصور
+        function displayImageResults(results, searchTerm) {
+            const container = document.getElementById('images-list');
+            const section = document.getElementById('images-results');
+
+            section.style.display = 'block';
+
+            results.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'image-result-item';
+                div.onclick = () => {
+                    window.location.href = item.url;
+                    closeSearchModal();
+                };
+
+                const highlightedTitle = highlightText(item.title, searchTerm);
+
+                div.innerHTML = `
+            <img src="${item.image}" alt="${item.title}" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IiNFNUU1RTUiLz48cGF0aCBkPSJNMzAgMjBDMzMuMzEzNyAyMCAzNiAyMi42ODYzIDM2IDI2QzM2IDI5LjMxMzcgMzMuMzEzNyAzMiAzMCAzMkMyNi42ODYzIDMyIDI0IDI5LjMxMzcgMjQgMjZDMjQgMjIuNjg2MyAyNi42ODYzIDIwIDMwIDIwWk0zMCAzNEMyMS4xNjMgMzQgMTQgNDEuMTYzIDE0IDUwSDE4QzE4IDQzLjM3MjYgMjMuMzcyNiAzOCAzMCAzOEMzNi42Mjc0IDM4IDQyIDQzLjM3MjYgNDIgNTBINDZDNDYgNDEuMTYzIDM4LjgzNyAzNCAzMCAzNFoiIGZpbGw9IiM3RjhDOEQiLz48L3N2Zz4=';">
+            <div class="image-info">
+                <h5 style="margin: 0 0 5px 0; color: #2c3e50;">${highlightedTitle}</h5>
+                <span class="result-type">صورة</span>
+            </div>
+        `;
+
+                container.appendChild(div);
+            });
+        }
+
+        // عرض نتائج المقالات
+        function displayArticleResults(results, searchTerm) {
+            const container = document.getElementById('articles-list');
+            const section = document.getElementById('articles-results');
+
+            section.style.display = 'block';
+
+            results.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'search-result-item';
+                div.onclick = () => {
+                    window.location.href = item.url;
+                    closeSearchModal();
+                };
+
+                const highlightedTitle = highlightText(item.title, searchTerm);
+                const highlightedContent = highlightText(item.content.substring(0, 150) + '...', searchTerm);
+
+                div.innerHTML = `
+            <h5>${highlightedTitle}</h5>
+            <p>${highlightedContent}</p>
+            <span class="result-type">مقالة</span>
+        `;
+
+                container.appendChild(div);
+            });
+        }
+
+        // دالة تمييز النص
+        function highlightText(text, searchTerm) {
+            if (!searchTerm) return text;
+
+            const regex = new RegExp(`(${searchTerm})`, 'gi');
+            return text.replace(regex, '<span class="highlight">$1</span>');
+        }
+
+        // دالة مسح البحث
+        function clearSearch() {
+            document.getElementById('search-input').value = '';
+            document.getElementById('clear-search').style.display = 'none';
+            showNoResultsMessage();
+            clearAllResults();
+        }
+
+        // دالة إظهار رسالة عدم وجود نتائج
+        function showNoResultsMessage() {
+            document.getElementById('no-results-message').style.display = 'block';
+            document.getElementById('no-results-message').innerHTML = `
+        <i class="fas fa-search" style="font-size: 40px; margin-bottom: 15px; opacity: 0.5;"></i>
+        <p>اكتب كلمة للبحث عنها في الموقع</p>
+    `;
+            document.getElementById('loading-results').style.display = 'none';
+            clearAllResults();
+        }
+
+        // دالة مسح جميع النتائج
+        function clearAllResults() {
+            document.getElementById('pages-list').innerHTML = '';
+            document.getElementById('images-list').innerHTML = '';
+            document.getElementById('articles-list').innerHTML = '';
+
+            document.getElementById('pages-results').style.display = 'none';
+            document.getElementById('images-results').style.display = 'none';
+            document.getElementById('articles-results').style.display = 'none';
+        }
+
+        // دالة إغلاق نافذة البحث
+        function closeSearchModal() {
+            document.getElementById('search-modal').style.display = 'none';
+            document.getElementById('search-overlay').style.display = 'none';
+        }
+
+        // البحث عند الضغط على Enter
+        document.getElementById('search-input').addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                performGlobalSearch();
+            }
+        });
+
+        // تهيئة البحث عند تحميل الصفحة
+        document.addEventListener('DOMContentLoaded', function () {
+            showNoResultsMessage();
+        });
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- المحتوى الرئيسي -->
+
+    <div id="header-slider" style="
+position: relative;
+padding: 30px 20px;
+text-align: center;
+margin-bottom: 30px;
+border-radius: 0 0 15px 15px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+overflow: hidden;
+min-height: 200px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+">
+
+        <!-- صور الخلفية المتغيرة المباشرة -->
+        <div class="header-bg-slider" style="
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    ">
+            <!-- الصورة الأولى -->
+            <div class="header-slide active" style="
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('img/hanger_index.webp');
+        background-size: cover;
+        background-position: center;
+        opacity: 1;
+        transition: opacity 1s ease-in-out;
+        "></div>
+
+            <!-- الصورة الثانية -->
+            <div class="header-slide" style="
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('img/barjolat_index.webp');
+        background-size: cover;
+        background-position: center;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        "></div>
+
+            <!-- الصورة الثالثة -->
+            <div class="header-slide" style="
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('img/barjolat_index.webp');
+        background-size: cover;
+        background-position: center;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        "></div>
+        </div>
+
+        <!-- طبقة داكنة خفيفة فوق الصور لتحسين وضوح النص -->
+        <div style="
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(13, 0, 0, 0.4);
+    z-index: 1;
+    "></div>
+
+        <!-- محتوى الشعار (فوق الخلفية) -->
+        <div style="position: relative; z-index: 2;">
+            <img src="img/logo.webp" alt="شعار شركة القاسم" style="
+            max-width: 300px;
+            height: auto;
+            margin-bottom: 15px;
+            filter: drop-shadow(0 5px 10px rgba(0,0,0,0.5));
+        ">
+
+            <h2 style="
+            color: white;
+            margin: 10px 0 5px 0;
+            font-size: 28px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        ">
+                مظلات وسواتر مؤسسة القاسم
+            </h2>
+
+            <p style="
+            color: #000000;
+            font-size: 18px;
+            font-weight: bold;
+            margin: 5px 0 0 0;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px 20px;
+            border-radius: 30px;
+            display: inline-block;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+        ">
+                <i class="fas fa-star" style="margin-left: 8px;"></i>
+                خبرة واسعة في جميع الاعمال
+                <i class="fas fa-star" style="margin-right: 8px;"></i>
+            </p>
+        </div>
+    </div>
+
+
+    <!-- شريط التنقل -->
+    <nav class="main-nav">
+        <ul>
+            <li><a href="tarkep_mathalah.html">مظلات</a></li>
+            <li><a href="tarkep_mathalah.html">مظلات سيارات</a></li>
+            <li><a href="swater_monoaa.html">سواتر</a></li>
+            <li><a href="barjolat.html">برجولات</a></li>
+            <li><a href="mgls.html">مجالس</a></li>
+            <li><a href="pyot_shar_malakya.html">بيوت شعر ملكية</a></li>
+            <li><a href="abwab_haded.html">أبواب حديد</a></li>
+            <li><a href="ghrf.html">غرف جاهزة</a></li>
+            <li><a href="shbok.html">شبوك</a></li>
+            <li><a href="grmed.html">قرميد</a></li>
+            <li><a href="waghat_sand_banal.html">المقالات</a></li>
+            <li><a href="my_informatoin.html">المطورون</a></li>
+        </ul>
+    </nav>
+
+    <!-- قسم الصور الرئيسية -->
+    <section class="gallery-section">
+        <h2 class="section-title">أعمال شركة القاسم بالصور</h2>
+        <div class="gallery-grid">
+            <div class="gallery-item">
+                <a href="mgls.html">
+                    <div class="image-container">
+                        <img src="img/mgls6.webp"
+                            alt="مجالس خارجية واجهات زجاج - تصميمات عصرية من أفضل ورشة حدادة بالرياض" loading="lazy">
+                    </div>
+                    <p>مجالس خارجية واجهات زجاج</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="sand_banal.html">
+                    <div class="image-container">
+                        <img src="img/sand_banal3.webp"
+                            alt="غرف ساندوتش بانل - أفضل حلول البناء الجاهز في الرياض من حداد  معتمد" loading="lazy">
+                    </div>
+                    <p>غرف ساندوتش بانل</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="liksan.html">
+                    <div class="image-container">
+                        <img src="img/liksan_index.webp" alt="لكسان تغطية - ألواح بلاستيكية مقاومة للأشعة فوق البنفسجية"
+                            loading="lazy">
+                    </div>
+                    <p>لكسان تغطية</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="swater_liser.html">
+                    <div class="image-container">
+                        <img src="img/swater_lezer2.webp"
+                            alt="سواتر ليزر - تصميمات دقيقة من أفضل مقاول حدادة معتمد في الرياض" loading="lazy">
+                    </div>
+                    <p>سواتر ليزر</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- قسم الخدمات المتنوعة -->
+    <section class="gallery-section">
+        <h2 class="section-title">خدماتنا المتنوعة</h2>
+        <div class="gallery-grid">
+            <div class="gallery-item">
+                <a href="mlahek_tashtep.html">
+                    <div class="image-container">
+                        <img src="img/mlahek_tashtep2.webp"
+                            alt="ملاحق شقق تشطيب - خدمات شاملة من ورشة حدادة شمال الرياض" loading="lazy">
+                    </div>
+                    <p>ملاحق شقق تشطيب</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="barjolat.html">
+                    <div class="image-container">
+                        <img src="img/barjolat_index.webp" alt="تركيب برجولات - تصميمات فاخرة لجلسات خارجية مريحة"
+                            loading="lazy">
+                    </div>
+                    <p>برجولات</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="hanajer.html">
+                    <div class="image-container">
+                        <img src="img/hanger_index.webp"
+                            alt="هناجر ساندوتش بانل - مخازن ومستودعات من أفضل حداد هنجار في الرياض" loading="lazy">
+                    </div>
+                    <p>هناجر ساندوتش بانل</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="tarkep_mathalah.html">
+                    <div class="image-container">
+                        <img src="img/tarkep_mathalah3.webp"
+                            alt=" تركيب مظلات متنوعة -   بأفضل المواد المقاومة للعوامل الجوية" loading="lazy">
+                    </div>
+                    <p>تركيب مظلات</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- قسم الخدمات الإضافية -->
+    <section class="gallery-section">
+        <h2 class="section-title">خدمات إضافية</h2>
+        <div class="gallery-grid">
+            <div class="gallery-item">
+                <a href="shbok.html">
+                    <div class="image-container">
+                        <img src="img/shabk_index.webp"
+                            alt="شبوك أمنية متنوعة  - حماية للمنازل والمزارع من أفضل مقاول حدادة معتمد" loading="lazy">
+                    </div>
+                    <p>شبوك</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="swater_monoaa.html">
+                    <div class="image-container">
+                        <img src="img/sater_index.webp" alt="سواتر أحواش - تصميمات عصرية توفر الخصوصية والأمان"
+                            loading="lazy">
+                    </div>
+                    <p>سواتر</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="pyot_shar_malakya.html">
+                    <div class="image-container">
+                        <img src="img/pyot_index.webp"
+                            alt="  بيوت شعر ملكية - خيام شعر فاخرة للمناسبات والأعراس السعودية" loading="lazy">
+                    </div>
+                    <p> بيوت شعر ملكية</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="asqof.html">
+                    <div class="image-container">
+                        <img src="img/decor_index.webp" alt="ديكورات جبس - تشطيبات داخلية فاخرة   بالرياض"
+                            loading="lazy">
+                    </div>
+                    <p>ديكورات جبس</p>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="ghrf.html">
+                    <div class="image-container">
+                        <img src="img/ghraf_gahza_index.webp"
+                            alt="غرف جاهزة - حلول سكنية سريعة من ساندوتش بانل بجودة ممتازة" loading="lazy">
+                    </div>
+                    <p>غرف جاهزة</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- قسم التعريف -->
+    <section class="about-section">
+        <h2 class="section-title">مظلات وسواتر القاسم </h2>
+        <div class="about-text">
+            <p>ندرك تماماً احتياجاتكم وتطلعاتكم، لذلك نسعى دائماً لتوفير أفضل الحلول التي تلبي متطلباتكم، كما نحرص
+                على مواكبة أحدث التقنيات في مجال غرف الساندوتش بانل والسواتر، لتقديم منتجات عالية الجودة تُضفي
+                لمسة جمالية
+                مميزة على مساحاتكم.</p>
+            <div class="highlight-text">
+                <span class="text-highlight">🔍</span> شريككم الموثوق في عالم المظلات
+                وغرف الساندوتش بانل والحدادة
+            </div>
+        </div>
+    </section>
+
+    <!-- قسم التواصل -->
+    <section class="info-section">
+        <h2>تواصل معنا</h2>
+        <div class="contact-info">
+            <div class="contact-item">
+                <i class="fas fa-map-marker-alt"></i>
+                <h3>نتواجد في جميع محافظات الرياض</h3>
+                <p>خدمتنا تغطي جميع مناطق الرياض ومحافظاتها</p>
+            </div>
+            <div class="contact-item">
+                <i class="fas fa-question-circle"></i>
+                <h3>لماذا اخترتنا</h3>
+                <p>نؤمن بأن غرف ساندوتش بانل مؤسسة القاسم لها أهمية في الابتكار والجودة، ولذلك نحرص على توفير أحدث
+                    تقنيات المظلات</p>
+            </div>
+            <div class="contact-item">
+                <i class="fas fa-check-circle"></i>
+                <h3>مزايا التعامل معنا</h3>
+                <p>لدينا خبرة واسعة في هذا المجال، نحترف وذو مهارات عالية، معنا استعداد لتقديم أفضل تجربة</p>
+            </div>
+        </div>
+
+        <div class="phone-animation">
+            <a href="tel:+966532228615" class="call-button">
+                <i class="fas fa-phone"></i>
+                <span class="phone-number">+966 53 222 8615</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- قسم المقالات -->
+    <section class="articles-section">
+        <h2># قسم لكسان</h2>
+
+        <div class="article-box">
+            <h3>## لكسان انواعها اسعارها بالصور</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/alwah_liksan_index.webp" alt="أنواع الليكسان وأسعارها - أفضل عروض" class="article-image"
+                loading="lazy">
+            <p>لكسان أنواعها اسعارها بالصور لواح بلاستيكية مقاومة للأشعة فوق البنفسجية مطلية لكسان هي...</p>
+            <a href="liksan_asar.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h3>## مظلات شفافة تركيب ألواح لكسان مميزات ومواصفات وألوان حديثة</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/alwah_liksan_index2.webp"
+                alt="تركيب الليكسان - مظلات شفافة  والواح متنوعة عالية الجودة من أفضل ورشة حدادة بالرياض"
+                class="article-image" loading="lazy">
+            <p>مظلات لكسان تختار مظلات لكسان شفافة من أفضل الخيارات المتاحة لتغطية المساحات الخارجية...</p>
+            <a href="‏‏liksan_alwah.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h3>## ألواح لكسان مظلات لوكسان أسقف لكسان</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/mathalat_laiksan_index.webp"
+                alt="أسقف الليكسان - حلول تغطية مبتكرة جميع انواع اسقف اللكسان واسعارها الممتازة" class="article-image"
+                loading="lazy">
+            <p>ألواح لكسان تعتبر ألواح لكسان إحدى الحلول العصرية المثالية التي تجمع بين المتانة والمروءة. تتميز...
+            </p>
+            <a href="‏‏‏‏liksan_imge.html" class="read-more">اقرأ المزيد</a>
+        </div>
+    </section>
+
+    <!-- قسم المقالات الثاني -->
+    <section class="articles-section">
+        <h2># قسم برجولات</h2>
+
+        <div class="article-box">
+            <h3>## تصميم برجولات أشكال البرجولات للحدائق بالصور</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/brjolat2_index.webp"
+                alt="تصميم البرجولات - أشكال متعددة للحدائق   بجميع الانواع والاشكال اسعار البرجولات للحدائق وغيرها"
+                class="article-image" loading="lazy">
+            <p>تصميم برجولات تعتبر شركة القاسم متخصصة تركيب برجولات بالرياض إحدى الشركات الرائدة في تقديم خدمات...
+            </p>
+            <a href="brjolt_jalasat.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h3>## حداد حي الرمال وحي النسيم الرياض</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/hadad_index.webp" alt="حداد الرياض - خدمات شاملة في حي الرمال والنسيم من مقاول حدادة معتمد"
+                class="article-image" loading="lazy">
+            <p>حداد حي الرمال وحي النسيم الرياض للتواصل رقم جوال +966 53 222 8615 ويُعتبر حداد مظلات وسواتر
+                واحداً...</p>
+            <a href="hadad_brjolat.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h3>## برجولات جلسات خارجية تصاميم</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/prjolat2_index.webp"
+                alt="برجولات خارجية - تصميمات فاخرة جميع انواع واسعار البرجولات الخارجية واسعارها المناسبة"
+                class="article-image" loading="lazy">
+            <p>تقدم شركة القاسم برجولات جلسات الرياض خدمات فريدة تشمل تركيب برجولات جلسات بشكل احترافي، وتوفير...
+            </p>
+            <a href="prjolat_jalasat.html" class="read-more">اقرأ المزيد</a>
+        </div>
+    </section>
+
+    <!-- قسم المقالات الثالث -->
+    <section class="articles-section">
+        <h2># أقسام أخرى</h2>
+
+        <div class="article-box">
+            <h3>### واجهات ساندوتش بانل</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/waghat_sand_index.webp"
+                alt="واجهات ساندوتش بانل - مواد بناء عصرية من أفضل اسعار واجهات الساندوتش بانل المختلفة والمتنوعه انوعها واسعارها "
+                class="article-image" loading="lazy">
+            <p>واجهات ساندوتش بانل في الرياض خياراً مثالياً لمن يبحث عن البدائل الاقتصادية لمواد البناء التقليدية...
+            </p>
+            <a href="waghat_sand_banal.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h3>### شقة ساندوتش بانل</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/shogah_sand_index.webp" alt="شقق ساندوتش بانل - بناء سريع وجاهز من مؤسسة القاسم   "
+                class="article-image" loading="lazy">
+            <p>شقة ساندوتش بانل تمثل واحدة من الحلول السكنية الحديثة التي تجمع بين الجمال والفعالية. تعتبر...</p>
+            <a href="ahagah_sand.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h3>### أسعار سواتر الأحواش</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/sater_index.webp"
+                alt="أسعار السواتر وانواعها - عروض مميزة من مؤسسة القاسم أفضل ورشة حدادة بالرياض" class="article-image"
+                loading="lazy">
+            <p>أسعار سواتر الأحواش تُعتبر السواتر من العناصر الأساسية التي تسهم في تأمين المنازل والأحواش في...</p>
+            <a href="ahwash_sand.html" class="read-more">اقرأ المزيد</a>
+        </div>
+    </section>
+
+    <!-- قسم المقالات الرابع -->
+    <section class="articles-section">
+        <div class="article-box">
+            <h2># مستودع ارتداد من ساندوتش بانل</h2>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/mostodaa_index.webp"
+                alt="مستودع ساندوتش بانل - بناء مخازن ومستودعات من أفضل   الانواع واجود الموارد والمواد العالمية واسعار مستودعات الساندوتش بانل "
+                class="article-image" loading="lazy">
+            <p>مستودع ارتداد من ساندوتش بانل في مدينة الرياض بالمملكة العربية السعودية يعتبر الساندوتش بانل مادة
+                مُستخدمة في...</p>
+            <a href="mstodaa_sand.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h2># غرفة في ارتداد ساندوتش بانل</h2>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/ghowaf_sand2_index.webp"
+                alt="غرف ساندوتش بانل - حلول سكنية سريعة جميع انواعها وجميع اشكالها واسعار غرف الساندوتش بانل"
+                class="article-image" loading="lazy">
+            <p>غرفة في ارتداد ساندوتش بانل من الخيارات المثالية في مجالات البناء والإنشاءات. فهي تمثل أماكن...</p>
+            <a href="ghorfa_sand.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h2># شقق ساندوتش بانل</h2>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/sandwich-apartments.jpg" alt="شقق ساندوتش بانل - بناء سريع وجاهز من أفضل ورشة حدادة بالرياض"
+                class="article-image" loading="lazy">
+            <p>شقق ساندوتش بانل من الحلول السكنية الحديثة التي تجمع بين الجمال والفعالية. تتميز هذه الشقق...</p>
+            <a href="shogag_sand.html" class="read-more">اقرأ المزيد</a>
+        </div>
+    </section>
+
+    <!-- قسم المقالات الخامس -->
+    <section class="articles-section">
+        <h2># اقرأ المزيد</h2>
+
+        <div class="article-box">
+            <h3>## غرف عمال ساندوتش بانل</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/ghoraf_omaal_index.webp"
+                alt="غرف عمال  - سكن عمال جاهز بافضل اانواع والاسعار  والعروض غرف عمال ساندوتش بانل مستودعات غرف جاهزة "
+                class="article-image" loading="lazy">
+            <p>غرف عمال ساندوتش بانل تركيب في الرياض وجميع مدن المملكة العربية السعودية. إنها تقنية بناء...</p>
+            <a href="ghoraf_ammal_sand.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h3>## مستودع ساندوتش بانل</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/mostodaa_index.webp" alt="مستودع ساندوتش - بناء مخازن حديثة من حداد هناجر معتمد في الرياض"
+                class="article-image" loading="lazy">
+            <p>مستودع ساندوتش في الرياض، بالمملكة العربية السعودية، تُعتبر الألواح الساندوتش مادة تُستخدم لتغطية
+                واجهات المباني...</p>
+            <a href="mostoudaa_sand.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="article-box">
+            <h3>## موقف سيارات ساندوتش بانل مظلات</h3>
+            <div class="article-date">يناير 2026</div>
+            <img src="img/mogef_syarat_index.webp"
+                alt="موقف سيارات - مظلات حماية للسيارات من الشمس من مؤسسة القاسم   مظلات السيارات" class="article-image"
+                loading="lazy">
+            <p>موقف سيارات ساندوتش بانل مظلات في الرياض وكافة مدن السعودية للتوريد والتركيب حيث تتميز بتركيب...</p>
+            <a href="mogef_syarat.html" class="read-more">اقرأ المزيد</a>
+        </div>
+
+        <div class="update-date" style="text-align: center; margin-top: 30px; color: #7f8c8d;">
+            آخر تحديث: يناير 2026
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <h3>غرف ساندوتش بانل مؤسسة القاسم</h3>
+
+            <div class="contact-info">
+                <div class="contact-item">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <h4>الموقع</h4>
+                    <p>الرياض المملكة السعودية</p>
+                </div>
+
+                <div class="contact-item">
+                    <i class="fas fa-clock"></i>
+                    <h4>أوقات العمل</h4>
+                    <p>٦:٠٠ ص – ٨:٠٠ م</p>
+                </div>
+
+                <div class="contact-item">
+                    <i class="fas fa-phone"></i>
+                    <h4>هاتف</h4>
+                    <p>+966 53 222 8615</p>
+                </div>
+
+                <div class="contact-item">
+                    <i class="fas fa-envelope"></i>
+                    <h4>البريد</h4>
+                    <p>info@alqasim.com</p>
+                </div>
+            </div>
+
+            <div class="footer-highlight">
+                <h4>الرابط الرئيسي للشركة</h4>
+                <a href="tel:+966532228615" class="main-phone"></a>
+                <p style="color: #bdc3c7; margin-top: 15px;">اتصل بنا اليوم للحصول على أفضل عروض تركيب وتوريد
+                    المظلات والسواتر والهناجر في الرياض.</p>
+            </div>
+
+            <div class="social-icons">
+                <a href="https://facebook.com" target="_blank" aria-label="فيسبوك"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com" target="_blank" aria-label="تويتر"><i class="fab fa-twitter"></i></a>
+                <a href="https://instagram.com" target="_blank" aria-label="انستغرام"><i
+                        class="fab fa-instagram"></i></a>
+                <a href="https://wa.me/966532228615" target="_blank" aria-label="واتساب"><i
+                        class="fab fa-whatsapp"></i></a>
+                <a href="https://youtube.com" target="_blank" aria-label="يوتيوب"><i class="fab fa-youtube"></i></a>
+            </div>
+
+            <div class="copyright">
+                <p>© 2026 غرف ساندوتش بانل مؤسسة القاسم. جميع الحقوق محفوظة.</p>
+                <p style="font-size: 1.1rem; margin-top: 15px;">
+                    <a href="tel:+966532228615" style="color: #3498db; text-decoration: none;"></a>
+                </p>
+            </div>
+        </div>
+    </footer>
+    </div>
+
+    <!-- الأزرار العائمة -->
+    <div class="floating-buttons">
+        <a href="https://wa.me/966532228615" class="floating-whatsapp" target="_blank" aria-label="راسلنا على واتساب">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+        <a href="tel:+966532228615" class="floating-phone" aria-label="اتصل بنا">
+            <i class="fas fa-phone"></i>
+        </a>
+    </div>
+
+    <script>
+        // التحكم في القائمة الجانبية للجوال
+        const hamburgerMenu = document.getElementById('hamburgerMenu');
+        const closeMenu = document.getElementById('closeMenu');
+        const sidebarNav = document.getElementById('sidebarNav');
+        const overlay = document.getElementById('overlay');
+
+        hamburgerMenu.addEventListener('click', () => {
+            sidebarNav.classList.add('open');
+            overlay.classList.add('active');
+        });
+
+        closeMenu.addEventListener('click', () => {
+            sidebarNav.classList.remove('open');
+            overlay.classList.remove('active');
+        });
+
+        overlay.addEventListener('click', () => {
+            sidebarNav.classList.remove('open');
+            overlay.classList.remove('active');
+        });
+
+        // Slideshow للخلفية
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+
+        function showSlide(n) {
+            slides.forEach(slide => slide.classList.remove('active'));
+            currentSlide = (n + slides.length) % slides.length;
+            slides[currentSlide].classList.add('active');
+        }
+
+        function nextSlide() {
+            showSlide(currentSlide + 1);
+        }
+
+        // تبديل الصور كل 5 ثواني
+        setInterval(nextSlide, 5000);
+
+        // تشغيل Slideshow عند تحميل الصفحة
+        document.addEventListener('DOMContentLoaded', () => {
+            showSlide(0);
+
+            // تحسين أداء الصور
+            const images = document.querySelectorAll('img[loading="lazy"]');
+            images.forEach(img => {
+                img.addEventListener('load', () => {
+                    img.style.opacity = 1;
+                });
+            });
+        });
+
+        // إضافة تأثير عند التمرير
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const hero = document.querySelector('.hero-header');
+            if (hero) {
+                hero.style.transform = `translateY(${scrolled * 0.5}px)`;
+            }
+        });
+
+        // تأثير للرقم الهاتف
+        const phoneNumber = document.querySelector('.phone-number');
+        if (phoneNumber) {
+            setInterval(() => {
+                phoneNumber.style.textShadow = '0 0 10px rgba(52, 152, 219, 0.5)';
+                setTimeout(() => {
+                    phoneNumber.style.textShadow = 'none';
+                }, 500);
+            }, 3000);
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // كود JavaScript لتبديل الخلفيات
+        document.addEventListener('DOMContentLoaded', function () {
+            const slides = document.querySelectorAll('.header-slide');
+            let currentSlide = 0;
+            const totalSlides = slides.length;
+
+            // دالة لتغيير الخلفية
+            function changeBackground() {
+                // إخفاء كل الشرائح
+                slides.forEach(slide => {
+                    slide.style.opacity = '0';
+                });
+
+                // إظهار الشريحة الحالية
+                slides[currentSlide].style.opacity = '0.80';
+
+                // الانتقال للشريحة التالية
+                currentSlide = (currentSlide + 1) % totalSlides;
+            }
+
+            // تغيير الخلفية كل 3 ثواني
+            setInterval(changeBackground, 3000);
+
+            // بدء التبديل فور تحميل الصفحة
+            changeBackground();
+
+            // التأكد من أن الصور موجودة
+            const imageUrls = [
+                'img/hanger_index.webp',
+                'img/barjolat_index.webp',
+                'img/hanger_index.webp'
+            ];
+
+            // تحميل مسبق للصور لمنع التأخير
+            imageUrls.forEach(url => {
+                const img = new Image();
+                img.src = url;
+            });
+        });
+
+
+    </script>
+</body>
+
+</html>

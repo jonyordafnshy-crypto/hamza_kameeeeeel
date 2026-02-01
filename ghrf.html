@@ -1,0 +1,2106 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>غرف جاهزة بالرياض - مؤسسة القاسم | مظلات وسواتر | ورشة حدادة بالرياض | أبواب حديد ليزر | حداد هنجار متخصص
+    </title>
+    <meta name="description"
+        content="مؤسسة القاسم لتصنيع وتوريد وتركيب غرف ساندوتش بانل جاهزة بالرياض. نقدم خدمات حدادة متكاملة: أبواب حديد ليزر، تفصيل شبابيك، سواتر ومظلات، برجولات، بيوت شعر، شبوك، قرميد. مقاول حدادة معتمد في شمال الرياض.">
+    <meta name="keywords"
+        content="غرف جاهزة الرياض, ساندوتش بانل, مظلات وسواتر الرياض, ورشة حدادة بالرياض, حداد هنجار, أبواب حديد ليزر, تفصيل شبابيك, مقاول حدادة معتمد, حداد رخيص وممتاز, ورشة حدادة شمال الرياض, سواتر ومظلات, برجولات, مجالس, بيوت شعر, شبوك, قرميد">
+    <style>
+        /* إضافة قاعدة أمان للأبعاد لضمان عدم تأثر التصميم */
+        img {
+            max-width: 100%;
+            height: auto !important;
+        }
+
+        /* إعدادات أساسية */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* زر العودة للرئيسية */
+        .back-to-home {
+            position: fixed;
+            top: 60px;
+            right: 20px;
+            background-color: #3498db;
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            text-decoration: none;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            z-index: 1001;
+            transition: all 0.3s ease;
+        }
+
+        .back-to-home:hover {
+            background-color: #2980b9;
+            transform: scale(1.1);
+        }
+
+        /* شريط التنقل */
+        .main-nav {
+            background-color: #2c3e50;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 999;
+        }
+
+        .main-nav ul {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            list-style: none;
+            gap: 20px;
+        }
+
+        .main-nav a {
+            color: white;
+            text-decoration: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+        .main-nav a:hover {
+            background-color: #3498db;
+        }
+
+        /* رأس الصفحة */
+        .header-image {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        /* العناوين الرئيسية */
+        h1,
+        h2,
+        h3 {
+            color: #2c3e50;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            padding: 20px;
+            background-color: #ecf0f1;
+        }
+
+        h2 {
+            font-size: 2rem;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+
+        /* معرض الصور */
+        .gallery-section {
+            padding: 40px 20px;
+            background-color: white;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .gallery-item {
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+            position: relative;
+        }
+
+        .gallery-item:hover {
+            transform: translateY(-5px);
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            display: block;
+        }
+
+        /* الأيقونات الصغيرة في الزاوية */
+        .image-icons {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            display: flex;
+            gap: 8px;
+            z-index: 2;
+        }
+
+        .icon-btn {
+            background-color: rgba(255, 255, 255, 0.9);
+            color: #333;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: none;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .icon-btn:hover {
+            background-color: white;
+            transform: scale(1.1);
+        }
+
+        .icon-btn.phone {
+            color: #3498db;
+        }
+
+        .icon-btn.whatsapp {
+            color: #25D366;
+        }
+
+        .image-title {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            max-width: 80%;
+        }
+
+        /* شريط أدوات التطوير */
+        .dev-tools-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background-color: #202124;
+            color: white;
+            padding: 8px 15px;
+            font-size: 12px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 9999;
+            border-bottom: 1px solid #3c4043;
+        }
+
+        .dev-tools-left,
+        .dev-tools-center,
+        .dev-tools-right {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .dev-select {
+            background-color: #3c4043;
+            color: white;
+            border: 1px solid #5f6368;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-size: 11px;
+        }
+
+        .dev-tab {
+            color: #9aa0a6;
+            font-size: 11px;
+        }
+
+        .dev-active-tab {
+            color: white;
+            border-bottom: 2px solid #8ab4f8;
+            padding-bottom: 2px;
+        }
+
+        .dev-switch {
+            color: #8ab4f8;
+            font-size: 11px;
+            cursor: pointer;
+        }
+
+        /* التذييل */
+        footer {
+            background-color: #1a252f;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .copyright {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            color: #95a5a6;
+        }
+
+        /* زر الاتصال العائم */
+        .floating-phone {
+            position: fixed;
+            bottom: 30px;
+            left: 30px;
+            background-color: #2ecc71;
+            color: white;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            text-decoration: none;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            z-index: 1000;
+            transition: all 0.3s ease;
+        }
+
+        .floating-phone:hover {
+            background-color: #27ae60;
+            transform: scale(1.1);
+        }
+
+        /* مساحة المحتوى الرئيسي */
+        .main-content {
+            margin-top: 40px;
+        }
+
+        /* وسائط الاستجابة */
+        @media (max-width: 768px) {
+            .main-nav ul {
+                flex-direction: column;
+                align-items: center;
+                gap: 10px;
+            }
+
+            .back-to-home {
+                top: 50px;
+                right: 15px;
+                width: 45px;
+                height: 45px;
+                font-size: 18px;
+            }
+
+            .gallery-grid {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            .dev-tools-bar {
+                flex-direction: column;
+                height: auto;
+                padding: 5px;
+            }
+
+            .dev-tools-left,
+            .dev-tools-center,
+            .dev-tools-right {
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 8px;
+            }
+
+            .icon-btn {
+                width: 35px;
+                height: 35px;
+                font-size: 16px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .gallery-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .gallery-item img {
+                height: 200px;
+            }
+
+            .image-title {
+                font-size: 12px;
+                padding: 6px 10px;
+            }
+        }
+
+        /* زر شجرة التنقل تحت زر الرئيسية */
+        .nav-tree-btn {
+            position: fixed;
+            top: 120px;
+            /* تحت زر الرئيسية */
+            right: 20px;
+            /* نفس مكان زر الرئيسية */
+            background-color: #e74c3c;
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            z-index: 1001;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+        }
+
+        .nav-tree-btn:hover {
+            background-color: #c0392b;
+            transform: scale(1.1);
+        }
+
+        /* شجرة التنقل */
+        #navTree {
+            display: none;
+            position: fixed;
+            top: 180px;
+            /* تحت زر الشجرة */
+            right: 20px;
+            /* نفس مكان زر الشجرة */
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            z-index: 1002;
+            width: 300px;
+            max-height: 400px;
+            overflow-y: auto;
+            direction: rtl;
+        }
+
+        #navTree.active {
+            display: block;
+        }
+
+        #navTree h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+
+        #navTree ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        #navTree li {
+            margin-bottom: 10px;
+        }
+
+        #navTree a {
+            color: #3498db;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            padding: 8px 12px;
+            border-radius: 4px;
+            transition: all 0.3s;
+            font-weight: bold;
+        }
+
+        #navTree a:hover {
+            background-color: #f0f7ff;
+            transform: translateX(-5px);
+        }
+
+        #navTree a i {
+            margin-left: 10px;
+            color: #3498db;
+        }
+
+        /* تجاوبية */
+        @media (max-width: 768px) {
+            .nav-tree-btn {
+                top: 105px;
+                right: 15px;
+                width: 45px;
+                height: 45px;
+                font-size: 18px;
+            }
+
+            #navTree {
+                top: 160px;
+                right: 15px;
+                width: 280px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            #navTree {
+                width: 90%;
+                right: 5%;
+                left: 5%;
+            }
+        }
+
+        /* أنيميشن للخلفية المتغيرة */
+        @keyframes slideChange {
+            0% {
+                opacity: 0;
+            }
+
+            33% {
+                opacity: 0.15;
+            }
+
+            66% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 0;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="apple-touch-icon" href="img/favicon.png">
+
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="img/LOGO.PNG">
+    <meta name="author" content="مؤسسة القاسم">
+
+    <meta name="keywords"
+        content="ساندوتش بانل, مظلات, سواتر, الرياض, مقاولات, غرف معزولة, برجولات, ورشة حدادة بالرياض, حداد هنجار, أبواب حديد ليزر, تفصيل شبابيك, مقاول حدادة معتمد, حداد رخيص وممتاز, ورشة حدادة شمال الرياض">
+
+    <!-- تحسين إضافي لـ SEO المحلي -->
+    <meta property="og:title" content="مؤسسة القاسم | غرف جاهزة بالرياض | حدادة متكاملة">
+    <meta property="og:description"
+        content="مؤسسة القاسم لتصنيع وتوريد وتركيب غرف ساندوتش بانل جاهزة بالرياض. خدمات حدادة متكاملة: أبواب حديد ليزر، تفصيل شبابيك، سواتر ومظلات.">
+    <meta name="twitter:title" content="غرف جاهزة بالرياض - مؤسسة القاسم | حداد هنجار متخصص">
+    <meta name="twitter:description"
+        content="مؤسسة القاسم تقدم أفضل خدمات الحدادة والإنشاءات: غرف جاهزة، أبواب حديد ليزر، سواتر ومظلات، برجولات، بيوت شعر في الرياض">
+</head>
+
+<body>
+
+
+    <!-- زر العودة للرئيسية -->
+    <a href="index.html" class="back-to-home" title="العودة للصفحة الرئيسية">
+        <i class="fas fa-home"></i>
+    </a>
+
+    <!-- زر شجرة التنقل (تحت زر الرئيسية) -->
+    <button class="nav-tree-btn" id="navTreeToggle" title="قائمة الخدمات">
+        <i class="fas fa-sitemap"></i>
+    </button>
+
+
+    <!-- شجرة التنقل -->
+    <div id="navTree">
+        <h3><i class="fas fa-project-diagram"></i> قائمة الخدمات</h3>
+        <ul>
+
+
+            <li><a href="barjolat.html"><i class="fas fa-cube"></i> برجولات</a></li>
+            <li><a href="mgls.html"><i class="fas fa-couch"></i> مجالس</a></li>
+            <li><a href="pyot_shar_malakya.html"><i class="fas fa-paint-roller"></i> بيوت شعر </a></li>
+            <li><a href="abwab_haded.html"><i class="fas fa-door-closed"></i> أبواب حديد</a></li>
+            <li><a href="shbok.html"><i class="fas fa-grip-lines"></i> شبوك</a></li>
+            <li><a href="grmed.html"><i class="fas fa-warehouse"></i> قرميد</a></li>
+            <li><a href="my_informatoin.html"><i class="fas fa-user-tie"></i> المطورون</a></li>
+        </ul>
+    </div>
+
+    <!-- شعار الشركة في الرأس -->
+
+    <div id="header-slider" style="
+position: relative;
+padding: 30px 20px;
+text-align: center;
+margin-bottom: 30px;
+border-radius: 0 0 15px 15px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+overflow: hidden;
+min-height: 200px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+">
+
+        <!-- صور الخلفية المتغيرة المباشرة -->
+        <div class="header-bg-slider" style="
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    ">
+            <!-- الصورة الأولى -->
+            <div class="header-slide active" style="
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('img/ghrf1.webp');
+        background-size: cover;
+        background-position: center;
+        opacity: 1;
+        transition: opacity 1s ease-in-out;
+        "></div>
+
+            <!-- الصورة الثانية -->
+            <div class="header-slide" style="
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('img/ghrf2.webp');
+        background-size: cover;
+        background-position: center;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        "></div>
+
+            <!-- الصورة الثالثة -->
+            <div class="header-slide" style="
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('img/ghrf3.webp');
+        background-size: cover;
+        background-position: center;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        "></div>
+        </div>
+
+        <!-- طبقة داكنة خفيفة فوق الصور لتحسين وضوح النص -->
+        <div style="
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(13, 0, 0, 0.4);
+    z-index: 1;
+    "></div>
+
+        <!-- محتوى الشعار (فوق الخلفية) -->
+        <div style="position: relative; z-index: 2;">
+            <img src="img/logo.webp" alt="شعار شركة القاسم - ورشة حدادة بالرياض - حداد هنجار متخصص" style="
+            max-width: 300px;
+            height: auto;
+            margin-bottom: 15px;
+            filter: drop-shadow(0 5px 10px rgba(0,0,0,0.5));
+        " width="300" height="100" loading="eager" fetchpriority="high" decoding="async">
+
+            <h2 style="
+            color: white;
+            margin: 10px 0 5px 0;
+            font-size: 28px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        ">
+                مظلات وسواتر مؤسسة القاسم - حدادة متكاملة بالرياض
+            </h2>
+
+            <p style="
+            color: #000000;
+            font-size: 18px;
+            font-weight: bold;
+            margin: 5px 0 0 0;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px 20px;
+            border-radius: 30px;
+            display: inline-block;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+        ">
+                <i class="fas fa-star" style="margin-left: 8px;"></i>
+                خبرة واسعة في جميع الاعمال - مقاول حدادة معتمد في شمال الرياض
+                <i class="fas fa-star" style="margin-right: 8px;"></i>
+            </p>
+        </div>
+    </div>
+
+
+
+    <!-- المحتوى الرئيسي -->
+    <div class="main-content">
+
+
+        <!-- العنوان الرئيسي -->
+        <h1>صور غرف جاهزة مؤسسة القاسم بالرياض - ساندوتش بانل عالي الجودة</h1>
+
+        <div style="text-align: center; margin: 20px 0; color: #7f8c8d;">
+            <p> 2026 - ورشة حدادة متكاملة بالرياض - حداد هنجار محترف</p>
+        </div>
+
+        <!-- معرض الصور -->
+        <section class="gallery-section">
+            <h2>معرض صور غرف جاهزة شركة القاسم - أفضل حداد في الرياض</h2>
+
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="img/ghrf1.webp" alt="غرف جاهزة ساندوتش بانل الرياض - ورشة حدادة بالرياض" width="600"
+                        height="400" loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')" title="اتصل"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')" title="واتساب"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">غرف ساندوتش بانل مودرن - حدادة فاخرة</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf2.webp" alt="بركسات ومكاتب جاهزة - حداد هنجار الرياض" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">مكاتب ومقرات عمل جاهزة - حدادة متكاملة</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf3.webp" alt="غرف سواقين جاهزة - أبواب حديد ليزر بالرياض" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">تصميم غرف سواقين - تفصيل أبواب حديد</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf4.webp" alt="شاليهات ساندوتش بانل - مقاول حدادة معتمد" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">شاليهات سكنية جاهزة - حداد رخيص وممتاز</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf5.webp" alt="ملاحق علوية جاهزة - ورشة حدادة شمال الرياض" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">بناء ملاحق علوية - حدادة احترافية</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf6.webp" alt="غرف حراسة وبركسات - سواتر ومظلات الرياض" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">غرف حراسة وأمن - حدادة متينة</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf7.webp" alt="ملاحق خارجية مودرن - أبواب قصور فاخرة" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">ملاحق خارجية فخمة - تفصيل حسب الطلب</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf8.webp" alt="تصنيع بركسات الرياض - حداد هنجار محترف" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">تصنيع بركسات حديد - حدادة صناعية</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf9.webp" alt="وحدات سكنية مؤقتة - مقاولات حدادة" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">سكن عمال جاهز - حدادة اقتصادية</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf10.webp" alt="غرف معزولة حرارياً - حدادة عزل متكامل" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">عزل حراري ومائي - حدادة متطورة</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf11.webp" alt="تصميم مكاتب مشاريع - حدادة مكتبية" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">مكاتب مواقع إنشائية - حدادة هندسية</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf12.webp" alt="ملاحق أسطح ساندوتش بانل - حداد متخصص" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">ملحق سطح جاهز - حدادة دقيقة</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf13.webp" alt="غرف جاهزة للبيع الرياض - حدادة تجارية" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">توريد غرف جاهزة - حدادة توريد</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf14.webp" alt="هياكل حديدية للغرف - حدادة إنشائية" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">هياكل حديد متينة - حدادة قوية</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf15.webp" alt="تشطيب غرف جاهزة فخم - حدادة تشطيب" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">تشطيبات داخلية راقية - حدادة فاخرة</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf16.webp" alt="كرفانات متنقلة الرياض - حدادة متنقلة" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">كرفانات مجهزة بالكامل - حدادة شاملة</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf17.webp" alt="غرف مسبقة الصنع - حدادة مصنعية" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">وحدات سابقة التجهيز - حدادة مسبقة</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf18.webp" alt="تصميم مجالس جاهزة - حدادة ديكور" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">مجالس بأسعار تنافسية - حدادة اقتصادية</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf19.webp" alt="تركيب ملاحق في الرياض - حدادة تركيب" width="600" height="400"
+                        loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">أعمال التركيب الميداني - حدادة ميدانية</div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="img/ghrf20.webp" alt="مؤسسة القاسم للغرف الجاهزة - أفضل حداد بالرياض" width="600"
+                        height="400" loading="lazy" decoding="async">
+                    <div class="image-icons">
+                        <button class="icon-btn phone" onclick="callNumber('+966532228615')"><i
+                                class="fas fa-phone"></i></button>
+                        <button class="icon-btn whatsapp" onclick="whatsappMessage('+966532228615')"><i
+                                class="fab fa-whatsapp"></i></button>
+                    </div>
+                    <div class="image-title">ثقة وإتقان في التنفيذ - حدادة ممتازة</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- المقال 1 - تحت الصورة 1 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #f8f9fa 0%, #e9f7fe 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #3498db; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-warehouse"></i> غرف ساندوتش بانل جازة: ثورة في الإنشاءات الصناعية - ورشة حدادة متكاملة
+                بالرياض
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>غرف الساندوتش بانب الجازة</strong> تمثل الحل الأمثل للمنشآت الصناعية والتجارية في المملكة
+                العربية السعودية. تتكون من ثلاث طبقات رئيسية: طبقتان خارجيتان من الصاج المجلفن عالي الجودة وطبقة وسطى من
+                عازل البولي يوريثان عالي الكثافة. هذا التركيب الفريد يوفر عزلًا حراريًا ممتازًا يقلل استهلاك الطاقة
+                بنسبة تصل إلى 40% مقارنة بالبناء التقليدي. <strong>مؤسسة القاسم</strong> تقدم خدمات حدادة متكاملة تشمل
+                <strong>أبواب حديد ليزر</strong> و<strong>تفصيل شبابيك</strong> بجودة عالية.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 25px 0;">
+                <div
+                    style="background: white; padding: 18px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+                    <h4 style="color: #2980b9; margin-bottom: 10px; font-size: 1.2rem;"><i class="fas fa-star"></i>
+                        المميزات الرئيسية</h4>
+                    <ul style="color: #2c3e50; padding-right: 15px;">
+                        <li>سرعة التركيب وتوفير 70% من الوقت</li>
+                        <li>عزل حراري ممتاز (معامل K=0.022 واط/م.ك)</li>
+                        <li>مقاومة كاملة للرطوبة والعفن</li>
+                        <li>عمر افتراضي يزيد عن 30 عامًا</li>
+                    </ul>
+                </div>
+                <div
+                    style="background: white; padding: 18px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+                    <h4 style="color: #27ae60; margin-bottom: 10px; font-size: 1.2rem;"><i class="fas fa-cogs"></i>
+                        التطبيقات العملية</h4>
+                    <ul style="color: #2c3e50; padding-right: 15px;">
+                        <li>مستودعات التبريد والتجميد</li>
+                        <li>مكاتب موقع العمل المؤقتة</li>
+                        <li>غرف التحكم الكهربائية</li>
+                        <li>وحدات صحية وصرف صحي</li>
+                    </ul>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                نستخدم في <strong>شركة جازة المتطورة</strong> أحدث التقنيات الأوروبية في تصنيع ألواح الساندوتش بانل مع
+                مراعاة الظروف المناخية القاسية في المملكة. جميع منتجاتنا تحمل شهادة الجودة السعودية وتتوافق مع معايير
+                <strong>الهيئة السعودية للمواصفات والمقاييس والجودة</strong>.
+            </p>
+            <div
+                style="background-color: #fff8e1; border-right: 4px solid #f39c12; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #d35400; font-weight: bold;">
+                    <i class="fas fa-lightbulb"></i> نصيحة خبرائنا: للاستخدام في المناطق الساحلية مثل جدة والدمام، ننصح
+                    باستخدام صاج مجلفن بطبقة إيبوكسية إضافية لمقاومة التآكل بسبب الملوحة العالية. نحن <strong>حداد
+                        هنجار</strong> محترفون نضمن جودة العمل.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #3498db, #2c3e50); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);">
+                    <i class="fas fa-phone-alt"></i> استشارة مجانية مع مهندس متخصص - حدادة بالرياض
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 2 - تحت الصورة 2 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #fffaf0 0%, #fdf6e3 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #e67e22; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-fire-extinguisher"></i> غرف ساندوتش بانل مقاومة للحريق: السلامة أولاً - حدادة أمنية
+                متكاملة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>غرف الساندوتش بانل المقاومة للحريق</strong> هي الخيار الأمثل للمنشآت التي تتطلب أعلى مستويات
+                السلامة. نستخدم عازل الصوف الصخري (Rock Wool) بكثافة 100 كجم/م³ الذي يتحمل درجات حرارة تصل إلى 1000°م
+                دون اشتعال. جميع منتجاتنا تحمل شهادة مقاومة الحريق <strong>R90 وR120</strong> من الدفاع المدني السعودي.
+                <strong>ورشة حدادتنا بالرياض</strong> مجهزة بأحدث التقنيات.
+            </p>
+
+            <h4 style="color: #d35400; margin: 20px 0 12px 0;">🔥 مواصفات الغرف المقاومة للحريق:</h4>
+            <ul style="color: #2c3e50; padding-right: 20px; margin-bottom: 20px; font-size: 1.05rem;">
+                <li><strong>مادة العزل:</strong> صوف صخري غير قابل للاشتعال بكثافة عالية</li>
+                <li><strong>السماكة:</strong> 80-150 مم حسب درجة المقاومة المطلوبة</li>
+                <li><strong>التغطية:</strong> صاج مجلفن بطلاء خاص مقاوم للحريق</li>
+                <li><strong>الأبواب:</strong> أبواب مقاومة للحريق ذاتية الإغلاق</li>
+                <li><strong>الشهادات:</strong> شهادات معتمدة من الدفاع المدني السعودي</li>
+            </ul>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>مصنع جازة للمنتجات الصناعية</strong>، نلتزم بأعلى معايير الجودة والسلامة. نقوم بتصميم وتصنيع
+                غرف ساندوتش بانل مقاومة للحريق تناسب مختلف التطبيقات الصناعية والتجارية، مع توفير جميع الوثائق الفنية
+                والشهادات اللازمة للتخليص الجمركي والتراخيص البلدية. نحن <strong>مقاول حدادة معتمد</strong> في جميع
+                أنحاء الرياض.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #e74c3c, #c0392b); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(231, 76, 60, 0.4);">
+                    <i class="fas fa-file-certificate"></i> اطلب شهادات السلامة المعتمدة - حداد معتمد
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 3 - تحت الصورة 3 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #f0f8ff 0%, #e6f7ff 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #9b59b6; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-snowflake"></i> غرف ساندوتش بانل مبردة: حلول التبريد المتكاملة - حدادة تبريد متخصصة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>غرف الساندوتش بانل المبردة</strong> هي الحل الأمثل لتخزين المواد الغذائية والدوائية. مع العزل
+                الحراري الفائق الذي توفره ألواح البولي يوريثان، يمكن الحفاظ على درجات حرارة منخفضة تصل إلى -30°م مع
+                استهلاك طاقة أقل بنسبة 50% مقارنة بالغرف التقليدية. <strong>ورشة حدادتنا في شمال الرياض</strong> تقدم
+                أفضل الحلول.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 25px 0;">
+                <div
+                    style="background: white; padding: 15px; border-radius: 8px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+                    <i class="fas fa-temperature-low" style="color: #3498db; font-size: 2rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0 5px 0;">التبريد المتوسط</h5>
+                    <p style="color: #7f8c8d; font-size: 0.9rem; margin: 0;">+2°م إلى +8°م للمواد الغذائية</p>
+                </div>
+                <div
+                    style="background: white; padding: 15px; border-radius: 8px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+                    <i class="fas fa-icicles" style="color: #2980b9; font-size: 2rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0 5px 0;">التجميد العميق</h5>
+                    <p style="color: #7f8c8d; font-size: 0.9rem; margin: 0;">-18°م إلى -25°م للحوم</p>
+                </div>
+                <div
+                    style="background: white; padding: 15px; border-radius: 8px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+                    <i class="fas fa-prescription-bottle"
+                        style="color: #8e44ad; font-size: 2rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0 5px 0;">التخزين الدوائي</h5>
+                    <p style="color: #7f8c8d; font-size: 0.9rem; margin: 0;">+5°م إلى +15°م للأدوية</p>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                نقدم في <strong>شركة جازة للتجارة والتبريد</strong> حلولاً متكاملة تشمل التصميم والتصنيع والتركيب وضمان
+                الصيانة. جميع غرفنا المبردة مجهزة بأنظمة مراقبة ذكية للدرجة الحرارة والرطوبة، مع إمكانية الربط عن بعد
+                عبر تطبيقات الهواتف الذكية. <strong>حداد هنجار محترف</strong> يضمن جودة التصنيع.
+            </p>
+            <div
+                style="background-color: #e8f8f5; border-right: 4px solid #1abc9c; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #16a085; font-weight: bold;">
+                    <i class="fas fa-info-circle"></i> معلومة مهمة: سماكة العزل المثالية لغرف التبريد في المناخ الحار هي
+                    100-150 مم، مع استخدام أبواب مزدوجة لمنع تسرب الهواء البارد. نحن <strong>حداد رخيص وممتاز</strong>
+                    نقدم أفضل الأسعار.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #9b59b6, #8e44ad); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(155, 89, 182, 0.4);">
+                    <i class="fas fa-calculator"></i> احسب احتياجاتك التبريدية مع خبرائنا - حدادة متخصصة
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 4 - تحت الصورة 4 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #f9f9f9 0%, #f1f1f1 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #34495e; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-tools"></i> غرف ساندوتش بانل للورش الصناعية - ورشة حدادة بالرياض متكاملة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>غرف الورش الصناعية</strong> المصنوعة من ألواح الساندوتش بانل توفر بيئة عمل آمنة ومريحة. الجدران
+                العازلة تحمي من الضوضاء وتوفر عزلًا حراريًا يحسن ظروف العمل في الصيف والشتاء. نستخدم صاجًا مقوى بسماكة
+                0.5-0.7 مم لتحمل الظروف القاسية. <strong>ورشة حدادتنا بالرياض</strong> مجهزة بأحدث المعدات.
+            </p>
+
+            <div
+                style="background: white; padding: 20px; border-radius: 10px; margin: 20px 0; border-right: 4px solid #f39c12;">
+                <h4 style="color: #e67e22; margin-bottom: 15px;"><i class="fas fa-clipboard-list"></i> مواصفات غرف
+                    الورش:</h4>
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+                    <div><strong>سماكة اللوح:</strong> 60-100 مم</div>
+                    <div><strong>سماكة الصاج:</strong> 0.5-0.7 مم</div>
+                    <div><strong>نظام التركيب:</strong> تثبيت بالبراغي</div>
+                    <div><strong>التهوية:</strong> مراوح شفط صناعية</div>
+                    <div><strong>الإضاءة:</strong> لمبات LED صناعية</div>
+                    <div><strong>الأرضية:</strong> إيبوكسي مقاوم للزيوت</div>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                نقوم في <strong>مؤسسة جازة للمقاولات</strong> بتصميم وتنفيذ غرف ورش متكاملة تشمل جميع التجهيزات
+                الكهربائية والإنشائية. نقدم حلولاً مخصصة تناسب مختلف أنواع الورش (ميكانيكية، كهربائية، نجارة، حدادة) مع
+                مراعاة متطلبات السلامة والصحة المهنية. نحن <strong>مقاول حدادة معتمد</strong> في الرياض.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #34495e, #2c3e50); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(52, 73, 94, 0.4);">
+                    <i class="fas fa-hard-hat"></i> احصل على تصميم ورشة صناعية متكاملة - حدادة صناعية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 5 - تحت الصورة 5 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #fff5f5 0%, #ffeaea 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #e74c3c; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-clinic-medical"></i> غرف ساندوتش بانل طبية ومعامل تحاليل - حدادة طبية متخصصة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الغرف الطبية والمخبرية</strong> المصنوعة من الساندوتش بانل تلبي أعلى معايير النظافة والتعقيم.
+                الأسطح الداخلية الملساء الخالية من الفواصل تمنع تراكم الجراثيم والبكتيريا. نستخدم طلاءات إيبوكسية مضادة
+                للبكتيريا وسهلة التنظيف والتعقيم. <strong>حداد هنجار محترف</strong> يضمن جودة التصنيع.
+            </p>
+
+            <h4 style="color: #c0392b; margin: 20px 0 15px 0;">🏥 مواصفات الغرف الطبية:</h4>
+            <ul style="color: #2c3e50; padding-right: 20px; margin-bottom: 20px;">
+                <li><strong>الأسقف:</strong> أسقف كاملة بدون فواصل لمنع تراكم الأتربة</li>
+                <li><strong>الجدران:</strong> طلاء إيبوكسي مضاد للبكتيريا</li>
+                <li><strong>الأرضيات:</strong> أرضيات PVC طبية بدون فواصل</li>
+                <li><strong>التكييف:</strong> أنظمة تكييف منفصلة مع فلتر HEPA</li>
+                <li><strong>الإضاءة:</strong> إضاءة LED طبية خالية من الوهج</li>
+                <li><strong>التهوية:</strong> أنظمة ضغط هواء موجب/سالب حسب التطبيق</li>
+            </ul>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                نعمل في <strong>شركة جازة للمشاريع الطبية</strong> وفق معايير <strong>وزارة الصحة السعودية</strong>
+                و<strong>الهيئة السعودية للتخصصات الصحية</strong>. نقوم بتصميم وتنفيذ غرف عمليات، عيادات، معامل تحاليل،
+                وصيدليات متنقلة تلبي جميع المتطلبات الفنية والتنظيمية. <strong>ورشة حدادة بالرياض</strong> تقدم أفضل
+                الحلول الطبية.
+            </p>
+            <div
+                style="background-color: #ffebee; border-right: 4px solid #e74c3c; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #c0392b; font-weight: bold;">
+                    <i class="fas fa-exclamation-triangle"></i> مهم: جميع المواد المستخدمة في الغرف الطبية يجب أن تحمل
+                    شهادات خلو من المواد السامة ومقاومة للمواد الكيميائية. نحن <strong>حداد معتمد</strong> نضمن الجودة.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #e74c3c, #c0392b); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(231, 76, 60, 0.4);">
+                    <i class="fas fa-stethoscope"></i> استشارة طبية فنية مجانية - حدادة طبية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 6 - تحت الصورة 6 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #f0fff4 0%, #e6ffe6 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #27ae60; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-seedling"></i> غرف ساندوتش بانل زراعية ودفيئات - حدادة زراعية متخصصة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الدفيئات الزراعية</strong> المصنوعة من ألواح الساندوتش بانل توفر بيئة مثالية للزراعة المحمية.
+                العزل الحراري الممتاز يحافظ على درجة حرارة ثابتة داخل الدفيئة، بينما السماح بنفاذ الضوء الطبيعي المناسب
+                لنمو النباتات. نستخدم ألواحًا شفافة أو نصف شفافة حسب احتياجات المحصول. <strong>ورشة حدادتنا في شمال
+                    الرياض</strong> متخصصة في الحلول الزراعية.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 25px 0;">
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-sun" style="color: #f39c12; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">نفاذية الضوء</h5>
+                    <p style="color: #7f8c8d; margin: 0;">70-85% حسب نوع المحصول</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-thermometer-half"
+                        style="color: #e74c3c; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">عزل حراري</h5>
+                    <p style="color: #7f8c8d; margin: 0;">يوفر 60% توفير في الطاقة</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-tint" style="color: #3498db; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">التحكم بالرطوبة</h5>
+                    <p style="color: #7f8c8d; margin: 0;">أنظمة تهوية متكاملة</p>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                نقدم في <strong>شركة جازة للزراعة الحديثة</strong> حلولاً متكاملة للزراعة المحمية تشمل التصميم والتنفيذ
+                وتركيب أنظمة الري والتسميد الآلي. جميع دفيئاتنا مزودة بأنظمة تحكم ذكية تراقب وتضبط درجة الحرارة والرطوبة
+                والإضاءة تلقائيًا. <strong>حداد هنجار محترف</strong> يضمن متانة الإنشاءات.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #27ae60, #229954); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(39, 174, 96, 0.4);">
+                    <i class="fas fa-leaf"></i> استشارة زراعية مجانية من مهندسين متخصصين - حدادة زراعية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 7 - تحت الصورة 7 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #f5f0ff 0%, #ede7f6 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #8e44ad; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-wifi"></i> غرف ساندوتش بانل للاتصالات والبيانات - حدادة تقنية متطورة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>غرف مراكز البيانات والاتصالات</strong> المصنوعة من الساندوتش بانل توفر بيئة محكمة ومستقرة
+                للأجهزة الإلكترونية الحساسة. العزل الحراري الممتاز يقلل من تكاليف التبريد، بينما العزل الكهربائي يحمي من
+                التداخل الكهرومغناطيسي. نستخدم مواد غير قابلة للاشتعال ومقاومة للحريق. <strong>ورشة حدادة
+                    بالرياض</strong> تقدم حلولاً تقنية متكاملة.
+            </p>
+
+            <div style="background: white; padding: 20px; border-radius: 10px; margin: 20px 0;">
+                <h4 style="color: #8e44ad; margin-bottom: 15px;"><i class="fas fa-server"></i> مواصفات غرف البيانات:
+                </h4>
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+                    <div><strong>التحكم بالحرارة:</strong> 18-24°م ثابتة</div>
+                    <div><strong>الرطوبة:</strong> 40-60% مضبوطة</div>
+                    <div><strong>التبريد:</strong> مكيفات دقيقة (Precision AC)</div>
+                    <div><strong>مكافحة الحريق:</strong> أنظمة FM200</div>
+                    <div><strong>الأرضية:</strong> أرضيات وصول (Access Floor)</div>
+                    <div><strong>التوصيلات:</strong> قنوات كابلات مدمجة</div>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>شركة جازة للحلول التقنية</strong>، نتبع معايير <strong>TIA-942</strong> الدولية لتصميم مراكز
+                البيانات. نقدم حلولاً متكاملة تشديداً على موثوقية الطاقة (أونلاين 24/7) وأمن المعلومات والمرونة في
+                التوسع المستقبلي. <strong>حداد هنجار متخصص</strong> في الإنشاءات التقنية.
+            </p>
+            <div
+                style="background-color: #f3e5f5; border-right: 4px solid #8e44ad; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #7d3c98; font-weight: bold;">
+                    <i class="fas fa-shield-alt"></i> الأمان الكهربائي: جميع الغرف مجهزة بأنظمة تأريض وحماية من الصواعق
+                    وتيارات التسرب. <strong>مقاول حدادة معتمد</strong> يضمن السلامة.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #8e44ad, #7d3c98); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(142, 68, 173, 0.4);">
+                    <i class="fas fa-network-wired"></i> تصميم مركز بيانات متكامل - حدادة تقنية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 8 - تحت الصورة 8 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #f1c40f; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-home"></i> غرف ساندوتش بانل سكنية وعمالية - حدادة سكنية متكاملة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الوحدات السكنية والعمالية</strong> المصنوعة من الساندوتش بانل توفر سكنًا مريحًا وآمنًا للعاملين
+                في المشاريع النائية. التصميم المعياري يسمح بتركيب الوحدات في أقل من 48 ساعة، مع توفير جميع وسائل الراحة
+                الأساسية. نستخدم مواد صديقة للبيئة وآمنة صحياً. <strong>ورشة حدادة شمال الرياض</strong> تقدم أفضل الحلول
+                السكنية.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 25px 0;">
+                <div
+                    style="background: white; padding: 18px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+                    <h4 style="color: #f39c12; margin-bottom: 10px; font-size: 1.2rem;"><i class="fas fa-bed"></i>
+                        التجهيزات الداخلية</h4>
+                    <ul style="color: #2c3e50; padding-right: 15px;">
+                        <li>غرف نوم بأسرّة مدمجة</li>
+                        <li>حمامات كاملة مع سخانات</li>
+                        <li>مطابخ صغيرة مجهزة</li>
+                        <li>تكييف سبليت عالي الكفاءة</li>
+                    </ul>
+                </div>
+                <div
+                    style="background: white; padding: 18px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+                    <h4 style="color: #27ae60; margin-bottom: 10px; font-size: 1.2rem;"><i class="fas fa-th-large"></i>
+                        خيارات التصميم</h4>
+                    <ul style="color: #2c3e50; padding-right: 15px;">
+                        <li>وحدات فردية أو مزدوجة</li>
+                        <li>وحدات متصلة (شقق)</li>
+                        <li>مكاتب إدارية ملحقة</li>
+                        <li>صالات اجتماعات وتدريب</li>
+                    </ul>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                نلتزم في <strong>شركة جازة للإسكان المؤقت</strong> بمعايير <strong>وزارة العمل والتنمية
+                    الاجتماعية</strong> لإسكان العمال. جميع وحداتنا مجهزة بأنظمة إنذار حريق، طفايات، إسعافات أولية،
+                وتتوفر بخدمات الصيانة الدورية. <strong>حداد رخيص وممتاز</strong> يقدم أفضل الأسعار.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #f1c40f, #f39c12); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(241, 196, 15, 0.4);">
+                    <i class="fas fa-users"></i> احصل على عرض أسعار للوحدات السكنية - حدادة سكنية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 9 - تحت الصورة 9 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #e8f4f8 0%, #d4eaf7 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #2980b9; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-tint"></i> غرف ساندوتش بانل لمعالجة المياه - حدادة صحية متخصصة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>غرف محطات معالجة المياه</strong> المصنوعة من الساندوتش بانل توفر بيئة محكمة لمنع التلوث والحفاظ
+                على جودة المياه المعالجة. نستخدم مواد مقاومة للمواد الكيميائية والرطوبة العالية، مع توفير تهوية مناسبة
+                للتعامل مع الأبخرة الكيميائية. <strong>ورشة حدادة بالرياض</strong> مجهزة لأعمال المعالجة.
+            </p>
+
+            <h4 style="color: #2980b9; margin: 20px 0 15px 0;">💧 أنواع غرف معالجة المياه:</h4>
+            <ul style="color: #2c3e50; padding-right: 20px; margin-bottom: 20px;">
+                <li><strong>غرف التناضح العكسي (RO):</strong> للتحلية والمعالجة</li>
+                <li><strong>غرف الحقن الكيميائي:</strong> لتعديل pH والتعقيم</li>
+                <li><strong>غرف التحكم الآلي:</strong> لأنظمة SCADA والمراقبة</li>
+                <li><strong>غرف المضخات:</strong> لمضخات الضغط العالي</li>
+                <li><strong>غرف التخزين:</strong> للمواد الكيميائية</li>
+            </ul>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>شركة جازة لمعالجة المياه</strong>، نتبع معايير <strong>المواصفات السعودية للمياه</strong>
+                و<strong>منظمة الصحة العالمية</strong>. نقوم بتصميم غرف متخصصة تناسب كل مرحلة من مراحل المعالجة، مع
+                مراعاة متطلبات السلامة الكيميائية والبيئية. <strong>حداد هنجار محترف</strong> يضمن الجودة.
+            </p>
+            <div
+                style="background-color: #e1f5fe; border-right: 4px solid #2980b9; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #1565c0; font-weight: bold;">
+                    <i class="fas fa-flask"></i> السلامة الكيميائية: جميع الغرف مجهزة بخزانات تخزين ثانوية، وأنظمة تهوية
+                    قسرية، وأرضيات مقاومة للتسرب. <strong>مقاول حدادة معتمد</strong> يضمن السلامة.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #2980b9, #1a5276); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(41, 128, 185, 0.4);">
+                    <i class="fas fa-filter"></i> استشارة فنية لمحطات معالجة المياه - حدادة صحية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 10 - تحت الصورة 10 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #fce4ec 0%, #f8bbd9 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #e91e63; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-paint-roller"></i> غرف ساندوتش بانل دهانات وألوان متنوعة - حدادة ديكور متكاملة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>التنوع اللوني</strong> في غرف الساندوتش بانل يسمح بتكاملها مع البيئة المحيطة وتحسين المظهر
+                الجمالي. نقدم أكثر من 50 لوناً من ألوان RAL المعيارية، مع إمكانية تخصيص الألوان حسب طلب العميل. جميع
+                الطلاءات من النوع PVDF عالي المتانة والمقاوم للتآكل. <strong>ورشة حدادة شمال الرياض</strong> تقدم تشكيلة
+                واسعة من الألوان.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px; margin: 25px 0;">
+                <div style="background: #2c3e50; height: 80px; border-radius: 8px;"></div>
+                <div style="background: #3498db; height: 80px; border-radius: 8px;"></div>
+                <div style="background: #e74c3c; height: 80px; border-radius: 8px;"></div>
+                <div style="background: #27ae60; height: 80px; border-radius: 8px;"></div>
+                <div style="background: #f39c12; height: 80px; border-radius: 8px;"></div>
+                <div style="background: #9b59b6; height: 80px; border-radius: 8px;"></div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>مصنع جازة للألوان والطلاءات</strong>، نستخدم طلاءات PVDF (بولي فينيلدين فلورايد) التي تتحمل
+                الأشعة فوق البنفسجية والعوامل الجوية القاسية لمدة تصل إلى 20 عامًا دون تغير اللون. نقدم أيضًا خيارات
+                طلاء خاصة مضادة للبكتيريا، عاكسة للحرارة، وذاتية التنظيف. <strong>حداد هنجار محترف</strong> يضمن جودة
+                الطلاء.
+            </p>
+            <div
+                style="background-color: #f8bbd9; border-right: 4px solid #e91e63; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #c2185b; font-weight: bold;">
+                    <i class="fas fa-palette"></i> نصائح الألوان: الألوان الفاتحة تعكس 80% من حرارة الشمس، بينما الألوان
+                    الداكنة تمتص الحرارة مما يزيد الحمل على أنظمة التبريد. <strong>حداد رخيص وممتاز</strong> ينصحك
+                    بالألوان المناسبة.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #e91e63, #c2185b); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(233, 30, 99, 0.4);">
+                    <i class="fas fa-fill-drip"></i> اطلب عينات الألوان مجاناً - حدادة ديكور
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 11 - تحت الصورة 11 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #009688; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-recycle"></i> غرف ساندوتش بانل صديقة للبيئة - حدادة مستدامة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الاستدامة البيئية</strong> مبدأ أساسي في منتجاتنا. ألواح الساندوتش بانل التي ننتجها تحتوي على
+                مواد معاد تدويرها بنسبة تصل إلى 30%، وقابلة لإعادة التدوير بنسبة 95%. العزل الحراري الممتاز يقلل من
+                انبعاثات الكربون عبر توفير الطاقة في التدفئة والتبريد. <strong>ورشة حدادة بالرياض</strong> ملتزمة
+                بالمعايير البيئية.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 25px 0;">
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-leaf" style="color: #27ae60; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">مواد معاد تدويرها</h5>
+                    <p style="color: #7f8c8d; margin: 0;">30% من مكونات الألواح</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-bolt" style="color: #f39c12; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">توفير الطاقة</h5>
+                    <p style="color: #7f8c8d; margin: 0;">40-60% توفير في الطاقة</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-tree" style="color: #8e44ad; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">تقليل الانبعاثات</h5>
+                    <p style="color: #7f8c8d; margin: 0;">3 أطنان CO2 أقل لكل غرفة</p>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                حصلت <strong>شركة جازة للصناعات المستدامة</strong> على شهادة <strong>البناء الأخضر</strong> من المركز
+                السعودي لكفاءة الطاقة. نستخدم في تصنيعنا مواد خالية من مركبات الكلوروفلوروكربون (CFC) الضارة بطبقة
+                الأوزون، ونطبق مبادئ الاقتصاد الدائري في جميع عملياتنا. <strong>حداد هنجار متخصص</strong> في الإنشاءات
+                المستدامة.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #009688, #00796b); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(0, 150, 136, 0.4);">
+                    <i class="fas fa-certificate"></i> استعلام عن شهادات البناء الأخضر - حدادة بيئية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 12 - تحت الصورة 12 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #ff9800; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-expand-arrows-alt"></i> غرف ساندوتش بانل قابلة للتوسع - حدادة مرنة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>المرونة في التصميم</strong> ميزة رئيسية لغرف الساندوتش بانل. النظام المعياري يسمح بإضافة أو
+                إزالة أجزاء بسهولة لتوسيع أو تقليص المساحة حسب الحاجة. يمكنك البدء بغرفة صغيرة ثم توسيعها لاحقًا دون هدم
+                أو إعادة بناء. <strong>ورشة حدادة شمال الرياض</strong> تقدم حلولاً مرنة قابلة للتوسع.
+            </p>
+
+            <h4 style="color: #ff9800; margin: 20px 0 15px 0;">📐 طرق التوسع المتاحة:</h4>
+            <ul style="color: #2c3e50; padding-right: 20px; margin-bottom: 20px;">
+                <li><strong>التوسع الأفقي:</strong> إضافة ألواح جديدة على الجوانب</li>
+                <li><strong>التوسع الرأسي:</strong> زيادة ارتفاع الجدران</li>
+                <li><strong>الإضافات الجانبية:</strong> ربط غرف متعددة معًا</li>
+                <li><strong>التعديل الداخلي:</strong> تغيير التقسيمات الداخلية</li>
+                <li><strong>النقل الكامل:</strong> تفكيك وتركيب في موقع جديد</li>
+            </ul>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>شركة جازة للحلول المرنة</strong>، نقدم ضمانًا على إمكانية التوسع لجميع غرفنا. نحتفظ بخطط
+                التصميم الأصلية ونساعد العملاء في مراحل التوسع المستقبلية. جميع الوصلات مصممة لتكون قابلة للفك والتركيب
+                المتكرر دون فقدان الكفاءة. <strong>مقاول حدادة معتمد</strong> يضمن متانة التوسعات.
+            </p>
+            <div
+                style="background-color: #ffe0b2; border-right: 4px solid #ff9800; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #ef6c00; font-weight: bold;">
+                    <i class="fas fa-ruler-combined"></i> تخطيط مسبق: ننصح بتخطيط التوسعات المستقبلية في التصميم الأولي
+                    لتسهيلها لاحقًا وتوفير التكاليف. <strong>حداد هنجار محترف</strong> يقدم الاستشارات.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #ff9800, #f57c00); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(255, 152, 0, 0.4);">
+                    <i class="fas fa-arrows-alt-h"></i> استشارة مجانية للتخطيط التوسعي - حدادة مرنة
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 13 - تحت الصورة 13 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #7b1fa2; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-shield-alt"></i> غرف ساندوتش بانل عالية الأمان - حدادة أمنية متطورة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الأمن والحماية</strong> عنصر أساسي في تصميم غرفنا. نقدم غرف ساندوتش بانل بمستويات أمنية متعددة،
+                من الحماية الأساسية ضد التخريب إلى المستويات العالية المقاومة للاقتحام. نستخدم صاجًا مقوى، أقفالًا
+                إلكترونية، وأنظمة مراقبة متكاملة. <strong>ورشة حدادة بالرياض</strong> متخصصة في الحلول الأمنية.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 25px 0;">
+                <div
+                    style="background: white; padding: 18px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+                    <h4 style="color: #7b1fa2; margin-bottom: 10px; font-size: 1.2rem;"><i class="fas fa-lock"></i>
+                        أنظمة الأقفال</h4>
+                    <ul style="color: #2c3e50; padding-right: 15px;">
+                        <li>أقفال ميكانيكية متعددة النقاط</li>
+                        <li>أقفال إلكترونية ببطاقات أو بصمة</li>
+                        <li>أنظمة تحكم بالدخول (Access Control)</li>
+                        <li>أقفال مضادة للكسر والثقب</li>
+                    </ul>
+                </div>
+                <div
+                    style="background: white; padding: 18px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+                    <h4 style="color: #e74c3c; margin-bottom: 10px; font-size: 1.2rem;"><i class="fas fa-video"></i>
+                        أنظمة المراقبة</h4>
+                    <ul style="color: #2c3e50; padding-right: 15px;">
+                        <li>كاميرات مراقبة داخلية وخارجية</li>
+                        <li>أنظمة إنذار ضد الاقتحام</li>
+                        <li>كاشفات حركة وأبواب</li>
+                        <li>مراقبة عن بعد عبر الجوال</li>
+                    </ul>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                <strong>شركة جازة للحلول الأمنية</strong> معتمدة من <strong>وزارة الداخلية السعودية</strong> لتوريد
+                وتركيب الأنظمة الأمنية. نقدم حلولاً متكاملة تشمل التصميم الأمني، توريد المعدات، التركيب، والتدريب على
+                الاستخدام. جميع أنظمتنا قابلة للتكامل مع أنظمة الأمن المركزية. <strong>حداد هنجار متخصص</strong> في
+                الإنشاءات الأمنية.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #7b1fa2, #6a1b9a); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(123, 31, 162, 0.4);">
+                    <i class="fas fa-user-shield"></i> استشارة أمنية متخصصة مجانية - حدادة أمنية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 14 - تحت الصورة 14 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #1976d2; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-bolt"></i> غرف ساندوتش بانال للمولدات الكهربائية - حدادة طاقة متكاملة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>غرف المولدات الكهربائية</strong> المصنوعة من الساندوتش بانال توفر حلاً مثاليًا لحماية المولدات
+                من العوامل الجوية وتقليل الضوضاء. التصميم المتكامل يشمل أنظمة عادم، تبريد، وتخزين وقود آمنة. نستخدم مواد
+                عازلة للصوت تقلل الضوضاء بنسبة تصل إلى 40 ديسيبل. <strong>ورشة حدادة شمال الرياض</strong> متخصصة في غرف
+                المولدات.
+            </p>
+
+            <div style="background: white; padding: 20px; border-radius: 10px; margin: 20px 0;">
+                <h4 style="color: #1976d2; margin-bottom: 15px;"><i class="fas fa-cog"></i> مواصفات غرف المولدات:</h4>
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+                    <div><strong>العزل الصوتي:</strong> 35-40 ديسيبل تخفيض</div>
+                    <div><strong>أنظمة العادم:</strong> مجاري عادم معزولة</div>
+                    <div><strong>التبريد:</strong> مراوح شفط قوية مع فلاتر</div>
+                    <div><strong>تخزين الوقود:</strong> خزانات مزدوجة الجدار</div>
+                    <div><strong>التحكم:</strong> لوحات تحكم مدمجة</div>
+                    <div><strong>الصيانة:</strong> أبواب صيانة واسعة</div>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>شركة جازة للطاقة</strong>، نتبع معايير <strong>الشركة السعودية للكهرباء</strong>
+                و<strong>الدفاع المدني</strong> في تصميم غرف المولدات. نقدم حلولاً متكاملة تشمل الأساس الخرساني، تركيب
+                المولد، أنظمة العادم والتبريد، وربط التيار الأساسي والطوارئ. <strong>مقاول حدادة معتمد</strong> يضمن
+                السلامة.
+            </p>
+            <div
+                style="background-color: #bbdefb; border-right: 4px solid #1976d2; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #0d47a1; font-weight: bold;">
+                    <i class="fas fa-volume-mute"></i> تقليل الضوضاء: استخدام مواد عازلة للصوت بسمك 100 مم مع مجاري عادم
+                    معزولة يقلل الضوضاء إلى مستويات مقبولة في المناطق السكنية. <strong>حداد هنجار محترف</strong> يحقق
+                    المعايير.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #1976d2, #1565c0); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(25, 118, 210, 0.4);">
+                    <i class="fas fa-generator"></i> تصميم غرفة مولدات متكاملة - حدادة طاقة
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 15 - تحت الصورة 15 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #f1f8e9 0%, #dcedc8 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #7cb342; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-truck-loading"></i> غرف ساندوتش بانل للنقل والتركيب السريع - حدادة سريعة التنفيذ
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>سرعة التركيب</strong> ميزة تنافسية كبيرة لغرف الساندوتش بانل. يمكن تركيب غرفة مساحة 100 م² في
+                أقل من 5 أيام عمل، مقارنة بشهرين للبناء التقليدي. النظام المعياري يسمح بتصنيع الأجزاء في المصنع ونقلها
+                جاهزة للتركيب في الموقع. <strong>ورشة حدادة بالرياض</strong> تقدم خدمة التركيب السريع.
+            </p>
+
+            <h4 style="color: #7cb342; margin: 20px 0 15px 0;">⏱️ جدول زمني نموذجي:</h4>
+            <ul style="color: #2c3e50; padding-right: 20px; margin-bottom: 20px;">
+                <li><strong>اليوم 1:</strong> إعداد الأساس وتركيب الأرضية</li>
+                <li><strong>اليوم 2-3:</strong> تركيب الجدران والألواح</li>
+                <li><strong>اليوم 4:</strong> تركيب السقف والأبواب والنوافذ</li>
+                <li><strong>اليوم 5:</strong> التركيبات الكهربائية والسباكة</li>
+                <li><strong>اليوم 6:</strong> التشطيبات النهائية والتسليم</li>
+            </ul>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>شركة جازة للمشاريع السريعة</strong>، نملك فريقًا متخصصًا في التركيب السريع يمكنه العمل على
+                مدار الساعة لإنجاز المشاريع العاجلة. نستخدم معدات متطورة ونطبق نظام إدارة مشاريع دقيق لضمان التسليم في
+                الوقت المحدد. <strong>حداد رخيص وممتاز</strong> يقدم خدمة سريعة بجودة عالية.
+            </p>
+            <div
+                style="background-color: #dcedc8; border-right: 4px solid #7cb342; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #558b2f; font-weight: bold;">
+                    <i class="fas fa-clock"></i> تخطيط مسبق: 80% من العمل يتم في المصنع، مما يقلل وقت التنفيذ في الموقع
+                    ويحد من الإزعاج للعملاء. <strong>حداد هنجار محترف</strong> يحترم مواعيد التسليم.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #7cb342, #689f38); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(124, 179, 66, 0.4);">
+                    <i class="fas fa-stopwatch"></i> اطلب عرض سعر للمشاريع العاجلة - حدادة سريعة
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 16 - تحت الصورة 16 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #ffb300; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-award"></i> ضمان وجودة غرف ساندوتش بانل جازة - حدادة مضمونة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الجودة والضمان</strong> أساس ثقتنا في منتجاتنا. نقدم ضمانًا شاملاً لمدة 10 سنوات على الألواح،
+                وضمانًا لمدة عامين على التركيب، وخدمة صيانة دورية مدى الحياة. جميع منتجاتنا تخضع لاختبارات جودة صارمة في
+                كل مرحلة من مراحل التصنيع. <strong>ورشة حدادة بالرياض</strong> تقدم ضماناً حقيقياً.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 25px 0;">
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-certificate" style="color: #ffb300; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">ضمان الألواح</h5>
+                    <p style="color: #7f8c8d; margin: 0;">10 سنوات ضد العيوب الصناعية</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-tools" style="color: #3498db; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">ضمان التركيب</h5>
+                    <p style="color: #7f8c8d; margin: 0;">سنتان على أعمال التركيب</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-headset" style="color: #27ae60; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">خدمة الصيانة</h5>
+                    <p style="color: #7f8c8d; margin: 0;">خدمة صيانة دورية مدى الحياة</p>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                <strong>مختبر جازة للجودة</strong> معتمد من <strong>الهيئة السعودية للمواصفات والمقاييس والجودة</strong>
+                ويجري أكثر من 50 اختبارًا مختلفًا على المواد والمنتجات النهائية. نقدم شهادات اختبار مع كل منتج، ونسجل
+                جميع البيانات في نظام تتبع يمكن للعميل الوصول إليه. <strong>مقاول حدادة معتمد</strong> يضمن الجودة.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #ffb300, #ff8f00); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(255, 179, 0, 0.4);">
+                    <i class="fas fa-file-contract"></i> اطلب نسخة من شهادات الجودة والضمان - حدادة مضمونة
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 17 - تحت الصورة 17 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #fbe9e7 0%, #ffccbc 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #ff5722; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-truck"></i> غرف ساندوتش بانل متنقلة على مقطورات - حدادة متنقلة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الوحدات المتنقلة</strong> على المقطورات توفر حلاً مثالياً للمشاريع المؤقتة أو المتغيرة الموقع.
+                يمكن نقل الغرفة كاملة مع جميع تجهيزاتها الداخلية إلى أي موقع، وتوصيلها بالخدمات الأساسية في أقل من
+                ساعتين. نستخدم مقطورات مجهزة بنظام تعليق محكم لحماية المحتويات أثناء النقل. <strong>ورشة حدادة شمال
+                    الرياض</strong> تقدم وحدات متنقلة.
+            </p>
+
+            <div style="background: white; padding: 20px; border-radius: 10px; margin: 20px 0;">
+                <h4 style="color: #ff5722; margin-bottom: 15px;"><i class="fas fa-road"></i> مواصفات الوحدات المتنقلة:
+                </h4>
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+                    <div><strong>الحمولة:</strong> حتى 20 طن على المقطورة</div>
+                    <div><strong>الأبعاد:</strong> تتناسب مع لوائح النقل السعودية</div>
+                    <div><strong>التجهيزات:</strong> تكييف، كهرباء، سباكة كاملة</div>
+                    <div><strong>الاستقرار:</strong> أرجل هيدروليكية للتثبيت</div>
+                    <div><strong>السلامة:</strong> إضاءة وعلامات تحذير للنقل</div>
+                    <div><strong>الربط:</strong> وصلات سريعة للخدمات</div>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>شركة جازة للحلول المتنقلة</strong>، نراعي في تصميمنا جميع لوائح النقل البري السعودية. نقدم
+                وحدات متنقلة تناسب مختلف التطبيقات: عيادات متنقلة، مكاتب إشراف، وحدات بيع، ومختبرات فحص. جميع الوحدات
+                مجهزة بأنظمة طاقة ذاتية (مولدات أو ألواح شمسية). <strong>حداد هنجار متخصص</strong> في الوحدات المتنقلة.
+            </p>
+            <div
+                style="background-color: #ffccbc; border-right: 4px solid #ff5722; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #d84315; font-weight: bold;">
+                    <i class="fas fa-truck-moving"></i> التصميم للنقل: جميع المكونات الداخلية مثبتة بإحكام، والأسلاك
+                    والأنابيب محمية داخل قنوات خاصة لمنع التلف أثناء النقل. <strong>مقاول حدادة معتمد</strong> يضمن
+                    السلامة.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #ff5722, #e64a19); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(255, 87, 34, 0.4);">
+                    <i class="fas fa-caravan"></i> استشارة مجانية للوحدات المتنقلة - حدادة متنقلة
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 18 - تحت الصورة 18 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #3f51b5; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-desktop"></i> غرف ساندوتش بانل ذكية بتقنيات متطورة - حدادة ذكية
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الذكاء الاصطناعي وإنترنت الأشياء</strong> يغيران مفهوم الغرف الصناعية. نقدم غرف ساندوتش بانل
+                ذكية مجهزة بأنظمة تحكم آلي متكاملة. يمكن مراقبة وضبط درجة الحرارة، الرطوبة، الإضاءة، والأمان عن بعد عبر
+                تطبيقات الجوال أو الحواسيب. <strong>ورشة حدادة بالرياض</strong> تدمج التقنيات الذكية.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 25px 0;">
+                <div
+                    style="background: white; padding: 18px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+                    <h4 style="color: #3f51b5; margin-bottom: 10px; font-size: 1.2rem;"><i class="fas fa-robot"></i>
+                        أنظمة الذكاء الاصطناعي</h4>
+                    <ul style="color: #2c3e50; padding-right: 15px;">
+                        <li>تحكم ذكي في الطاقة والتكييف</li>
+                        <li>تنبؤ بالصيانة الوقائية</li>
+                        <li>تحليل البيانات لأغراض التحسين</li>
+                        <li>تكامل مع الأنظمة المركزية</li>
+                    </ul>
+                </div>
+                <div
+                    style="background: white; padding: 18px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+                    <h4 style="color: #009688; margin-bottom: 10px; font-size: 1.2rem;"><i class="fas fa-wifi"></i>
+                        تقنيات إنترنت الأشياء</h4>
+                    <ul style="color: #2c3e50; padding-right: 15px;">
+                        <li>أجهزة استشعار لاسلكية</li>
+                        <li>بوابات اتصال متعددة البروتوكولات</li>
+                        <li>تخزين سحابي للبيانات</li>
+                        <li>تطبيقات مراقبة للجوال</li>
+                    </ul>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                <strong>مركز جازة للابتكار التقني</strong> يطور حلولاً ذكية متخصصة للصناعة السعودية. نعمل مع شركات تقنية
+                عالمية لدمج أحدث التقنيات في منتجاتنا. جميع أنظمتنا الذكية مصممة لتكون آمنة ضد القرصنة الإلكترونية
+                ومتوافقة مع أنظمة التحكم الصناعي السعودية. <strong>حداد هنجار متخصص</strong> في التقنيات الذكية.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #3f51b5, #303f9f); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(63, 81, 181, 0.4);">
+                    <i class="fas fa-mobile-alt"></i> جرب تطبيق المراقبة الذكي تجريبيًا - حدادة ذكية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 19 - تحت الصورة 19 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #f1f1f1 0%, #e0e0e0 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #616161; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-money-bill-wave"></i> اقتصاديات غرف ساندوتش بانل: توفير التكاليف - حدادة اقتصادية
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الجدوى الاقتصادية</strong> عامل حاسم في اختيار غرف الساندوتش بانل. توفر هذه الغرف توفيرًا يصل
+                إلى 40% في التكلفة الإجمالية مقارنة بالبناء التقليدي، مع توفير مستمر في فواتير الطاقة والصيانة. تحليل
+                التكلفة الشامل يظهر عائد استثمار ممتاز خلال 3-5 سنوات. <strong>ورشة حدادة شمال الرياض</strong> تقدم أفضل
+                الأسعار.
+            </p>
+
+            <h4 style="color: #616161; margin: 20px 0 15px 0;">💰 مقارنة التكاليف (لمساحة 100 م²):</h4>
+            <div style="overflow-x: auto; margin-bottom: 25px;">
+                <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
+                    <thead>
+                        <tr style="background: #2c3e50; color: white;">
+                            <th style="padding: 12px; text-align: right;">البند</th>
+                            <th style="padding: 12px; text-align: right;">البناء التقليدي</th>
+                            <th style="padding: 12px; text-align: right;">الساندوتش بانل</th>
+                            <th style="padding: 12px; text-align: right;">التوفير</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="background: #f9f9f9;">
+                            <td style="padding: 10px; border: 1px solid #ddd;">تكلفة المواد والتركيب</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">350,000 ريال</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">210,000 ريال</td>
+                            <td style="padding: 10px; border: 1px solid #ddd; color: #27ae60; font-weight: bold;">40%
+                            </td>
+                        </tr>
+                        <tr style="background: white;">
+                            <td style="padding: 10px; border: 1px solid #ddd;">زمن التنفيذ</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">60 يومًا</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">15 يومًا</td>
+                            <td style="padding: 10px; border: 1px solid #ddd; color: #27ae60; font-weight: bold;">75%
+                            </td>
+                        </tr>
+                        <tr style="background: #f9f9f9;">
+                            <td style="padding: 10px; border: 1px solid #ddd;">تكاليف الطاقة السنوية</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">45,000 ريال</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">27,000 ريال</td>
+                            <td style="padding: 10px; border: 1px solid #ddd; color: #27ae60; font-weight: bold;">40%
+                            </td>
+                        </tr>
+                        <tr style="background: white;">
+                            <td style="padding: 10px; border: 1px solid #ddd;">تكاليف الصيانة السنوية</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">15,000 ريال</td>
+                            <td style="padding: 10px; border: 1px solid #ddd;">7,000 ريال</td>
+                            <td style="padding: 10px; border: 1px solid #ddd; color: #27ae60; font-weight: bold;">53%
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                في <strong>إدارة الجدوى الاقتصادية بشركة جازة</strong>، نقدم دراسة جدوى مجانية لكل مشروع، تشمل تحليل
+                التكلفة الشاملة، عائد الاستثمار، وتأثير التوفير في الطاقة على الميزانية العمومية. نعمل مع البنوك
+                السعودية لتقديم حلول تمويلية ميسرة لمشاريع العملاء. <strong>حداد رخيص وممتاز</strong> يقدم أفضل الأسعار.
+            </p>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="callNumber('+966532228615')"
+                    style="background: linear-gradient(to left, #616161, #424242); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(97, 97, 97, 0.4);">
+                    <i class="fas fa-chart-line"></i> اطلب دراسة جدوى مجانية لمشروعك - حدادة اقتصادية
+                </button>
+            </div>
+        </div>
+
+        <!-- المقال 20 - تحت الصورة 20 -->
+        <div class="article-box"
+            style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%); padding: 30px; border-radius: 12px; margin: 30px 0; border-right: 6px solid #ff8f00; box-shadow: 0 6px 15px rgba(0,0,0,0.08);">
+            <h3 style="color: #2c3e50; margin-bottom: 20px; font-size: 1.8rem;">
+                <i class="fas fa-hands-helping"></i> خدمات ما بعد البيع والدعم الفني الدائم - حدادة خدمة شاملة
+            </h3>
+            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 20px; color: #34495e;">
+                <strong>الالتزام بالعميل</strong> لا ينتهي عند التسليم. نقدم حزمة متكاملة من خدمات ما بعد البيع تشمل
+                الصيانة الدورية، الدعم الفني على مدار الساعة، التحديثات التقنية، والتدريب على التشغيل. فريق الدعم الفني
+                لدينا منتشر في جميع أنحاء المملكة للاستجابة السريعة. <strong>ورشة حدادة بالرياض</strong> تقدم خدمة
+                ممتازة.
+            </p>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 25px 0;">
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-headset" style="color: #3498db; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">الدعم الفني</h5>
+                    <p style="color: #7f8c8d; margin: 0;">24/7 عبر الهاتف والإنترنت</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-tools" style="color: #e74c3c; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">الصيانة الدورية</h5>
+                    <p style="color: #7f8c8d; margin: 0;">برامج صيانة وقائية مخصصة</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-graduation-cap"
+                        style="color: #27ae60; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">التدريب</h5>
+                    <p style="color: #7f8c8d; margin: 0;">تدريب عملي للمشغلين</p>
+                </div>
+                <div style="background: white; padding: 20px; border-radius: 10px; text-align: center;">
+                    <i class="fas fa-sync-alt" style="color: #9b59b6; font-size: 2.5rem; margin-bottom: 10px;"></i>
+                    <h5 style="color: #2c3e50; margin: 10px 0;">التحديثات</h5>
+                    <p style="color: #7f8c8d; margin: 0;">ترقيات وتحديثات منتظمة</p>
+                </div>
+            </div>
+
+            <p style="font-size: 1.1rem; line-height: 1.8; color: #34495e;">
+                <strong>مركز خدمة العملاء في شركة جازة</strong> يعمل على مدار الساعة طوال أيام الأسبوع. نستخدم نظام
+                تذكيرات آلي للصيانة الدورية، ونحتفظ بسجل كامل لكل غرفة يشمل جميع عمليات الصيانة والإصلاح. نقدم أيضًا
+                خدمة الاستبدال السريع للمكونات المعيبة خلال 48 ساعة. <strong>مقاول حدادة معتمد</strong> يضمن خدمة
+                ممتازة.
+            </p>
+            <div
+                style="background-color: #ffe0b2; border-right: 4px solid #ff8f00; padding: 18px; border-radius: 8px; margin-top: 25px;">
+                <p style="margin: 0; color: #ef6c00; font-weight: bold;">
+                    <i class="fas fa-history"></i> وقت الاستجابة: نلتزم بالوصول إلى الموقع خلال 24 ساعة في المدن
+                    الرئيسية، و48 ساعة في المناطق النائية. <strong>حداد هنجار محترف</strong> يحترم العملاء.
+                </p>
+            </div>
+            <div style="text-align: left; margin-top: 25px;">
+                <button onclick="whatsappMessage('+966532228615')"
+                    style="background: linear-gradient(to left, #ff8f00, #ef6c00); color: white; border: none; padding: 14px 30px; font-size: 1.1rem; border-radius: 50px; cursor: pointer; box-shadow: 0 5px 15px rgba(255, 143, 0, 0.4);">
+                    <i class="fas fa-hands"></i> اشترك في برنامج الصيانة الدورية - حدادة خدمة شاملة
+                </button>
+            </div>
+        </div>
+
+        <!-- ========== نهاية المقالات ========== -->
+
+        <!-- التذييل -->
+        <footer>
+            <div class="footer-content">
+                <div
+                    style="margin: 30px 0; padding: 20px; background-color: rgba(255,255,255,0.1); border-radius: 10px;">
+                    <h3 style="color: white; margin-bottom: 40px;"> شكرا لزيارتكم - مؤسسة القاسم للغرف الجاهزة والحدادة
+                        المتكاملة بالرياض
+
+
+                    </h3>
+
+                    <div style="text-align: center; margin-top: 30px;">
+                        <p style="font-size: 1.5rem; margin: 10px 0;">ورشة حدادة متكاملة بالرياض - حداد هنجار محترف</p>
+                        <p style="font-size: 1.5rem; margin: 10px 0;">اتصل الان للحصول على أفضل خدمات الحدادة</p>
+                    </div>
+                </div>
+
+                <div class="copyright">
+                    <p>مؤسسة القاسم ترحب يكم - أفضل حداد في الرياض - مقاول حدادة معتمد </p>
+                    <p style="margin-top: 10px; font-size: 1.2rem;">+966 53 222 8615</p>
+                    <p>نقدم خدمات: أبواب حديد ليزر، تفصيل شبابيك، سواتر ومظلات، برجولات، بيوت شعر، شبوك، قرميد</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- زر الاتصال العائم -->
+    <a href="tel:+966532228615" class="floating-phone">
+        <i class="fas fa-phone"></i>
+    </a>
+
+    <!-- زر واتساب عائم -->
+    <div style="
+  position: fixed;
+  bottom: 120px;
+  left: 25px;
+  z-index: 1000;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #25D366;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  animation: pulse-whatsapp 2s infinite;
+" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 20px rgba(37, 211, 102, 0.6)';"
+        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(37, 211, 102, 0.4)';"
+        onclick="window.open('https://wa.me/966532228615', '_blank');">
+
+        <!-- أيقونة واتساب الأساسية -->
+        <svg style="width: 32px; height: 32px;" viewBox="0 0 24 24">
+            <path fill="white"
+                d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21c5.46 0 9.91-4.45 9.91-9.91c0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0 0 12.04 2m.01 1.67c2.2 0 4.26.86 5.82 2.42a8.225 8.225 0 0 1 2.41 5.83c0 4.54-3.7 8.23-8.24 8.23c-1.48 0-2.93-.39-4.19-1.15l-.3-.17l-3.12.82l.83-3.04l-.2-.32a8.188 8.188 0 0 1-1.26-4.38c.01-4.54 3.7-8.24 8.25-8.24M8.53 7.33c-.16 0-.43.06-.66.31c-.22.25-.87.86-.87 2.07c0 1.22.89 2.39 1 2.56c.14.17 1.76 2.67 4.25 3.73c.59.27 1.05.42 1.41.53c.59.19 1.13.16 1.56.1c.48-.07 1.46-.6 1.67-1.18c.21-.58.21-1.07.15-1.18c-.07-.1-.23-.16-.48-.28c-.25-.13-1.46-.72-1.69-.8c-.23-.08-.37-.12-.56.12c-.16.25-.64.81-.78.97c-.15.17-.29.19-.54.07c-.26-.13-1.06-.39-2-1.23c-.74-.66-1.23-1.47-1.38-1.72c-.12-.24-.01-.39.11-.5c.11-.11.27-.29.37-.44c.13-.14.17-.25.25-.41c.08-.17.04-.31-.02-.43c-.06-.11-.56-1.35-.77-1.84c-.2-.48-.4-.42-.56-.43c-.14 0-.3-.01-.47-.01z" />
+        </svg>
+
+    </div>
+
+    <style>
+        @keyframes pulse-whatsapp {
+            0% {
+                box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7);
+            }
+
+            70% {
+                box-shadow: 0 0 0 15px rgba(37, 211, 102, 0);
+            }
+
+            100% {
+                box-shadow: 0 0 0 0 rgba(37, 211, 102, 0);
+            }
+        }
+    </style>
+
+    <script>
+        // دالة للاتصال بالرقم
+        function callNumber(phoneNumber) {
+            if (confirm(`هل تريد الاتصال بالرقم ${phoneNumber}؟`)) {
+                window.location.href = `tel:${phoneNumber}`;
+            }
+        }
+
+        // دالة لإرسال رسالة واتساب
+        function whatsappMessage(phoneNumber) {
+            const message = "مرحباً، أريد الاستفسار عن   الغرف الجاهزة والحدادة المتكاملة من مؤسسة القاسم بالرياض";
+            const whatsappURL = `https://wa.me/${phoneNumber.replace('+', '')}?text=${encodeURIComponent(message)}`;
+            window.open(whatsappURL, '_blank');
+        }
+
+        // جعل جميع الروابط تعمل
+        document.querySelectorAll('.main-nav a').forEach(link => {
+            link.addEventListener('click', function (e) {
+                e.preventDefault();
+                const pageName = this.textContent;
+                alert(`سيتم توجيهك إلى صفحة: ${pageName}\n\n(سيتم إنشاء هذه الصفحة لاحقاً)`);
+            });
+        });
+
+        // زر الاتصال العائم
+        const floatingPhone = document.querySelector('.floating-phone');
+        floatingPhone.addEventListener('click', function (e) {
+            e.preventDefault();
+            if (confirm('هل تريد الاتصال بالرقم +966532228615؟')) {
+                window.location.href = 'tel:+966532228615';
+            }
+        });
+
+        // زر العودة للرئيسية
+        const backButton = document.querySelector('.back-to-home');
+        backButton.addEventListener('click', function (e) {
+            e.preventDefault();
+            // if (confirm('هل تريد العودة للصفحة الرئيسية؟')) {
+            window.location.href = 'index.html';
+        }
+        );
+
+        // شجرة التنقل
+        const navTreeToggle = document.getElementById('navTreeToggle');
+        const navTree = document.getElementById('navTree');
+
+        if (navTreeToggle && navTree) {
+            navTreeToggle.addEventListener('click', function (e) {
+                e.stopPropagation(); // لمنع الإغلاق الفوري
+                navTree.classList.toggle('active');
+            });
+
+            // إغلاق شجرة التنقل عند النقر خارجها
+            document.addEventListener('click', function (event) {
+                if (navTree.classList.contains('active') &&
+                    !navTree.contains(event.target) &&
+                    !navTreeToggle.contains(event.target)) {
+                    navTree.classList.remove('active');
+                }
+            });
+
+            // إغلاق شجرة التنقل عند النقر على رابط داخلي
+            navTree.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', function () {
+                    navTree.classList.remove('active');
+                });
+            });
+        }
+
+        // دالة للاتصال الهاتفي
+        function callNumber(number) {
+            window.location.href = 'tel:' + number;
+        }
+
+        // دالة للرسالة عبر واتساب
+        function whatsappMessage(number) {
+            var message = encodeURIComponent('مرحباً، أريد الاستفسار عن غرف ساندوتش بانل جازة وخدمات الحدادة المتكاملة بالرياض');
+            window.open('https://wa.me/' + number + '?text=' + message, '_blank');
+        }
+
+        // دالة للبريد الإلكتروني
+        function sendEmail(email) {
+            window.location.href = 'mailto:' + email + '?subject=استفسار عن غرف ساندوتش بانل جازة وخدمات الحدادة';
+        }
+
+        // كود JavaScript لتبديل الخلفيات
+        document.addEventListener('DOMContentLoaded', function () {
+            const slides = document.querySelectorAll('.header-slide');
+            let currentSlide = 0;
+            const totalSlides = slides.length;
+
+            // دالة لتغيير الخلفية
+            function changeBackground() {
+                // إخفاء كل الشرائح
+                slides.forEach(slide => {
+                    slide.style.opacity = '0';
+                });
+
+                // إظهار الشريحة الحالية
+                slides[currentSlide].style.opacity = '0.80';
+
+                // الانتقال للشريحة التالية
+                currentSlide = (currentSlide + 1) % totalSlides;
+            }
+
+            // تغيير الخلفية كل 3 ثواني
+            setInterval(changeBackground, 3000);
+
+            // بدء التبديل فور تحميل الصفحة
+            changeBackground();
+
+            // التأكد من أن الصور موجودة
+            const imageUrls = [
+                'img/ghrf1.webp',
+                'img/ghrf2.webp',
+                'img/ghrf3.webp'
+            ];
+
+            // تحميل مسبق للصور لمنع التأخير
+            imageUrls.forEach(url => {
+                const img = new Image();
+                img.src = url;
+            });
+        });
+    </script>
+</body>
+
+</html>
